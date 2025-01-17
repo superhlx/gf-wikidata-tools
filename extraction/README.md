@@ -12,7 +12,9 @@ Modified from [gf-math](https://github.com/aarneranta/gf-math/tree/main/grammars
 
 ## Building the basic lexicon with just the Wikidata labels
 
-Do
+The first step is to collect the Wikidata labels that you want to have, from a list of QIDs (Wikidata item idenfiers of form Q*). This is covered in the subdirectory [data](/data). The directory contains an example file qid-lexicon.jsonl, which you can try out before fetching your own data.
+
+After you have created qid-lexicon.jsonl (or just want to use the example file already in data), you can perform lexicon extraction as follows:
 ```
   ./build_lexicon.py (-first|-added) <fr> <Fre> <STEPNUM>+
 ```
@@ -69,10 +71,12 @@ at least the following manually:
   which is a part of `gf-core`, but may also follow with `pip install pgf` for your architecture
 - [GF Resource Grammar Library](https://github.com/GrammaticalFramework/gf-rgl);
   pull the latest version, because it has some updates used in this project, and do
-  `make install` in its root directory. Also create a symlink to `gf-rgl/src/morphodict`
+  `make install` in its root directory. 
+- Create a symlink to `gf-rgl/src/morphodict`. Add your own language there if is not yet included. You can start with an empty Morphodict*.gf if you don't have any data; the only necessary thing is that this file exists.
 - [deptreepy](https://github.com/aarneranta/deptreepy), a Python library for analysing
   CoNLLU files, also providing a wrapper for UDPipe; create a symlink to its directory
-  from here
+  from here. 
+- Add your language to deptreepy/udpipe2_models.py if it is not yet there.
 
 All of this has been proven to work with Linux (Intel), Mac OS (Intel, ARM) and Windows (Intel),
 but Mac ARM and Windows may have some issues. To resolve them, don't hesitate to look at
