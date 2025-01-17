@@ -14,12 +14,14 @@ import os  ## for calling deptreepy
 import json
 from words_from_ud import words_main, gf_lin
 from gf_utils import *
+from config import *
 
-
-# first make a symlink to deptreepy
+# first make a symlink to deptreepy, then
 sys.path.append('deptreepy')
 import trees
 import operations
+
+# also make a symlink to gf-rgl/src/morphodict
 
 help_message = """  usage: build_lexicon.py (-first|-add)  <fr> <Fre> (-from=<Eng>)? <STEPNUM>+\n
   Step 0: preparations  
@@ -45,7 +47,18 @@ else:
     print(help_message)
     exit()
 
-from config import *
+EXTRACT_PGF_FILE = 'Extract' + LANG + 'Abs.pgf'
+EXTRACT_CNC_NAME = 'Extract' + LANG
+QLIST_FILE = OUT + 'qlist_' + LANG + '.json'
+NEW_QLIST_FILE = OUT + 'new_qlist_' + LANG + '.json'
+QDICT_FILE = OUT + 'qdict_' + LANG + '.json'
+CONLLU_PARSED_FILE = OUT + 'terms_' + LANG + '.conllu'
+UD_LEXICON_FILE = OUT + 'lexicon_' + LANG + '.json'
+MORPHODICT_CNC =  'MorphoDict' + LANG
+MORPHODICT_FILE = MORPHODICT_CNC + 'Abs.pgf'
+DOMAIN_WORDS_CNC_PREFIX = DOMAIN + 'Words'
+DOMAIN_WORDS_ABS = DOMAIN_WORDS_CNC_PREFIX + LANG + 'Abs'
+
 
 print('Processing language', LAN, '=', LANG, '\n')
 
