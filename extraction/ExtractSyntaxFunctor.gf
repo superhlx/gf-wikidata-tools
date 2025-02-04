@@ -32,10 +32,10 @@ lin
 
   PositA a = mkAP a ;
   AdAP ad ap = mkAP ad ap ;
-  AAdAP a ap = mkAP (lin AdA (mkAdv a)) ap ;
+  AAdAP a ap = mkAP (lin AdA (Syntax.mkAdv a)) ap ;
   PastPartAP v = Extend.PastPartAP (mkVPSlash (pmkV2 v)) ;
 
-  PrepNP prep np = mkAdv prep np ;
+  PrepNP prep np = Syntax.mkAdv prep np ;
 
 oper
   -- not used for parsing, but as replacements of Int-functions when used as lin terms,
