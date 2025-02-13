@@ -11,6 +11,8 @@ select * {
 }
 """
 
+help_message = "usage: analyse_wikidata (labels|descriptions|both|gf-labels) lang? infile? cat?"
+
 MODE = None
 if sys.argv[1:]:
     MODE = sys.argv[1]
@@ -22,9 +24,15 @@ if sys.argv[2:]:
 
 FIRST_DATA_FILE = 'City_Query_example.json'
 
-DATA_FILE = 'City_merged.jsonl'
+INFILE = 'City_merged.jsonl'
+if sys.argv[3:]:
+    INFILE = sys.argv[3]
 
-OUTFILE = 'City.jsonl'
+
+CAT = 'Country'
+if sys.argv[4:]:
+    INFILE = sys.argv[4]
+
 
 def reorder(item):
     return {
@@ -47,6 +55,19 @@ def reorder(item):
             }
           }
 
+def quote(s):
+    return '\"' + s + '\"'
+
+def mk_gf(ditem, lang, cat):
+    id = d['url']
+    eng = '_'.join(str(d['labels']['en']).split())
+    label = d['labels'][LANG]
+    prefix = 'http://www.wikidata.org/entity/'
+    fun = '_'.join([id[len(prefix):], eng, cat])
+    print('fun', fun, ':', cat, ';')
+    if label:
+        print('lin', fun, '=', 'mk' + cat, quote(label), ';')
+
 
 # reorder the first version of data
 if __name__ == '__main__':
@@ -62,7 +83,7 @@ if __name__ == '__main__':
         print("# Descriptions:", {lang: len([
               d for d in data if d['descriptions'][lang]]) for lang in languages})
     else:
-        with open(DATA_FILE) as file:
+        with open(INFILE) as file:
             data = [json.loads(line) for line in file]
             languages = data[0]['labels'].keys()
 
@@ -75,6 +96,9 @@ if __name__ == '__main__':
         elif MODE == 'labels':
             for d in data:
                 print(d['labels'][LANG])
+        elif MODE == 'gf-labels':
+            for d in data:
+                print(mk_gf(d, LANG, CAT))
         elif MODE == 'descriptions':
             for d in data:
                 print(d['descriptions'][LANG])
@@ -82,6 +106,8 @@ if __name__ == '__main__':
         elif MODE == 'both':
             for d in data:
                 print(d['labels'][LANG], '\t', d['descriptions'][LANG])
+        else:
+            print(help_message)
 
             
 
