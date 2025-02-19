@@ -6,6 +6,8 @@ cat
   Region ;
   Kind ;
   Attribute ;
+
+flags startcat=Description ;
   
 fun
   CityDescription : Kind -> Location -> Description ;
