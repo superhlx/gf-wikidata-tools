@@ -84,7 +84,10 @@ if __name__ == '__main__':
               d for d in data if d['descriptions'][lang]]) for lang in languages})
     else:
         with open(INFILE) as file:
-            data = [json.loads(line) for line in file]
+            if INFILE.endswith(',jsonl'):
+                data = [json.loads(line) for line in file]
+            else:
+                data = json.load(file)
             languages = data[0]['labels'].keys()
 
         if MODE == 'statistics':
