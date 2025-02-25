@@ -1,0 +1,3821 @@
+[
+  {
+    "url": "http://www.wikidata.org/entity/Q43287",
+    "labels": {
+      "en": "German Empire",
+      "el": "Γερμανική Αυτοκρατορία",
+      "jp": "ドイツ帝国",
+      "sv": "Kejsardömet Tyskland",
+      "zh": "德意志帝國",
+      "bn": "জার্মান সাম্রাজ্য"
+    },
+    "descriptions": {
+      "en": "German nation-state in Central Europe from 1871 to 1918",
+      "el": "Αυτοκρατορία στην κεντρική Ευρώπη",
+      "jp": "かつて存在した中央ヨーロッパの帝国",
+      "sv": "kejsardöme i Centraleuropa åren 1871–1918",
+      "zh": "1871年普鲁士王國建立的德意志第二帝國",
+      "bn": "১৮৭১ থেকে ১৯১৮ পর্যন্ত স্থায়ী সাম্রাজ্য"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q16",
+    "labels": {
+      "en": "Canada",
+      "el": "Καναδάς",
+      "jp": "カナダ",
+      "sv": "Kanada",
+      "zh": "加拿大",
+      "bn": "কানাডা"
+    },
+    "descriptions": {
+      "en": "country in North America",
+      "el": "χώρα της Βόρειας Αμερικής",
+      "jp": "北アメリカの国",
+      "sv": "konstitutionell monarki i Nordamerika",
+      "zh": "北美洲國家",
+      "bn": "উত্তর আমেরিকা মহাদেশের উত্তরভাগের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q258",
+    "labels": {
+      "en": "South Africa",
+      "el": "Νότια Αφρική",
+      "jp": "南アフリカ共和国",
+      "sv": "Sydafrika",
+      "zh": "南非",
+      "bn": "দক্ষিণ আফ্রিকা"
+    },
+    "descriptions": {
+      "en": "country in southern Africa",
+      "el": null,
+      "jp": "アフリカ南部の国",
+      "sv": "republik i södra Afrika",
+      "zh": "非洲南部國家",
+      "bn": "আফ্রিকা মহাদেশের সর্বদক্ষিণের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q262",
+    "labels": {
+      "en": "Algeria",
+      "el": "Αλγερία",
+      "jp": "アルジェリア",
+      "sv": "Algeriet",
+      "zh": "阿爾及利亞",
+      "bn": "আলজেরিয়া"
+    },
+    "descriptions": {
+      "en": "country in North Africa",
+      "el": "χώρα της βορειοδυτικής Αφρικής",
+      "jp": "アフリカ北部の国",
+      "sv": "republik i Nordafrika",
+      "zh": "北非國家",
+      "bn": "উত্তর আফ্রিকার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q17",
+    "labels": {
+      "en": "Japan",
+      "el": "Ιαπωνία",
+      "jp": "日本",
+      "sv": "Japan",
+      "zh": "日本",
+      "bn": "জাপান"
+    },
+    "descriptions": {
+      "en": "island country in East Asia",
+      "el": "νησιωτική χώρα της ανατολικής Ασίας",
+      "jp": "東アジアの国",
+      "sv": "konstitutionell monarki i Östasien",
+      "zh": "東亞國家",
+      "bn": "পূর্ব এশিয়ার দ্বীপরাষ্ট্র ও সাংবিধানিক রাজতন্ত্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q265",
+    "labels": {
+      "en": "Uzbekistan",
+      "el": "Ουζμπεκιστάν",
+      "jp": "ウズベキスタン",
+      "sv": "Uzbekistan",
+      "zh": "乌兹别克斯坦",
+      "bn": "উজবেকিস্তান"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central Asia",
+      "el": "χώρα της κεντρικής Ασίας",
+      "jp": "中央アジアの国",
+      "sv": "republik i Centralasien",
+      "zh": "中亞國家",
+      "bn": "মধ্য এশিয়ার একটি স্থলবেষ্টিত দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q20",
+    "labels": {
+      "en": "Norway",
+      "el": "Νορβηγία",
+      "jp": "ノルウェー",
+      "sv": "Norge",
+      "zh": "挪威",
+      "bn": "নরওয়ে"
+    },
+    "descriptions": {
+      "en": "country in Northern Europe",
+      "el": "χώρα της βόρειας Ευρώπης",
+      "jp": "北ヨーロッパの国",
+      "sv": "konstitutionell monarki i Nordeuropa",
+      "zh": "北歐國家",
+      "bn": "ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q298",
+    "labels": {
+      "en": "Chile",
+      "el": "Χιλή",
+      "jp": "チリ",
+      "sv": "Chile",
+      "zh": "智利",
+      "bn": "চিলি"
+    },
+    "descriptions": {
+      "en": "country in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকা মহাদেশের দক্ষিণভাগের দেশ; প্রশান্ত মহাসাগরের উপকূলে অবস্থিত"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q27",
+    "labels": {
+      "en": "Ireland",
+      "el": "Ιρλανδία",
+      "jp": "アイルランド",
+      "sv": "Irland",
+      "zh": "愛爾蘭共和國",
+      "bn": "আয়ারল্যান্ড"
+    },
+    "descriptions": {
+      "en": "country in Northwestern Europe",
+      "el": "χώρα της βορειοδυτικής Ευρώπης",
+      "jp": "西ヨーロッパの国",
+      "sv": "republik omfattande större delen av ön Irland",
+      "zh": "西歐國家",
+      "bn": "ইউরোপের উত্তর-পশ্চিমাঞ্চলীয় রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q334",
+    "labels": {
+      "en": "Singapore",
+      "el": "Σιγκαπούρη",
+      "jp": "シンガポール",
+      "sv": "Singapore",
+      "zh": "新加坡",
+      "bn": "সিঙ্গাপুর"
+    },
+    "descriptions": {
+      "en": "sovereign island country and city-state in maritime Southeast Asia",
+      "el": "κυρίαρχη πόλη-κράτος στη Νοτιοανατολική Ασία",
+      "jp": "東南アジアの国",
+      "sv": "republik, önation och stadsstat i Sydostasien",
+      "zh": "東南亞島國及城邦",
+      "bn": "দক্ষিণ-পূর্ব এশিয়ার একটি দ্বীপরাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q28",
+    "labels": {
+      "en": "Hungary",
+      "el": "Ουγγαρία",
+      "jp": "ハンガリー",
+      "sv": "Ungern",
+      "zh": "匈牙利",
+      "bn": "হাঙ্গেরি"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα της κεντρικής Ευρώπης",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Centraleuropa",
+      "zh": "中歐國家",
+      "bn": "মধ্য ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q347",
+    "labels": {
+      "en": "Liechtenstein",
+      "el": "Λίχτενσταϊν",
+      "jp": "リヒテンシュタイン",
+      "sv": "Liechtenstein",
+      "zh": "列支敦斯登",
+      "bn": "লিশটেনস্টাইন"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα στην κεντρική Ευρώπη",
+      "jp": "西ヨーロッパの国",
+      "sv": "furstendöme i Centraleuropa",
+      "zh": "中歐國家",
+      "bn": "ইউরোপের একটি ছোট্ট রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q398",
+    "labels": {
+      "en": "Bahrain",
+      "el": "Μπαχρέιν",
+      "jp": "バーレーン",
+      "sv": "Bahrain",
+      "zh": "巴林",
+      "bn": "বাহরাইন"
+    },
+    "descriptions": {
+      "en": "country in the Persian Gulf",
+      "el": "Χώρα στη Δυτική Ασία",
+      "jp": "西アジアの国",
+      "sv": "konstitutionell monarki i Persiska viken i Sydvästasien",
+      "zh": "西亞島國",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q29",
+    "labels": {
+      "en": "Spain",
+      "el": "Ισπανία",
+      "jp": "スペイン",
+      "sv": "Spanien",
+      "zh": "西班牙",
+      "bn": "স্পেন"
+    },
+    "descriptions": {
+      "en": "country in southwestern Europe with territories in Africa",
+      "el": "χώρα της νοτιοδυτικής Ευρώπης",
+      "jp": "南ヨーロッパの国",
+      "sv": "konstitutionell monarki i Sydeuropa",
+      "zh": "西南歐國家",
+      "bn": "আফ্রিকার অঞ্চল সহ দক্ষিণ-পশ্চিম ইউরোপের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q399",
+    "labels": {
+      "en": "Armenia",
+      "el": "Αρμενία",
+      "jp": "アルメニア",
+      "sv": "Armenien",
+      "zh": "亞美尼亞",
+      "bn": "আর্মেনিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in the South Caucasus region of Eurasia",
+      "el": null,
+      "jp": "西アジアにある共和制国家",
+      "sv": "republik i Östeuropa-Sydvästasien",
+      "zh": "高加索地區國家",
+      "bn": "দক্ষিণ ককেসাস অঞ্চলের একটি রাষ্ট্র; পশ্চিম এশিয়া ও পূর্ব ইউরোপের মধ্যে অবস্থিত"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q30",
+    "labels": {
+      "en": "United States",
+      "el": "Ηνωμένες Πολιτείες Αμερικής",
+      "jp": "アメリカ合衆国",
+      "sv": "USA",
+      "zh": "美國",
+      "bn": "মার্কিন যুক্তরাষ্ট্র"
+    },
+    "descriptions": {
+      "en": "country primarily located in North America",
+      "el": "χώρα της Βόρειας Αμερικής",
+      "jp": "北アメリカの国",
+      "sv": "federal republik i Nordamerika",
+      "zh": "北美洲國家",
+      "bn": "উত্তর আমেরিকা মহাদেশের মধ্যভাগের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q403",
+    "labels": {
+      "en": "Serbia",
+      "el": "Σερβία",
+      "jp": "セルビア",
+      "sv": "Serbien",
+      "zh": "塞爾維亞",
+      "bn": "সার্বিয়া"
+    },
+    "descriptions": {
+      "en": "country in Southeast Europe",
+      "el": "χώρα της Ευρώπης στα Βαλκάνια",
+      "jp": "東南ヨーロッパにある共和制国家",
+      "sv": "republik i Sydeuropa",
+      "zh": "東南歐國家",
+      "bn": "দক্ষিণ-পূর্ব ইউরোপের একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q408",
+    "labels": {
+      "en": "Australia",
+      "el": "Αυστραλία",
+      "jp": "オーストラリア",
+      "sv": "Australien",
+      "zh": "澳大利亚",
+      "bn": "অস্ট্রেলিয়া"
+    },
+    "descriptions": {
+      "en": "country in Oceania",
+      "el": "χώρα στην Αυστραλιανή ήπειρο",
+      "jp": "オセアニアの国",
+      "sv": "konstitutionell monarki i Oceanien",
+      "zh": "大洋洲國家",
+      "bn": "ওশেনিয়া মহাদেশে অবস্থিত একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q31",
+    "labels": {
+      "en": "Belgium",
+      "el": "Βέλγιο",
+      "jp": "ベルギー",
+      "sv": "Belgien",
+      "zh": "比利時",
+      "bn": "বেলজিয়াম"
+    },
+    "descriptions": {
+      "en": "country in western Europe",
+      "el": "χώρα της δυτικής Ευρώπης",
+      "jp": "西ヨーロッパの国",
+      "sv": "konstitutionell monarki i Västeuropa",
+      "zh": "西歐國家",
+      "bn": "পশ্চিম ইউরোপের যুক্তরাষ্ট্রীয় সাংবিধানিক রাজতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q414",
+    "labels": {
+      "en": "Argentina",
+      "el": "Αργεντινή",
+      "jp": "アルゼンチン",
+      "sv": "Argentina",
+      "zh": "阿根廷",
+      "bn": "আর্জেন্টিনা"
+    },
+    "descriptions": {
+      "en": "sovereign state in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "förbundsrepublik i Sydamerika",
+      "zh": "美洲南部國家",
+      "bn": "দক্ষিণ আমেরিকার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q419",
+    "labels": {
+      "en": "Peru",
+      "el": "Περού",
+      "jp": "ペルー",
+      "sv": "Peru",
+      "zh": "秘鲁",
+      "bn": "পেরু"
+    },
+    "descriptions": {
+      "en": "sovereign state in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q32",
+    "labels": {
+      "en": "Luxembourg",
+      "el": "Λουξεμβούργο",
+      "jp": "ルクセンブルク",
+      "sv": "Luxemburg",
+      "zh": "卢森堡",
+      "bn": "লুক্সেমবার্গ"
+    },
+    "descriptions": {
+      "en": "country in Northwestern Europe",
+      "el": "χώρα της δυτικής Ευρώπης",
+      "jp": "西ヨーロッパの国",
+      "sv": "storhertigdöme i Västeuropa",
+      "zh": "歐洲國家",
+      "bn": "পশ্চিম ইউরোপের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q423",
+    "labels": {
+      "en": "North Korea",
+      "el": "Βόρεια Κορέα",
+      "jp": "朝鮮民主主義人民共和国",
+      "sv": "Nordkorea",
+      "zh": "朝鮮民主主義人民共和國",
+      "bn": "উত্তর কোরিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in East Asia",
+      "el": "χώρα της ανατολικής Ασίας",
+      "jp": "東アジアの国",
+      "sv": "republik i Östasien",
+      "zh": "東北亞國家",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q424",
+    "labels": {
+      "en": "Cambodia",
+      "el": "Καμπότζη",
+      "jp": "カンボジア",
+      "sv": "Kambodja",
+      "zh": "柬埔寨",
+      "bn": "কম্বোডিয়া"
+    },
+    "descriptions": {
+      "en": "country in Southeast Asia",
+      "el": "χώρα της νοτιοανατολικής Ασίας",
+      "jp": "東南アジアの国",
+      "sv": "konstitutionell monarki i Sydostasien",
+      "zh": "東南亞國家",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q33",
+    "labels": {
+      "en": "Finland",
+      "el": "Φινλανδία",
+      "jp": "フィンランド",
+      "sv": "Finland",
+      "zh": "芬蘭",
+      "bn": "ফিনল্যান্ড"
+    },
+    "descriptions": {
+      "en": "country in Northern Europe",
+      "el": "χώρα της βόρειας Ευρώπης",
+      "jp": "北ヨーロッパの国",
+      "sv": "republik i Nordeuropa",
+      "zh": "北歐國家",
+      "bn": "উত্তর ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q34",
+    "labels": {
+      "en": "Sweden",
+      "el": "Σουηδία",
+      "jp": "スウェーデン",
+      "sv": "Sverige",
+      "zh": "瑞典",
+      "bn": "সুইডেন"
+    },
+    "descriptions": {
+      "en": "country in Northern Europe",
+      "el": "χώρα της βόρειας Ευρώπης",
+      "jp": "北ヨーロッパの国",
+      "sv": "konstitutionell monarki i Nordeuropa",
+      "zh": "北歐國家",
+      "bn": "উত্তর ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q36",
+    "labels": {
+      "en": "Poland",
+      "el": "Πολωνία",
+      "jp": "ポーランド",
+      "sv": "Polen",
+      "zh": "波蘭",
+      "bn": "পোল্যান্ড"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα της κεντρικής Ευρώπης",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Centraleuropa",
+      "zh": "中歐國家",
+      "bn": "ইউরোপ মহাদেশের মধ্যস্থলের একটি রাষ্ট্র ও ঐতিহাসিক অঞ্চল"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q574",
+    "labels": {
+      "en": "Timor-Leste",
+      "el": "Ανατολικό Τιμόρ",
+      "jp": "東ティモール",
+      "sv": "Östtimor",
+      "zh": "東帝汶",
+      "bn": "পূর্ব তিমুর"
+    },
+    "descriptions": {
+      "en": "sovereign state situated on several islands in Southeast Asia",
+      "el": null,
+      "jp": "東南アジアの国",
+      "sv": "republik i Sydostasien",
+      "zh": "東南亞國家",
+      "bn": "দক্ষিণ -পূর্ব এশিয়ার একটি সার্বভৌম দ্বীপরাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q657",
+    "labels": {
+      "en": "Chad",
+      "el": "Τσαντ",
+      "jp": "チャド",
+      "sv": "Tchad",
+      "zh": "乍得",
+      "bn": "চাদ"
+    },
+    "descriptions": {
+      "en": "sovereign state in central Africa",
+      "el": "κράτος της Αφρικής",
+      "jp": "アフリカ中部の内陸国",
+      "sv": "republik i Centralafrika",
+      "zh": "非洲中部国家",
+      "bn": "মধ্য আফ্রিকান রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q37",
+    "labels": {
+      "en": "Lithuania",
+      "el": "Λιθουανία",
+      "jp": "リトアニア",
+      "sv": "Litauen",
+      "zh": "立陶宛",
+      "bn": "লিথুয়ানিয়া"
+    },
+    "descriptions": {
+      "en": "country in northeastern Europe",
+      "el": "χώρα της ανατολικής Ευρώπης",
+      "jp": "北ヨーロッパの国",
+      "sv": "republik i Nordeuropa",
+      "zh": "東北歐國家",
+      "bn": "উত্তর-পূর্ব ইউরোপের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q38",
+    "labels": {
+      "en": "Italy",
+      "el": "Ιταλία",
+      "jp": "イタリア",
+      "sv": "Italien",
+      "zh": "意大利",
+      "bn": "ইতালি"
+    },
+    "descriptions": {
+      "en": "country in Southern Europe",
+      "el": "χώρα της νότιας Ευρώπης",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik i Sydeuropa",
+      "zh": "南歐國家",
+      "bn": "দক্ষিণাঞ্চলীয় ইউরোপের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q664",
+    "labels": {
+      "en": "New Zealand",
+      "el": "Νέα Ζηλανδία",
+      "jp": "ニュージーランド",
+      "sv": "Nya Zeeland",
+      "zh": "新西兰",
+      "bn": "নিউজিল্যান্ড"
+    },
+    "descriptions": {
+      "en": "island country in the southwest Pacific Ocean",
+      "el": "Χώρα της Ωκεανίας",
+      "jp": "オセアニアの島国",
+      "sv": "östat i sydöstra Stilla havet",
+      "zh": "大洋洲國家",
+      "bn": "ওশেনিয়া মহাদেশের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q668",
+    "labels": {
+      "en": "India",
+      "el": "Ινδία",
+      "jp": "インド",
+      "sv": "Indien",
+      "zh": "印度",
+      "bn": "ভারত"
+    },
+    "descriptions": {
+      "en": "country in South Asia",
+      "el": "ομοσπονδιακή δημοκρατία της νότιας Ασίας",
+      "jp": "南アジアの国",
+      "sv": "förbundsrepublik i Sydasien",
+      "zh": "南亞國家",
+      "bn": "দক্ষিণ এশিয়ার সার্বভৌম দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q672",
+    "labels": {
+      "en": "Tuvalu",
+      "el": "Τουβαλού",
+      "jp": "ツバル",
+      "sv": "Tuvalu",
+      "zh": "吐瓦魯",
+      "bn": "টুভালু"
+    },
+    "descriptions": {
+      "en": "island sovereign state in Oceania",
+      "el": null,
+      "jp": "南太平洋の島国",
+      "sv": "konstitutionell monarki i Polynesien i Stilla havet",
+      "zh": "大洋洲島國",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q39",
+    "labels": {
+      "en": "Switzerland",
+      "el": "Ελβετία",
+      "jp": "スイス",
+      "sv": "Schweiz",
+      "zh": "瑞士",
+      "bn": "সুইজারল্যান্ড"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα της δυτικοκεντρικής Ευρώπης",
+      "jp": "西ヨーロッパの国",
+      "sv": "förbundsrepublik i Centraleuropa",
+      "zh": "歐洲中部國家",
+      "bn": "ইউরোপ মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q678",
+    "labels": {
+      "en": "Tonga",
+      "el": "Τόνγκα",
+      "jp": "トンガ",
+      "sv": "Tonga",
+      "zh": "東加",
+      "bn": "টোঙ্গা"
+    },
+    "descriptions": {
+      "en": "sovereign state in Oceania, situated on an archipelago",
+      "el": null,
+      "jp": "南太平洋の島国",
+      "sv": "konstitutionell monarki i Stilla havet",
+      "zh": "南太平島國",
+      "bn": "ওশেনিয়া মহাদেশের একটি সার্বভৌম দ্বীপরাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q683",
+    "labels": {
+      "en": "Samoa",
+      "el": "Σαμόα",
+      "jp": "サモア",
+      "sv": "Samoa",
+      "zh": "萨摩亚",
+      "bn": "সামোয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state made up of six islands in the Pacific Ocean",
+      "el": null,
+      "jp": "南太平洋の島国",
+      "sv": "land i Stilla havet",
+      "zh": "國家",
+      "bn": "ওশেনিয়া মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q40",
+    "labels": {
+      "en": "Austria",
+      "el": "Αυστρία",
+      "jp": "オーストリア",
+      "sv": "Österrike",
+      "zh": "奧地利",
+      "bn": "অস্ট্রিয়া"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα της κεντρικής Ευρώπης",
+      "jp": "西ヨーロッパの国",
+      "sv": "förbundsrepublik i Centraleuropa",
+      "zh": "中歐國家",
+      "bn": "মধ্য ইউরোপের যুক্তরাষ্ট্রীয় প্রজাতন্ত্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q41",
+    "labels": {
+      "en": "Greece",
+      "el": "Ελλάδα",
+      "jp": "ギリシャ",
+      "sv": "Grekland",
+      "zh": "希腊",
+      "bn": "গ্রিস"
+    },
+    "descriptions": {
+      "en": "country in Southeast Europe",
+      "el": "χώρα στη Νοτιοανατολική Ευρώπη",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik i Sydeuropa",
+      "zh": "歐洲東南部國家",
+      "bn": "দক্ষিণ-পূর্ব ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q685",
+    "labels": {
+      "en": "Solomon Islands",
+      "el": "Νησιά Σολομώντα",
+      "jp": "ソロモン諸島",
+      "sv": "Salomonöarna",
+      "zh": "所罗门群岛",
+      "bn": "সলোমন দ্বীপপুঞ্জ"
+    },
+    "descriptions": {
+      "en": "island sovereign state in Oceania",
+      "el": "κράτος στον Ειρηνικό Ωκεανό",
+      "jp": "南太平洋の島国",
+      "sv": "konstitutionell monarki i Stilla havet",
+      "zh": "南太平洋島國",
+      "bn": "ওশেনিয়া দ্বীপ সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q686",
+    "labels": {
+      "en": "Vanuatu",
+      "el": "Βανουάτου",
+      "jp": "バヌアツ",
+      "sv": "Vanuatu",
+      "zh": "萬那杜",
+      "bn": "ভানুয়াতু"
+    },
+    "descriptions": {
+      "en": "island country in Oceania",
+      "el": "χώρα στην Ωκεανία",
+      "jp": "南太平洋の島国",
+      "sv": "östat i Melanesien i Stilla havet",
+      "zh": "南太平洋岛国",
+      "bn": "ওশেনিয়া মহাদেশের মধ্যে একটি দ্বীপপুঞ্জে অবস্থিত একটি সার্বভৌম দ্বীপরাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q691",
+    "labels": {
+      "en": "Papua New Guinea",
+      "el": "Παπούα Νέα Γουινέα",
+      "jp": "パプアニューギニア",
+      "sv": "Papua Nya Guinea",
+      "zh": "巴布亚新几内亚",
+      "bn": "পাপুয়া নিউগিনি"
+    },
+    "descriptions": {
+      "en": "country in Oceania",
+      "el": null,
+      "jp": "オセアニアの国",
+      "sv": "konstitutionell monarki i Oceanien",
+      "zh": "大洋洲國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q43",
+    "labels": {
+      "en": "Turkey",
+      "el": "Τουρκία",
+      "jp": "トルコ",
+      "sv": "Turkiet",
+      "zh": "土耳其",
+      "bn": "তুরস্ক"
+    },
+    "descriptions": {
+      "en": "country straddling Southeast Europe and West Asia",
+      "el": "Χώρα της δυτικής Ασίας και της νοτιοανατολικής Ευρώπης",
+      "jp": "南ヨーロッパと西アジアに跨がる国",
+      "sv": "republik i Eurasien",
+      "zh": "亚洲国家",
+      "bn": "ইউরেশিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q695",
+    "labels": {
+      "en": "Palau",
+      "el": "Παλάου",
+      "jp": "パラオ",
+      "sv": "Palau",
+      "zh": "帛琉",
+      "bn": "পালাউ"
+    },
+    "descriptions": {
+      "en": "island sovereign state in Oceania",
+      "el": null,
+      "jp": "太平洋の島国",
+      "sv": "östat i Stilla havet",
+      "zh": "大洋洲島國",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q697",
+    "labels": {
+      "en": "Nauru",
+      "el": "Ναουρού",
+      "jp": "ナウル",
+      "sv": "Nauru",
+      "zh": "瑙鲁",
+      "bn": "নাউরু"
+    },
+    "descriptions": {
+      "en": "country in Oceania",
+      "el": null,
+      "jp": "南太平洋にある共和制国家",
+      "sv": "republik och östat i Stilla havet",
+      "zh": "大洋洲國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q45",
+    "labels": {
+      "en": "Portugal",
+      "el": "Πορτογαλία",
+      "jp": "ポルトガル",
+      "sv": "Portugal",
+      "zh": "葡萄牙",
+      "bn": "পর্তুগাল"
+    },
+    "descriptions": {
+      "en": "country in Southwestern Europe",
+      "el": "χώρα της νοτιοδυτικής Ευρώπης",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik i Sydeuropa",
+      "zh": "歐洲西南部國家",
+      "bn": "ইউরোপের দক্ষিণ-পশ্চিমাঞ্চলীয় রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q702",
+    "labels": {
+      "en": "Federated States of Micronesia",
+      "el": "Ομόσπονδες Πολιτείες της Μικρονησίας",
+      "jp": "ミクロネシア連邦",
+      "sv": "Mikronesiska federationen",
+      "zh": "密克罗尼西亚联邦",
+      "bn": "মাইক্রোনেশিয়া যুক্তরাজ্য"
+    },
+    "descriptions": {
+      "en": "island sovereign state in Oceania",
+      "el": "χώρα της Ωκεανίας",
+      "jp": "太平洋の島国",
+      "sv": "federal republik i Mikronesien i Stilla havet",
+      "zh": "西太平洋岛国",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q77",
+    "labels": {
+      "en": "Uruguay",
+      "el": "Ουρουγουάη",
+      "jp": "ウルグアイ",
+      "sv": "Uruguay",
+      "zh": "烏拉圭",
+      "bn": "উরুগুয়ে"
+    },
+    "descriptions": {
+      "en": "sovereign state in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকা মহাদেশের একটি দেশ।"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q710",
+    "labels": {
+      "en": "Kiribati",
+      "el": "Κιριμπάτι",
+      "jp": "キリバス",
+      "sv": "Kiribati",
+      "zh": "吉里巴斯",
+      "bn": "কিরিবাস"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the central Pacific Ocean",
+      "el": null,
+      "jp": "太平洋の島国",
+      "sv": "örepublik i Mikronesien i Stilla havet",
+      "zh": "太平洋島嶼國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q709",
+    "labels": {
+      "en": "Marshall Islands",
+      "el": "Νησιά Μάρσαλ",
+      "jp": "マーシャル諸島",
+      "sv": "Marshallöarna",
+      "zh": "馬紹爾群島",
+      "bn": "মার্শাল দ্বীপপুঞ্জ"
+    },
+    "descriptions": {
+      "en": "country near the equator in the Pacific Ocean",
+      "el": "χώρα στην Ωκεανία",
+      "jp": "太平洋の島国",
+      "sv": "republik i Mikronesien",
+      "zh": "國家",
+      "bn": "ওশেনিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q79",
+    "labels": {
+      "en": "Egypt",
+      "el": "Αίγυπτος",
+      "jp": "エジプト",
+      "sv": "Egypten",
+      "zh": "埃及",
+      "bn": "মিশর"
+    },
+    "descriptions": {
+      "en": "country in Northeast Africa and Southwest Asia",
+      "el": "χώρα της βορειοανατολικής Αφρικής",
+      "jp": "北アフリカと西アジアに跨がる国",
+      "sv": "republik i Nordafrika",
+      "zh": "非洲北部與亞洲國家",
+      "bn": "আফ্রিকার উত্তর-পূর্ব কোণে অবস্থিত আরব রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q711",
+    "labels": {
+      "en": "Mongolia",
+      "el": "Μογγολία",
+      "jp": "モンゴル国",
+      "sv": "Mongoliet",
+      "zh": "蒙古國",
+      "bn": "মঙ্গোলিয়া"
+    },
+    "descriptions": {
+      "en": "country in East Asia",
+      "el": null,
+      "jp": "東アジアの国",
+      "sv": "republik i Östasien",
+      "zh": "東亞國家",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q712",
+    "labels": {
+      "en": "Fiji",
+      "el": "Φίτζι",
+      "jp": "フィジー",
+      "sv": "Fiji",
+      "zh": "斐濟",
+      "bn": "ফিজি"
+    },
+    "descriptions": {
+      "en": "island sovereign state in Oceania",
+      "el": "Χώρα",
+      "jp": "南太平洋の島国",
+      "sv": "östat och republik i Melanesien i södra Stilla havet",
+      "zh": "南太平洋的国家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q717",
+    "labels": {
+      "en": "Venezuela",
+      "el": "Βενεζουέλα",
+      "jp": "ベネズエラ",
+      "sv": "Venezuela",
+      "zh": "委內瑞拉",
+      "bn": "ভেনেজুয়েলা"
+    },
+    "descriptions": {
+      "en": "sovereign state in northern South America",
+      "el": "Χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "förbundsrepublik i Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকা মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q730",
+    "labels": {
+      "en": "Suriname",
+      "el": "Σουρινάμ",
+      "jp": "スリナム",
+      "sv": "Surinam",
+      "zh": "蘇利南",
+      "bn": "সুরিনাম"
+    },
+    "descriptions": {
+      "en": "country in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i norra Sydamerika",
+      "zh": "南美洲北部的國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q96",
+    "labels": {
+      "en": "Mexico",
+      "el": "Μεξικό",
+      "jp": "メキシコ",
+      "sv": "Mexiko",
+      "zh": "墨西哥",
+      "bn": "মেক্সিকো"
+    },
+    "descriptions": {
+      "en": "country in North America",
+      "el": "χώρα στη Βόρεια Αμερική",
+      "jp": "中央アメリカの国",
+      "sv": "förbundsrepublik i Nordamerika",
+      "zh": "北美洲國家",
+      "bn": "উত্তর আমেরিকা মহাদেশের দক্ষিণভাগের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q114",
+    "labels": {
+      "en": "Kenya",
+      "el": "Κένυα",
+      "jp": "ケニア",
+      "sv": "Kenya",
+      "zh": "肯尼亚",
+      "bn": "কেনিয়া"
+    },
+    "descriptions": {
+      "en": "country in Eastern Africa",
+      "el": "χώρα της ανατολικής Αφρικής",
+      "jp": "アフリカ東部の国",
+      "sv": "republik i Östafrika",
+      "zh": "東非國家",
+      "bn": "পূর্ব আফ্রিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q733",
+    "labels": {
+      "en": "Paraguay",
+      "el": "Παραγουάη",
+      "jp": "パラグアイ",
+      "sv": "Paraguay",
+      "zh": "巴拉圭",
+      "bn": "প্যারাগুয়ে"
+    },
+    "descriptions": {
+      "en": "sovereign state in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i Sydamerika",
+      "zh": "南美洲国家",
+      "bn": "দক্ষিণ আমেরিকার দক্ষিণ-মধ্যভাগে অবস্থিত একটি ভূমিবেষ্টিত রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q115",
+    "labels": {
+      "en": "Ethiopia",
+      "el": "Αιθιοπία",
+      "jp": "エチオピア",
+      "sv": "Etiopien",
+      "zh": "埃塞俄比亚",
+      "bn": "ইথিওপিয়া"
+    },
+    "descriptions": {
+      "en": "country in the Horn of Africa",
+      "el": "χώρα της ανατολικής Αφρικής",
+      "jp": "アフリカ東部の国",
+      "sv": "förbundsrepublik i Östafrika",
+      "zh": "非洲國家",
+      "bn": "উত্তর-পূর্ব আফ্রিকার একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q117",
+    "labels": {
+      "en": "Ghana",
+      "el": "Γκάνα",
+      "jp": "ガーナ",
+      "sv": "Ghana",
+      "zh": "迦納",
+      "bn": "ঘানা"
+    },
+    "descriptions": {
+      "en": "country in West Africa",
+      "el": "χώρα της δυτικής Αφρικής",
+      "jp": "アフリカ西部にある共和制国家",
+      "sv": "republik i Västafrika",
+      "zh": "非洲西部國家",
+      "bn": "পশ্চিম আফ্রিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q734",
+    "labels": {
+      "en": "Guyana",
+      "el": "Γουιάνα",
+      "jp": "ガイアナ",
+      "sv": "Guyana",
+      "zh": "圭亚那",
+      "bn": "গায়ানা"
+    },
+    "descriptions": {
+      "en": "country in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i nordöstra Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকার একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q736",
+    "labels": {
+      "en": "Ecuador",
+      "el": "Ισημερινός",
+      "jp": "エクアドル",
+      "sv": "Ecuador",
+      "zh": "厄瓜多尔",
+      "bn": "ইকুয়েডর"
+    },
+    "descriptions": {
+      "en": "sovereign state in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকার উত্তর-পশ্চিম অংশের একটি রাষ্ট্র।"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q739",
+    "labels": {
+      "en": "Colombia",
+      "el": "Κολομβία",
+      "jp": "コロンビア",
+      "sv": "Colombia",
+      "zh": "哥伦比亚",
+      "bn": "কলম্বিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i nordvästra Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q750",
+    "labels": {
+      "en": "Bolivia",
+      "el": "Βολιβία",
+      "jp": "ボリビア",
+      "sv": "Bolivia",
+      "zh": "玻利維亞",
+      "bn": "বলিভিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "republik i Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q142",
+    "labels": {
+      "en": "France",
+      "el": "Γαλλία",
+      "jp": "フランス",
+      "sv": "Frankrike",
+      "zh": "法國",
+      "bn": "ফ্রান্স"
+    },
+    "descriptions": {
+      "en": "country in Western Europe",
+      "el": "χώρα της δυτικής Ευρώπης",
+      "jp": "西ヨーロッパの国",
+      "sv": "republik i Västeuropa",
+      "zh": "西歐國家",
+      "bn": "পশ্চিম ইউরোপে অবস্থিত প্রজাতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q145",
+    "labels": {
+      "en": "United Kingdom",
+      "el": "Ηνωμένο Βασίλειο",
+      "jp": "イギリス",
+      "sv": "Storbritannien",
+      "zh": "英国",
+      "bn": "যুক্তরাজ্য"
+    },
+    "descriptions": {
+      "en": "country in north-west Europe",
+      "el": "ανεξάρτητο κράτος στην Ευρώπη",
+      "jp": "西ヨーロッパの国",
+      "sv": "konstitutionell monarki i Västeuropa",
+      "zh": "歐洲西北部國家",
+      "bn": "উত্তর-পশ্চিম ইউরোপের একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q754",
+    "labels": {
+      "en": "Trinidad and Tobago",
+      "el": "Τρινιντάντ και Τομπάγκο",
+      "jp": "トリニダード・トバゴ",
+      "sv": "Trinidad och Tobago",
+      "zh": "千里達及托巴哥",
+      "bn": "ত্রিনিদাদ ও টোবাগো"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean",
+      "el": "νησιωτική χώρα στη νότια Καραϊβική Θάλασσα",
+      "jp": "カリブ海の島国",
+      "sv": "republik i Karibien",
+      "zh": "加勒比海島國",
+      "bn": "ক্যারিবীয় দ্বীপপুঞ্জের সার্বভৌম দ্বীপরাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q757",
+    "labels": {
+      "en": "Saint Vincent and the Grenadines",
+      "el": "Άγιος Βικέντιος και Γρεναδίνες",
+      "jp": "セントビンセント・グレナディーン",
+      "sv": "Saint Vincent och Grenadinerna",
+      "zh": "圣文森特和格林纳丁斯",
+      "bn": "সেন্ট ভিনসেন্ট ও গ্রেনাডাইন"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean Sea",
+      "el": "ανεξάρτητο νησιωτικό κρατίδιο",
+      "jp": "カリブ海の島国",
+      "sv": "konstitutionell monarki i Karibien",
+      "zh": "加勒比海島國",
+      "bn": "উত্তর আমেরিকার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q760",
+    "labels": {
+      "en": "Saint Lucia",
+      "el": "Αγία Λουκία",
+      "jp": "セントルシア",
+      "sv": "Saint Lucia",
+      "zh": "圣卢西亚",
+      "bn": "সেন্ট লুসিয়া"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean Sea",
+      "el": null,
+      "jp": "カリブ海にある立憲君主制国家",
+      "sv": "konstitutionell monarki i Västindien",
+      "zh": "東加勒比海島國",
+      "bn": "উত্তর আমেরিকার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q148",
+    "labels": {
+      "en": "People's Republic of China",
+      "el": "Λαϊκή Δημοκρατία της Κίνας",
+      "jp": "中華人民共和国",
+      "sv": "Kina",
+      "zh": "中华人民共和国",
+      "bn": "চীন"
+    },
+    "descriptions": {
+      "en": "country in East Asia",
+      "el": "κράτος στην ανατολική Ασία",
+      "jp": "東アジアの国",
+      "sv": "folkrepublik i Asien",
+      "zh": "东亚国家",
+      "bn": "পূর্ব এশিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q155",
+    "labels": {
+      "en": "Brazil",
+      "el": "Βραζιλία",
+      "jp": "ブラジル",
+      "sv": "Brasilien",
+      "zh": "巴西",
+      "bn": "ব্রাজিল"
+    },
+    "descriptions": {
+      "en": "country in South America",
+      "el": "χώρα της Νότιας Αμερικής",
+      "jp": "南アメリカの国",
+      "sv": "förbundsrepublik i Sydamerika",
+      "zh": "南美洲國家",
+      "bn": "দক্ষিণ আমেরিকা মহাদেশের বৃহত্তম দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q763",
+    "labels": {
+      "en": "Saint Kitts and Nevis",
+      "el": "Άγιος Χριστόφορος και Νέβις",
+      "jp": "セントクリストファー・ネイビス",
+      "sv": "Saint Kitts och Nevis",
+      "zh": "聖克里斯多福及尼維斯",
+      "bn": "সেন্ট কিট্স ও নেভিস"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean Sea",
+      "el": null,
+      "jp": "カリブ海の島国",
+      "sv": "konstitutionell monarki i Karibien",
+      "zh": "加勒比海上的島國",
+      "bn": "উত্তর আমেরিকার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q766",
+    "labels": {
+      "en": "Jamaica",
+      "el": "Τζαμάικα",
+      "jp": "ジャマイカ",
+      "sv": "Jamaica",
+      "zh": "牙買加",
+      "bn": "জ্যামাইকা"
+    },
+    "descriptions": {
+      "en": "island state in the Caribbean Sea",
+      "el": "Χώρα στην Καραϊβική",
+      "jp": "カリブ海の島国",
+      "sv": "monarki i Karibiska havet",
+      "zh": "位於中美洲的加勒比島國",
+      "bn": "লাতিন আমেরিকার দ্বীপরাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q769",
+    "labels": {
+      "en": "Grenada",
+      "el": "Γρενάδα",
+      "jp": "グレナダ",
+      "sv": "Grenada",
+      "zh": "格瑞那達",
+      "bn": "গ্রেনাডা"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean Sea",
+      "el": null,
+      "jp": "カリブ海の島国",
+      "sv": "konstitutionell monarki i Västindien",
+      "zh": "美洲加勒比地區國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q774",
+    "labels": {
+      "en": "Guatemala",
+      "el": "Γουατεμάλα",
+      "jp": "グアテマラ",
+      "sv": "Guatemala",
+      "zh": "危地马拉",
+      "bn": "গুয়াতেমালা"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central America",
+      "el": null,
+      "jp": "中央アメリカの国",
+      "sv": "republik i Centralamerika",
+      "zh": "中美洲的國家",
+      "bn": "মধ্য আমেরিকার একটি প্রজাতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q159",
+    "labels": {
+      "en": "Russia",
+      "el": "Ρωσία",
+      "jp": "ロシア",
+      "sv": "Ryssland",
+      "zh": "俄罗斯",
+      "bn": "রাশিয়া"
+    },
+    "descriptions": {
+      "en": "country in Eastern Europe and Northern Asia",
+      "el": "Χώρα που εκτείνεται στην βόρεια Ευρασία",
+      "jp": "ヨーロッパ・アジアの国",
+      "sv": "förbundsrepublik i Östeuropa och Nordasien",
+      "zh": "東歐及北亞國家",
+      "bn": "বিশ্বের বৃহত্তম দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q778",
+    "labels": {
+      "en": "The Bahamas",
+      "el": "Μπαχάμες",
+      "jp": "バハマ",
+      "sv": "Bahamas",
+      "zh": "巴哈馬",
+      "bn": "বাহামা দ্বীপপুঞ্জ"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the West Indies",
+      "el": "χώρα της Βόρειας Αμερικής",
+      "jp": "カリブ海の島国",
+      "sv": "konstitutionell monarki i Västindien",
+      "zh": "國家",
+      "bn": "উত্তর আমেরিকার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q781",
+    "labels": {
+      "en": "Antigua and Barbuda",
+      "el": "Αντίγκουα και Μπαρμπούντα",
+      "jp": "アンティグア・バーブーダ",
+      "sv": "Antigua och Barbuda",
+      "zh": "安提瓜和巴布达",
+      "bn": "অ্যান্টিগুয়া ও বার্বুডা"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean Sea",
+      "el": null,
+      "jp": "カリブ海の島国",
+      "sv": "konstitutionell monarki i Karibien",
+      "zh": "中美洲岛国",
+      "bn": "ক্যারিবীয় দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q183",
+    "labels": {
+      "en": "Germany",
+      "el": "Γερμανία",
+      "jp": "ドイツ",
+      "sv": "Tyskland",
+      "zh": "德國",
+      "bn": "জার্মানি"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "ομοσπονδιακή δημοκρατία στην κεντρική Ευρώπη",
+      "jp": "ヨーロッパの国",
+      "sv": "förbundsrepublik i Centraleuropa",
+      "zh": "歐洲國家",
+      "bn": "মধ্য-পশ্চিম ইউরোপের যুক্তরাষ্ট্রীয় সংসদীয় প্রজাতন্ত্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q783",
+    "labels": {
+      "en": "Honduras",
+      "el": "Ονδούρα",
+      "jp": "ホンジュラス",
+      "sv": "Honduras",
+      "zh": "洪都拉斯",
+      "bn": "হন্ডুরাস"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central America",
+      "el": null,
+      "jp": "中央アメリカの国",
+      "sv": "republik i Centralamerika",
+      "zh": "中美洲國家",
+      "bn": "মধ্য আমেরিকার একটি প্রজাতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q784",
+    "labels": {
+      "en": "Dominica",
+      "el": "Ντομίνικα",
+      "jp": "ドミニカ国",
+      "sv": "Dominica",
+      "zh": "多米尼克",
+      "bn": "ডোমিনিকা"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean Sea",
+      "el": "Χώρα της Καραϊβικής",
+      "jp": "カリブ海の島国",
+      "sv": "republik i Karibien",
+      "zh": "加勒比海的島嶼國家",
+      "bn": "ক্যারিবীয় অঞ্চলের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q184",
+    "labels": {
+      "en": "Belarus",
+      "el": "Λευκορωσία",
+      "jp": "ベラルーシ",
+      "sv": "Belarus",
+      "zh": "白俄羅斯",
+      "bn": "বেলারুশ"
+    },
+    "descriptions": {
+      "en": "country in Eastern Europe",
+      "el": "χώρα της ανατολικής Ευρώπης",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Östeuropa",
+      "zh": "東歐國家",
+      "bn": "পূর্ব ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q189",
+    "labels": {
+      "en": "Iceland",
+      "el": "Ισλανδία",
+      "jp": "アイスランド",
+      "sv": "Island",
+      "zh": "冰島",
+      "bn": "আইসল্যান্ড"
+    },
+    "descriptions": {
+      "en": "Nordic island country in the North Atlantic Ocean",
+      "el": "χώρα στην Ευρώπη",
+      "jp": "北ヨーロッパの島国",
+      "sv": "örepublik i Nordeuropa",
+      "zh": "北大西洋上的北歐島國",
+      "bn": "ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q786",
+    "labels": {
+      "en": "Dominican Republic",
+      "el": "Δομινικανή Δημοκρατία",
+      "jp": "ドミニカ共和国",
+      "sv": "Dominikanska republiken",
+      "zh": "多明尼加",
+      "bn": "ডোমিনিকান প্রজাতন্ত্র"
+    },
+    "descriptions": {
+      "en": "island sovereign state in the Caribbean Sea",
+      "el": null,
+      "jp": "カリブ海の島国",
+      "sv": "republik i Västindien",
+      "zh": "加勒比海國家",
+      "bn": "ক্যারিবীয় একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q790",
+    "labels": {
+      "en": "Haiti",
+      "el": "Αϊτή",
+      "jp": "ハイチ",
+      "sv": "Haiti",
+      "zh": "海地",
+      "bn": "হাইতি"
+    },
+    "descriptions": {
+      "en": "country in the Caribbean Sea",
+      "el": null,
+      "jp": "カリブ海の島国",
+      "sv": "republik i Västindien",
+      "zh": "中美洲国家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q191",
+    "labels": {
+      "en": "Estonia",
+      "el": "Εσθονία",
+      "jp": "エストニア",
+      "sv": "Estland",
+      "zh": "愛沙尼亞",
+      "bn": "এস্তোনিয়া"
+    },
+    "descriptions": {
+      "en": "country in Northern Europe",
+      "el": "χώρα στην ανατολική Ευρώπη",
+      "jp": "北ヨーロッパの国",
+      "sv": "republik i Nordeuropa",
+      "zh": "國家",
+      "bn": "উত্তর-পূর্ব ইউরোপের সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q792",
+    "labels": {
+      "en": "El Salvador",
+      "el": "Ελ Σαλβαδόρ",
+      "jp": "エルサルバドル",
+      "sv": "El Salvador",
+      "zh": "薩爾瓦多",
+      "bn": "এল সালভাদোর"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central America",
+      "el": "χώρα της Κεντρικής Αμερικής",
+      "jp": "中央アメリカの国",
+      "sv": "republik i Centralamerika",
+      "zh": "國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q211",
+    "labels": {
+      "en": "Latvia",
+      "el": "Λετονία",
+      "jp": "ラトビア",
+      "sv": "Lettland",
+      "zh": "拉脫維亞",
+      "bn": "লাতভিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in northeastern Europe",
+      "el": "χώρα της βορειοανατολικής Ευρώπης",
+      "jp": "北ヨーロッパの国",
+      "sv": "republik i Nordeuropa",
+      "zh": "國家",
+      "bn": "উত্তর-পূর্ব ইউরোপে বাল্টিক সাগরের পূর্ব তীরের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q794",
+    "labels": {
+      "en": "Iran",
+      "el": "Ιράν",
+      "jp": "イラン",
+      "sv": "Iran",
+      "zh": "伊朗",
+      "bn": "ইরান"
+    },
+    "descriptions": {
+      "en": "country in Western Asia",
+      "el": "χώρα της Μέσης Ανατολής",
+      "jp": "西アジア、中東にある共和制国家",
+      "sv": "republik i Sydvästasien",
+      "zh": "亞洲國家",
+      "bn": "পশ্চিম এশিয়ার একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q212",
+    "labels": {
+      "en": "Ukraine",
+      "el": "Ουκρανία",
+      "jp": "ウクライナ",
+      "sv": "Ukraina",
+      "zh": "烏克蘭",
+      "bn": "ইউক্রেন"
+    },
+    "descriptions": {
+      "en": "country in Eastern Europe",
+      "el": "Χώρα στην Ανατολική Ευρώπη",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Östeuropa",
+      "zh": "東歐國家",
+      "bn": "ইউরোপের দ্বিতীয় বৃহত্তম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q796",
+    "labels": {
+      "en": "Iraq",
+      "el": "Ιράκ",
+      "jp": "イラク",
+      "sv": "Irak",
+      "zh": "伊拉克",
+      "bn": "ইরাক"
+    },
+    "descriptions": {
+      "en": "sovereign state in Western Asia",
+      "el": "Κράτος της Μέσης Ανατολής",
+      "jp": "西アジアの国",
+      "sv": "förbundsrepublik i Västasien",
+      "zh": "國家",
+      "bn": "মধ্যপ্রাচ্যের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q213",
+    "labels": {
+      "en": "Czech Republic",
+      "el": "Τσεχία",
+      "jp": "チェコ共和国",
+      "sv": "Tjeckien",
+      "zh": "捷克",
+      "bn": "চেক প্রজাতন্ত্র"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα της κεντρικής Ευρώπης",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Centraleuropa",
+      "zh": "歐洲國家",
+      "bn": "মধ্য ইউরোপের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q800",
+    "labels": {
+      "en": "Costa Rica",
+      "el": "Κόστα Ρίκα",
+      "jp": "コスタリカ",
+      "sv": "Costa Rica",
+      "zh": "哥斯达黎加",
+      "bn": "কোস্টা রিকা"
+    },
+    "descriptions": {
+      "en": "country in Central America",
+      "el": "χώρα της Κεντρικής Αμερικής",
+      "jp": "中央アメリカの国",
+      "sv": "republik i Centralamerika",
+      "zh": "中美洲國家",
+      "bn": "দক্ষিণ আমেরিকা মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q801",
+    "labels": {
+      "en": "Israel",
+      "el": "Ισραήλ",
+      "jp": "イスラエル",
+      "sv": "Israel",
+      "zh": "以色列",
+      "bn": "ইসরায়েল"
+    },
+    "descriptions": {
+      "en": "country in the Middle East",
+      "el": "κράτος στη Μέση Ανατολή",
+      "jp": "西アジアにある共和制国家",
+      "sv": "republik i Västasien",
+      "zh": "西亞國家",
+      "bn": "মধ্যপ্রাচ্যের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q214",
+    "labels": {
+      "en": "Slovakia",
+      "el": "Σλοβακία",
+      "jp": "スロバキア",
+      "sv": "Slovakien",
+      "zh": "斯洛伐克",
+      "bn": "স্লোভাকিয়া"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα της κεντρικής Ευρώπης",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Centraleuropa",
+      "zh": "中歐的內陸國家",
+      "bn": "মধ্য ইউরোপের একটি স্থলবেষ্টিত রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q804",
+    "labels": {
+      "en": "Panama",
+      "el": "Παναμάς",
+      "jp": "パナマ",
+      "sv": "Panama",
+      "zh": "巴拿馬",
+      "bn": "পানামা"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central America",
+      "el": "χώρα της Κεντρικής Αμερικής",
+      "jp": "中央アメリカの国",
+      "sv": "republik i Centralamerika",
+      "zh": "中美洲國家",
+      "bn": "উত্তর আমেরিকা মহাদেশের দক্ষিণাংশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q215",
+    "labels": {
+      "en": "Slovenia",
+      "el": "Σλοβενία",
+      "jp": "スロベニア",
+      "sv": "Slovenien",
+      "zh": "斯洛文尼亞",
+      "bn": "স্লোভেনিয়া"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα στη κεντρική Ευρώπη",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik i Centraleuropa",
+      "zh": "位於歐洲中部的國家",
+      "bn": "মধ্য ইউরোপের সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q805",
+    "labels": {
+      "en": "Yemen",
+      "el": "Υεμένη",
+      "jp": "イエメン",
+      "sv": "Jemen",
+      "zh": "也门",
+      "bn": "ইয়েমেন"
+    },
+    "descriptions": {
+      "en": "country in West Asia",
+      "el": null,
+      "jp": "西アジアの国",
+      "sv": "republik på arabiska halvön i Västasien",
+      "zh": "西南亞國家",
+      "bn": "মধ্যপ্রাচ্যের একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q218",
+    "labels": {
+      "en": "Romania",
+      "el": "Ρουμανία",
+      "jp": "ルーマニア",
+      "sv": "Rumänien",
+      "zh": "羅馬尼亞",
+      "bn": "রোমানিয়া"
+    },
+    "descriptions": {
+      "en": "country in Southeast Europe",
+      "el": "χώρα της νοτιοανατολικής Ευρώπης",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Sydösteuropa",
+      "zh": "欧洲东南部国家",
+      "bn": "দক্ষিণ-পূর্ব ইউরোপের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q217",
+    "labels": {
+      "en": "Moldova",
+      "el": "Μολδαβία",
+      "jp": "モルドバ",
+      "sv": "Moldavien",
+      "zh": "摩爾多瓦",
+      "bn": "মলদোভা"
+    },
+    "descriptions": {
+      "en": "country in Eastern Europe",
+      "el": "χώρα στην Ανατολική Ευρώπη",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Östeuropa",
+      "zh": "東歐國家",
+      "bn": "ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q219",
+    "labels": {
+      "en": "Bulgaria",
+      "el": "Βουλγαρία",
+      "jp": "ブルガリア",
+      "sv": "Bulgarien",
+      "zh": "保加利亚",
+      "bn": "বুলগেরিয়া"
+    },
+    "descriptions": {
+      "en": "country in Southeast Europe",
+      "el": "χώρα της νοτιοανατολικής Ευρώπης",
+      "jp": "東ヨーロッパの国",
+      "sv": "republik i Sydeuropa",
+      "zh": "歐洲東南部巴爾幹半島上的國家",
+      "bn": "দক্ষিণ-পূর্ব ইউরোপের প্রজাতান্ত্রিক রাষ্ট্র; কৃষ্ণ সাগরের পশ্চিম উপকূলে অবস্থিত"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q810",
+    "labels": {
+      "en": "Jordan",
+      "el": "Ιορδανία",
+      "jp": "ヨルダン",
+      "sv": "Jordanien",
+      "zh": "約旦",
+      "bn": "জর্ডান"
+    },
+    "descriptions": {
+      "en": "country in the Middle East",
+      "el": null,
+      "jp": "西アジアの国",
+      "sv": "konstitutionell monarki i Västasien",
+      "zh": "中東國家",
+      "bn": "মধাপ্রাচ্যের একটি রাজতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q811",
+    "labels": {
+      "en": "Nicaragua",
+      "el": "Νικαράγουα",
+      "jp": "ニカラグア",
+      "sv": "Nicaragua",
+      "zh": "尼加拉瓜",
+      "bn": "নিকারাগুয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central America",
+      "el": null,
+      "jp": "中央アメリカの国",
+      "sv": "republik i Centralamerika",
+      "zh": "中美洲國家",
+      "bn": "মধ্য আমেরিকার একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q813",
+    "labels": {
+      "en": "Kyrgyzstan",
+      "el": "Κιργιζία",
+      "jp": "キルギス",
+      "sv": "Kirgizistan",
+      "zh": "吉尔吉斯斯坦",
+      "bn": "কিরগিজস্তান"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central Asia",
+      "el": "κράτος στην Κεντρική Ασία",
+      "jp": "中央アジアの国",
+      "sv": "republik i Centralasien",
+      "zh": "中亞國家",
+      "bn": "মধ্য এশিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q221",
+    "labels": {
+      "en": "North Macedonia",
+      "el": "Βόρεια Μακεδονία",
+      "jp": "北マケドニア",
+      "sv": "Nordmakedonien",
+      "zh": "北马其顿",
+      "bn": "উত্তর মেসিডোনিয়া"
+    },
+    "descriptions": {
+      "en": "country in southeastern Europe",
+      "el": "κράτος της Νοτιοανατολικής Ευρώπης",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik i Sydeuropa",
+      "zh": "東南歐國家",
+      "bn": "দক্ষিণ পূর্ব ইউরোপের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q817",
+    "labels": {
+      "en": "Kuwait",
+      "el": "Κουβέιτ",
+      "jp": "クウェート",
+      "sv": "Kuwait",
+      "zh": "科威特",
+      "bn": "কুয়েত"
+    },
+    "descriptions": {
+      "en": "sovereign state in Western Asia",
+      "el": null,
+      "jp": "西アジアの国",
+      "sv": "emirat i Västasien",
+      "zh": "西亞國家",
+      "bn": "পশ্চিম এশিয়ার একটি সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q222",
+    "labels": {
+      "en": "Albania",
+      "el": "Αλβανία",
+      "jp": "アルバニア",
+      "sv": "Albanien",
+      "zh": "阿爾巴尼亞",
+      "bn": "আলবেনিয়া"
+    },
+    "descriptions": {
+      "en": "country in southeastern Europe",
+      "el": "χώρα της νοτιοανατολικής Ευρώπης",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik i Sydeuropa",
+      "zh": "歐洲國家",
+      "bn": "দক্ষিণ-পূর্ব ইউরোপে বলকান উপদ্বীপে অবস্থিত প্রজাতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q819",
+    "labels": {
+      "en": "Laos",
+      "el": "Λάος",
+      "jp": "ラオス",
+      "sv": "Laos",
+      "zh": "老撾",
+      "bn": "লাওস"
+    },
+    "descriptions": {
+      "en": "country in Southeast Asia",
+      "el": "χώρα της νοτιανατολικής Ασίας",
+      "jp": "東南アジアの国",
+      "sv": "republik i Sydostasien",
+      "zh": "東南亞國家",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q224",
+    "labels": {
+      "en": "Croatia",
+      "el": "Κροατία",
+      "jp": "クロアチア",
+      "sv": "Kroatien",
+      "zh": "克羅地亞",
+      "bn": "ক্রোয়েশিয়া"
+    },
+    "descriptions": {
+      "en": "country in Central Europe",
+      "el": "χώρα της νοτιοανατολικής Ευρώπης",
+      "jp": "南ヨーロッパにある共和制国家",
+      "sv": "republik i Sydösteuropa",
+      "zh": "東南歐國家",
+      "bn": "দক্ষিণ-পূর্ব ইউরোপের প্রজাতান্ত্রিক রাষ্ট্র; বলকান উপদ্বীপে আড্রিয়াটিক সাগরের পূর্ব উপকূলে অবস্থিত"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q822",
+    "labels": {
+      "en": "Lebanon",
+      "el": "Λίβανος",
+      "jp": "レバノン",
+      "sv": "Libanon",
+      "zh": "黎巴嫩",
+      "bn": "লেবানন"
+    },
+    "descriptions": {
+      "en": "sovereign state in Western Asia",
+      "el": "χώρα της Ανατολικής Μεσογείου",
+      "jp": "西アジアの国",
+      "sv": "republik i Västasien",
+      "zh": "亞洲西部國家",
+      "bn": "পশ্চিম এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q225",
+    "labels": {
+      "en": "Bosnia and Herzegovina",
+      "el": "Βοσνία και Ερζεγοβίνη",
+      "jp": "ボスニア・ヘルツェゴビナ",
+      "sv": "Bosnien och Hercegovina",
+      "zh": "波斯尼亚和黑塞哥维那",
+      "bn": "বসনিয়া ও হার্জেগোভিনা"
+    },
+    "descriptions": {
+      "en": "country in Southeast Europe",
+      "el": "χώρα της νοτιοανατολικής Ευρώπης",
+      "jp": "南ヨーロッパの国",
+      "sv": "förbundsrepublik i Sydeuropa",
+      "zh": "歐洲東南部國家",
+      "bn": "দক্ষিণ-পূর্ব ইউরোপের একটি প্রজাতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q826",
+    "labels": {
+      "en": "Maldives",
+      "el": "Μαλδίβες",
+      "jp": "モルディブ",
+      "sv": "Maldiverna",
+      "zh": "馬爾代夫",
+      "bn": "মালদ্বীপ"
+    },
+    "descriptions": {
+      "en": "sovereign state in South Asia, situated on an archipelago in the Arabian Sea",
+      "el": "χώρα της νότιας Ασίας",
+      "jp": "南アジアの国",
+      "sv": "örepublik i norra Indiska oceanen",
+      "zh": "亞洲國家",
+      "bn": "দক্ষিণ এশিয়ার একটি দ্বীপরাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q833",
+    "labels": {
+      "en": "Malaysia",
+      "el": "Μαλαισία",
+      "jp": "マレーシア",
+      "sv": "Malaysia",
+      "zh": "馬來西亞",
+      "bn": "মালয়েশিয়া"
+    },
+    "descriptions": {
+      "en": "country in Southeast Asia",
+      "el": "χώρα της νοτιοανατολικής Ασίας",
+      "jp": "東南アジアの国",
+      "sv": "federal konstitutionell monarki i Sydöstasien",
+      "zh": "東南亞的君主立憲制聯邦國家",
+      "bn": "এশিয়ার সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q227",
+    "labels": {
+      "en": "Azerbaijan",
+      "el": "Αζερμπαϊτζάν",
+      "jp": "アゼルバイジャン",
+      "sv": "Azerbajdzjan",
+      "zh": "阿塞拜疆",
+      "bn": "আজারবাইজান"
+    },
+    "descriptions": {
+      "en": "country in the Caucasus in Eastern Europe and Western Asia",
+      "el": "χώρα στην περιοχή του Καυκάσου",
+      "jp": "西アジアにある共和制国家",
+      "sv": "republik i sydöstra Kaukasus i Östeuropa-Västasien",
+      "zh": "高加索地區國家",
+      "bn": "ককেসাস অঞ্চলের একটি রাষ্ট্র; পূর্ব ইউরোপ ও পশ্চিম এশিয়ার মধ্যে অবস্থিত"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q836",
+    "labels": {
+      "en": "Myanmar",
+      "el": "Μιανμάρ",
+      "jp": "ミャンマー",
+      "sv": "Myanmar",
+      "zh": "緬甸",
+      "bn": "মিয়ানমার"
+    },
+    "descriptions": {
+      "en": "country in Southeast Asia",
+      "el": "χώρα της νοτιοανατολικής Ασίας",
+      "jp": "東南アジアの国",
+      "sv": "republik i Sydostasien",
+      "zh": "東南亞國家",
+      "bn": "দক্ষিণ পূর্ব এশিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q837",
+    "labels": {
+      "en": "Nepal",
+      "el": "Νεπάλ",
+      "jp": "ネパール",
+      "sv": "Nepal",
+      "zh": "尼泊爾",
+      "bn": "নেপাল"
+    },
+    "descriptions": {
+      "en": "country in South Asia",
+      "el": "χώρα της νότιας Ασίας",
+      "jp": "南アジアの国",
+      "sv": "förbundsrepublik i Sydasien",
+      "zh": "南亞國家",
+      "bn": "দক্ষিণ এশিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q228",
+    "labels": {
+      "en": "Andorra",
+      "el": "Ανδόρρα",
+      "jp": "アンドラ",
+      "sv": "Andorra",
+      "zh": "安道尔",
+      "bn": "অ্যান্ডোরা"
+    },
+    "descriptions": {
+      "en": "sovereign microstate between France and Spain, in Western Europe",
+      "el": "μικροκράτος ανάμεσα Γαλλία και Ισπανία",
+      "jp": "ヨーロッパの国家",
+      "sv": "furstendöme i Pyrenéerna i sydvästra Europa",
+      "zh": "欧洲国家",
+      "bn": "দক্ষিণ-পশ্চিম ইউরোপের একটি স্থলবেষ্টিত দেশ; ফ্রান্স ও স্পেনের মধ্যে অবস্থিত ক্ষুদ্র রাজ্য"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q229",
+    "labels": {
+      "en": "Cyprus",
+      "el": "Κυπριακή Δημοκρατία",
+      "jp": "キプロス",
+      "sv": "Cypern",
+      "zh": "塞浦路斯",
+      "bn": "সাইপ্রাস"
+    },
+    "descriptions": {
+      "en": "Mediterranean island nation in Europe",
+      "el": "κράτος της ανατολικής Μεσογείου",
+      "jp": "地中海東部の島国",
+      "sv": "republik på ön Cypern i Medelhavet",
+      "zh": "位於地中海東部的島國",
+      "bn": "দ্বীপ রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q230",
+    "labels": {
+      "en": "Georgia",
+      "el": "Γεωργία",
+      "jp": "ジョージア",
+      "sv": "Georgien",
+      "zh": "格鲁吉亚共和国",
+      "bn": "জর্জিয়া"
+    },
+    "descriptions": {
+      "en": "country in the Caucasus",
+      "el": "χώρα της Ανατολικής Ευρώπης",
+      "jp": "東ヨーロッパ、西アジアにある国",
+      "sv": "republik på gränsen mellan Europa och Asien",
+      "zh": "高加索地區國家",
+      "bn": "পূর্ব ইউরোপীয় দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q842",
+    "labels": {
+      "en": "Oman",
+      "el": "Ομάν",
+      "jp": "オマーン",
+      "sv": "Oman",
+      "zh": "阿曼",
+      "bn": "ওমান"
+    },
+    "descriptions": {
+      "en": "sovereign state in western Asia",
+      "el": null,
+      "jp": "西アジアの国",
+      "sv": "sultanat på Arabiska halvön",
+      "zh": "西亞國家",
+      "bn": "পশ্চিম এশিয়ার একটি সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q843",
+    "labels": {
+      "en": "Pakistan",
+      "el": "Πακιστάν",
+      "jp": "パキスタン",
+      "sv": "Pakistan",
+      "zh": "巴基斯坦",
+      "bn": "পাকিস্তান"
+    },
+    "descriptions": {
+      "en": "sovereign state in South Asia",
+      "el": "χώρα της νότιας Ασίας",
+      "jp": "南アジアの国",
+      "sv": "republik i Sydasien",
+      "zh": "南亞國家",
+      "bn": "দক্ষিণ এশিয়ার সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q232",
+    "labels": {
+      "en": "Kazakhstan",
+      "el": "Καζακστάν",
+      "jp": "カザフスタン",
+      "sv": "Kazakstan",
+      "zh": "哈萨克斯坦",
+      "bn": "কাজাখস্তান"
+    },
+    "descriptions": {
+      "en": "sovereign state in Eastern Europe and Central Asia",
+      "el": "χώρα της κεντρικής Ασίας",
+      "jp": "中央アジアの国",
+      "sv": "republik i Centralasien",
+      "zh": "中亚跨洲国家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q233",
+    "labels": {
+      "en": "Malta",
+      "el": "Μάλτα",
+      "jp": "マルタ",
+      "sv": "Malta",
+      "zh": "馬耳他",
+      "bn": "মাল্টা"
+    },
+    "descriptions": {
+      "en": "sovereign state in Southern Europe situated on an archipelago in the Mediterranean Sea",
+      "el": "νησιωτική χώρα της νότιας Ευρώπης",
+      "jp": "地中海の島国",
+      "sv": "örepublik i Medelhavet i Sydeuropa",
+      "zh": "位於南歐地中海的群島國家",
+      "bn": "ইউরোপের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q846",
+    "labels": {
+      "en": "Qatar",
+      "el": "Κατάρ",
+      "jp": "カタール",
+      "sv": "Qatar",
+      "zh": "卡塔尔",
+      "bn": "কাতার"
+    },
+    "descriptions": {
+      "en": "country in West Asia",
+      "el": "ανεξάρτητο εμιράτο της Μέσης Ανατολής",
+      "jp": "西アジアの国",
+      "sv": "absolut monarki på Arabiska halvöns nordöstkust",
+      "zh": "西亞的阿拉伯國家",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q851",
+    "labels": {
+      "en": "Saudi Arabia",
+      "el": "Σαουδική Αραβία",
+      "jp": "サウジアラビア",
+      "sv": "Saudiarabien",
+      "zh": "沙特阿拉伯",
+      "bn": "সৌদি আরব"
+    },
+    "descriptions": {
+      "en": "country in West Asia",
+      "el": "χώρα της Μέσης Ανατολής",
+      "jp": "西アジアの国",
+      "sv": "kungadöme i Västasien",
+      "zh": "西亞國家",
+      "bn": "মধ্যপ্রাচ্যের একটি সার্বভৌম আরব রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q854",
+    "labels": {
+      "en": "Sri Lanka",
+      "el": "Σρι Λάνκα",
+      "jp": "スリランカ",
+      "sv": "Sri Lanka",
+      "zh": "斯里蘭卡",
+      "bn": "শ্রীলঙ্কা"
+    },
+    "descriptions": {
+      "en": "island country in South Asia",
+      "el": "χώρα της νότιας Ασίας",
+      "jp": "南アジアの国",
+      "sv": "republik i Sydasien",
+      "zh": "南亞國家",
+      "bn": "দক্ষিণ এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q237",
+    "labels": {
+      "en": "Vatican City",
+      "el": "Βατικανό",
+      "jp": "バチカン",
+      "sv": "Vatikanstaten",
+      "zh": "梵蒂岡城國",
+      "bn": "ভ্যাটিকান সিটি"
+    },
+    "descriptions": {
+      "en": "Holy See's independent state, an enclave within Rome, Italy",
+      "el": "ευρωπαϊκό κράτος και έδρα της Παπικής Εκκλησίας",
+      "jp": "教皇庁の独立した都市国家",
+      "sv": "mikrostat i italienska huvudstaden Rom i Sydeuropa",
+      "zh": "位於罗马城内、由聖座管治的獨立城邦",
+      "bn": "বিশ্বের ক্ষুদ্রতম ও স্বাধীন রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q235",
+    "labels": {
+      "en": "Monaco",
+      "el": "Μονακό",
+      "jp": "モナコ",
+      "sv": "Monaco",
+      "zh": "摩納哥",
+      "bn": "মোনাকো"
+    },
+    "descriptions": {
+      "en": "sovereign city-state on the French Riviera",
+      "el": "χώρα και πόλη-κράτος στην Ευρώπη",
+      "jp": "西ヨーロッパの国",
+      "sv": "furstendöme i Sydeuropa",
+      "zh": "國家",
+      "bn": "ইউরোপ মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q236",
+    "labels": {
+      "en": "Montenegro",
+      "el": "Μαυροβούνιο",
+      "jp": "モンテネグロ",
+      "sv": "Montenegro",
+      "zh": "蒙特內哥羅",
+      "bn": "মন্টিনিগ্রো"
+    },
+    "descriptions": {
+      "en": "country in southeastern Europe",
+      "el": "χώρα στην νοτιοανατολική Ευρώπη",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik i Sydeuropa",
+      "zh": "東南歐國家",
+      "bn": "বলকান অঞ্চলের একটি প্রজাতন্ত্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q858",
+    "labels": {
+      "en": "Syria",
+      "el": "Συρία",
+      "jp": "シリア",
+      "sv": "Syrien",
+      "zh": "敘利亞",
+      "bn": "সিরিয়া"
+    },
+    "descriptions": {
+      "en": "country in West Asia",
+      "el": "Χώρα",
+      "jp": "西アジアの国",
+      "sv": "republik i Västasien",
+      "zh": "西亞國家",
+      "bn": "এশিয়ার মধ্যপ্রাচ্যের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q863",
+    "labels": {
+      "en": "Tajikistan",
+      "el": "Τατζικιστάν",
+      "jp": "タジキスタン",
+      "sv": "Tadzjikistan",
+      "zh": "塔吉克斯坦",
+      "bn": "তাজিকিস্তান"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central Asia",
+      "el": null,
+      "jp": "中央アジアの国",
+      "sv": "republik i Centralasien",
+      "zh": "中亞國家",
+      "bn": "মধ্য এশিয়ার একটি প্রজাতন্ত্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q865",
+    "labels": {
+      "en": "Taiwan",
+      "el": "Ταϊβάν",
+      "jp": "中華民国",
+      "sv": "Taiwan",
+      "zh": "中華民國",
+      "bn": "তাইওয়ান"
+    },
+    "descriptions": {
+      "en": "country in East Asia",
+      "el": "νησιωτική χώρα της Ανατολικής Ασίας",
+      "jp": "東アジアの国",
+      "sv": "republik i Östasien",
+      "zh": "東亞國家",
+      "bn": "পূর্ব এশিয়ার একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q238",
+    "labels": {
+      "en": "San Marino",
+      "el": "Άγιος Μαρίνος",
+      "jp": "サンマリノ",
+      "sv": "San Marino",
+      "zh": "圣马力诺",
+      "bn": "সান মারিনো"
+    },
+    "descriptions": {
+      "en": "sovereign state in southern Europe, enclaved within Italy",
+      "el": "μικροκράτος στη νότια Ευρώπη",
+      "jp": "南ヨーロッパの国",
+      "sv": "republik på Appeninska halvön i södra Europa",
+      "zh": "國家",
+      "bn": "দক্ষিণ ইউরোপের সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q878",
+    "labels": {
+      "en": "United Arab Emirates",
+      "el": "Ηνωμένα Αραβικά Εμιράτα",
+      "jp": "アラブ首長国連邦",
+      "sv": "Förenade arabemiraten",
+      "zh": "阿拉伯联合酋长国",
+      "bn": "সংযুক্ত আরব আমিরাত"
+    },
+    "descriptions": {
+      "en": "sovereign state in southwest Asia",
+      "el": "Ομοσπονδιακό κράτος στη Μέση Ανατολή",
+      "jp": "西アジアの国",
+      "sv": "federal monarki i Sydvästasien",
+      "zh": "亞洲西部國家",
+      "bn": "মধ্যপ্রাচ্যের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q869",
+    "labels": {
+      "en": "Thailand",
+      "el": "Ταϊλάνδη",
+      "jp": "タイ王国",
+      "sv": "Thailand",
+      "zh": "泰國",
+      "bn": "থাইল্যান্ড"
+    },
+    "descriptions": {
+      "en": "country in Southeast Asia",
+      "el": "χώρα της νοτιοανατολικής Ασιας",
+      "jp": "東南アジアの国",
+      "sv": "konstitutionell monarki i Sydostasien",
+      "zh": "東南亞國家",
+      "bn": "দক্ষিণ-পূর্ব এশিয়ার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q874",
+    "labels": {
+      "en": "Turkmenistan",
+      "el": "Τουρκμενιστάν",
+      "jp": "トルクメニスタン",
+      "sv": "Turkmenistan",
+      "zh": "土庫曼斯坦",
+      "bn": "তুর্কমেনিস্তান"
+    },
+    "descriptions": {
+      "en": "country in Central Asia",
+      "el": "χώρα της κεντρικής Ασίας",
+      "jp": "中央アジアの国",
+      "sv": "republik i Centralasien",
+      "zh": "中亞國家",
+      "bn": "মধ্য এশিয়ার দক্ষিণ-পশ্চিম অংশের একটি প্রজাতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q242",
+    "labels": {
+      "en": "Belize",
+      "el": "Μπελίζ",
+      "jp": "ベリーズ",
+      "sv": "Belize",
+      "zh": "伯利兹",
+      "bn": "বেলিজ"
+    },
+    "descriptions": {
+      "en": "sovereign state in Central America",
+      "el": "χώρα της Κεντρικής Αμερικής",
+      "jp": "中央アメリカの国",
+      "sv": "konstitutionell monarki i Centralamerika",
+      "zh": "中美洲的國家",
+      "bn": "মধ্য আমেরিকার উত্তর-পূর্ব অংশে ক্যারিবীয় সাগরের উপকূলে অবস্থিত একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q241",
+    "labels": {
+      "en": "Cuba",
+      "el": "Κούβα",
+      "jp": "キューバ",
+      "sv": "Kuba",
+      "zh": "古巴",
+      "bn": "কিউবা"
+    },
+    "descriptions": {
+      "en": "sovereign state situated on an island in the Caribbean Sea",
+      "el": "νησιώτικη χώρα της Καραϊβικής",
+      "jp": "カリブ海の島国",
+      "sv": "östat i Karibien",
+      "zh": "美洲國家",
+      "bn": "ক্যারিবীয় অঞ্চলের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q244",
+    "labels": {
+      "en": "Barbados",
+      "el": "Μπαρμπάντος",
+      "jp": "バルバドス",
+      "sv": "Barbados",
+      "zh": "巴巴多斯",
+      "bn": "বার্বাডোস"
+    },
+    "descriptions": {
+      "en": "island nation in the Caribbean",
+      "el": "νησιωτική χώρα της Καραϊβικής",
+      "jp": "カリブ海の島国",
+      "sv": "republik i Karibien",
+      "zh": "位於西大西洋的島嶼國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q881",
+    "labels": {
+      "en": "Vietnam",
+      "el": "Βιετνάμ",
+      "jp": "ベトナム",
+      "sv": "Vietnam",
+      "zh": "越南",
+      "bn": "ভিয়েতনাম"
+    },
+    "descriptions": {
+      "en": "country in Southeast Asia",
+      "el": "χώρα της νοτιοανατολικής Ασίας",
+      "jp": "東南アジアの国",
+      "sv": "republik i Sydostasien",
+      "zh": "東南亞國家",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q252",
+    "labels": {
+      "en": "Indonesia",
+      "el": "Ινδονησία",
+      "jp": "インドネシア",
+      "sv": "Indonesien",
+      "zh": "印度尼西亚",
+      "bn": "ইন্দোনেশিয়া"
+    },
+    "descriptions": {
+      "en": "island country in Southeast Asia and Oceania",
+      "el": "χώρα της νοτιοανατολικής Ασίας",
+      "jp": "東南アジアの国",
+      "sv": "republik i Sydostasien och Oceanien",
+      "zh": "東南亞國家",
+      "bn": "এশিয়ার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q958",
+    "labels": {
+      "en": "South Sudan",
+      "el": "Νότιο Σουδάν",
+      "jp": "南スーダン",
+      "sv": "Sydsudan",
+      "zh": "南蘇丹",
+      "bn": "দক্ষিণ সুদান"
+    },
+    "descriptions": {
+      "en": "country in East Africa",
+      "el": null,
+      "jp": "アフリカ東部の内陸国",
+      "sv": "republik i Östafrika",
+      "zh": "非洲國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q962",
+    "labels": {
+      "en": "Benin",
+      "el": "Μπενίν",
+      "jp": "ベナン",
+      "sv": "Benin",
+      "zh": "貝南",
+      "bn": "বেনিন"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa",
+      "el": "Χώρα της Δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "非洲西部國家",
+      "bn": "আফ্রিকার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q963",
+    "labels": {
+      "en": "Botswana",
+      "el": "Μποτσουάνα",
+      "jp": "ボツワナ",
+      "sv": "Botswana",
+      "zh": "波札那",
+      "bn": "বতসোয়ানা"
+    },
+    "descriptions": {
+      "en": "sovereign state in Southern Africa",
+      "el": null,
+      "jp": "アフリカ南部の国",
+      "sv": "republik i södra Afrika",
+      "zh": "位於非洲南部的內陸國",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q884",
+    "labels": {
+      "en": "South Korea",
+      "el": "Νότια Κορέα",
+      "jp": "大韓民国",
+      "sv": "Sydkorea",
+      "zh": "大韩民国",
+      "bn": "দক্ষিণ কোরিয়া"
+    },
+    "descriptions": {
+      "en": "country in East Asia",
+      "el": "χώρα της ανατολικής Ασίας",
+      "jp": "東アジアの国",
+      "sv": "republik i östra Asien",
+      "zh": "东北亚国家",
+      "bn": "পূর্ব এশিয়ার প্রজাতান্ত্রিক রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q889",
+    "labels": {
+      "en": "Afghanistan",
+      "el": "Αφγανιστάν",
+      "jp": "アフガニスタン",
+      "sv": "Afghanistan",
+      "zh": "阿富汗",
+      "bn": "আফগানিস্তান"
+    },
+    "descriptions": {
+      "en": "country in Central and South Asia",
+      "el": "χώρα της νοτιοκεντρικής Ασίας",
+      "jp": "中央・南アジアの国",
+      "sv": "land i södra Asien",
+      "zh": "亞洲國家",
+      "bn": "মধ্য ও দক্ষিণ এশিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q902",
+    "labels": {
+      "en": "Bangladesh",
+      "el": "Μπανγκλαντές",
+      "jp": "バングラデシュ",
+      "sv": "Bangladesh",
+      "zh": "孟加拉國",
+      "bn": "বাংলাদেশ"
+    },
+    "descriptions": {
+      "en": "country in South Asia",
+      "el": "χώρα της νότιας Ασίας",
+      "jp": "南アジアにある共和制国家",
+      "sv": "republik i Sydasien",
+      "zh": "南亞國家",
+      "bn": "দক্ষিণ এশিয়ার সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q965",
+    "labels": {
+      "en": "Burkina Faso",
+      "el": "Μπουρκίνα Φάσο",
+      "jp": "ブルキナファソ",
+      "sv": "Burkina Faso",
+      "zh": "布吉納法索",
+      "bn": "বুর্কিনা ফাসো"
+    },
+    "descriptions": {
+      "en": "sovereign state in Africa",
+      "el": "κράτος της δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i västra Afrika",
+      "zh": "非洲西部國家",
+      "bn": "আফ্রিকা মহাদেশের পশ্চিমভাগে অবস্থিত রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q912",
+    "labels": {
+      "en": "Mali",
+      "el": "Μάλι",
+      "jp": "マリ共和国",
+      "sv": "Mali",
+      "zh": "马里",
+      "bn": "মালি"
+    },
+    "descriptions": {
+      "en": "country in West Africa",
+      "el": "χώρα της Δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非国家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q967",
+    "labels": {
+      "en": "Burundi",
+      "el": "Μπουρούντι",
+      "jp": "ブルンジ",
+      "sv": "Burundi",
+      "zh": "蒲隆地",
+      "bn": "বুরুন্ডি"
+    },
+    "descriptions": {
+      "en": "sovereign state in Africa",
+      "el": "χώρα της Ανατολικής Αφρικής",
+      "jp": "アフリカ中部の内陸国",
+      "sv": "republik i Östafrika",
+      "zh": "非洲國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q970",
+    "labels": {
+      "en": "Comoros",
+      "el": "Κομόρες",
+      "jp": "コモロ",
+      "sv": "Komorerna",
+      "zh": "葛摩",
+      "bn": "কোমোরোস"
+    },
+    "descriptions": {
+      "en": "sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa",
+      "el": "Ένωση των Κομορών",
+      "jp": "アフリカ東方の島国",
+      "sv": "förbundsrepublik och östat i Indiska oceanen utanför Afrikas östkust",
+      "zh": "非洲島國，位於西莫桑比克海峽北部",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q971",
+    "labels": {
+      "en": "Republic of the Congo",
+      "el": "Δημοκρατία του Κονγκό",
+      "jp": "コンゴ共和国",
+      "sv": "Kongo-Brazzaville",
+      "zh": "剛果共和國",
+      "bn": "কঙ্গো প্রজাতন্ত্র"
+    },
+    "descriptions": {
+      "en": "country in Central Africa, capital Brazzaville",
+      "el": "χώρα της κεντρικής Αφρικής",
+      "jp": "中央アフリカの国",
+      "sv": "republik i Centralafrika, huvudstad Brazzaville",
+      "zh": "中部非洲国家，首都布拉柴维尔",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q916",
+    "labels": {
+      "en": "Angola",
+      "el": "Ανγκόλα",
+      "jp": "アンゴラ",
+      "sv": "Angola",
+      "zh": "安哥拉",
+      "bn": "অ্যাঙ্গোলা"
+    },
+    "descriptions": {
+      "en": "country on the west coast of Southern Africa",
+      "el": "χώρα της νοτιοκεντρικής Αφρικής",
+      "jp": "アフリカ南西部にある共和制国家",
+      "sv": "republik i Centralafrika",
+      "zh": "非洲國家",
+      "bn": "দক্ষিণাঞ্চলীয় আফ্রিকার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q917",
+    "labels": {
+      "en": "Bhutan",
+      "el": "Μπουτάν",
+      "jp": "ブータン",
+      "sv": "Bhutan",
+      "zh": "不丹",
+      "bn": "ভুটান"
+    },
+    "descriptions": {
+      "en": "sovereign state in South Asia",
+      "el": "Χώρα της Νότιας Ασίας που βρίσκεται στα ανατολικά Ιμαλάια",
+      "jp": "南アジアの国",
+      "sv": "konstitutionell monarki i Sydasien",
+      "zh": "亞洲國家",
+      "bn": "দক্ষিণ এশিয়ার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q974",
+    "labels": {
+      "en": "Democratic Republic of the Congo",
+      "el": "Λαϊκή Δημοκρατία του Κονγκό",
+      "jp": "コンゴ民主共和国",
+      "sv": "Kongo-Kinshasa",
+      "zh": "刚果民主共和国",
+      "bn": "গণতান্ত্রিক কঙ্গো প্রজাতন্ত্র"
+    },
+    "descriptions": {
+      "en": "country in Central Africa",
+      "el": "χώρα της κεντρικής Αφρικής",
+      "jp": "アフリカ中部の国",
+      "sv": "stat i Afrika - Demokratiska republiken Kongo",
+      "zh": "中非国家，首都金沙萨",
+      "bn": "আফ্রিকা মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q921",
+    "labels": {
+      "en": "Brunei",
+      "el": "Μπρουνέι",
+      "jp": "ブルネイ",
+      "sv": "Brunei",
+      "zh": "汶莱",
+      "bn": "ব্রুনাই"
+    },
+    "descriptions": {
+      "en": "sovereign country and sultanate on the island of Borneo in south-east Asia, member of the Commonwealth of Nations",
+      "el": null,
+      "jp": "東南アジアにある立憲君主制国家",
+      "sv": "sultanat på ön Borneo i Sydostasien",
+      "zh": "東南亞國家",
+      "bn": "দক্ষিণ পূর্ব এশিয়ার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q924",
+    "labels": {
+      "en": "Tanzania",
+      "el": "Τανζανία",
+      "jp": "タンザニア",
+      "sv": "Tanzania",
+      "zh": "坦桑尼亞",
+      "bn": "তানজানিয়া"
+    },
+    "descriptions": {
+      "en": "country in East Africa",
+      "el": "χώρα της Αφρικής",
+      "jp": "アフリカ東部の国",
+      "sv": "republik i Östafrika",
+      "zh": "國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q977",
+    "labels": {
+      "en": "Djibouti",
+      "el": "Τζιμπουτί",
+      "jp": "ジブチ",
+      "sv": "Djibouti",
+      "zh": "吉布提",
+      "bn": "জিবুতি"
+    },
+    "descriptions": {
+      "en": "sovereign state in Africa",
+      "el": "χώρα της Αφρικής",
+      "jp": "アフリカ北東部の国",
+      "sv": "republik i Östafrika",
+      "zh": "非洲东北部国家，位于埃塞俄比亚与索马里之间",
+      "bn": "উত্তর-পূর্ব সমুদ্রতীরবর্তী আফ্রিকার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q983",
+    "labels": {
+      "en": "Equatorial Guinea",
+      "el": "Ισημερινή Γουινέα",
+      "jp": "赤道ギニア",
+      "sv": "Ekvatorialguinea",
+      "zh": "赤道几内亚",
+      "bn": "বিষুবীয় গিনি"
+    },
+    "descriptions": {
+      "en": "sovereign state in Africa",
+      "el": "χώρα της Αφρικής",
+      "jp": "ギニア湾にあるエロベイ諸島に位置する国家",
+      "sv": "republik i Västafrika",
+      "zh": "非洲中部國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q986",
+    "labels": {
+      "en": "Eritrea",
+      "el": "Ερυθραία",
+      "jp": "エリトリア",
+      "sv": "Eritrea",
+      "zh": "厄立特里亞",
+      "bn": "ইরিত্রিয়া"
+    },
+    "descriptions": {
+      "en": "country in the Horn of Africa",
+      "el": "χώρα της ανατολικής Αφρικής",
+      "jp": "アフリカ北東部の国",
+      "sv": "republik i Östafrika",
+      "zh": "非洲之角的國家",
+      "bn": "আফ্রিকার অন্তরীপের দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q928",
+    "labels": {
+      "en": "Philippines",
+      "el": "Φιλιππίνες",
+      "jp": "フィリピン",
+      "sv": "Filippinerna",
+      "zh": "菲律賓",
+      "bn": "ফিলিপাইন"
+    },
+    "descriptions": {
+      "en": "archipelagic country in Southeast Asia",
+      "el": "νησιωτικό κράτος της νοτιοανατολικής Ασίας",
+      "jp": "東南アジアの国",
+      "sv": "republik i Sydostasien",
+      "zh": "東南亞島國",
+      "bn": "দক্ষিণ-পূর্ব এশিয়ার প্রজাতন্ত্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q929",
+    "labels": {
+      "en": "Central African Republic",
+      "el": "Κεντροαφρικανική Δημοκρατία",
+      "jp": "中央アフリカ共和国",
+      "sv": "Centralafrikanska republiken",
+      "zh": "中非共和國",
+      "bn": "মধ্য আফ্রিকান প্রজাতন্ত্র"
+    },
+    "descriptions": {
+      "en": "country in Central Africa",
+      "el": "χώρα της κεντρικής Αφρικής",
+      "jp": "アフリカ中部に位置する内陸国",
+      "sv": "republik i Centralafrika",
+      "zh": "國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1000",
+    "labels": {
+      "en": "Gabon",
+      "el": "Γκαμπόν",
+      "jp": "ガボン",
+      "sv": "Gabon",
+      "zh": "加蓬",
+      "bn": "গ্যাবন"
+    },
+    "descriptions": {
+      "en": "country on the Atlantic coast of Central Africa",
+      "el": "χώρα της Αφρικής",
+      "jp": "アフリカ中部の国",
+      "sv": "republik i Centralafrika",
+      "zh": "非洲西部的赤道國家",
+      "bn": "পশ্চিম আফ্রিকার নিরক্ষীয় দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q945",
+    "labels": {
+      "en": "Togo",
+      "el": "Τόγκο",
+      "jp": "トーゴ",
+      "sv": "Togo",
+      "zh": "多哥",
+      "bn": "টোগো"
+    },
+    "descriptions": {
+      "en": "country in West Africa",
+      "el": "χώρα της Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "非洲國家",
+      "bn": "আফ্রিকার একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1006",
+    "labels": {
+      "en": "Guinea",
+      "el": "Γουινέα",
+      "jp": "ギニア",
+      "sv": "Guinea",
+      "zh": "几内亚",
+      "bn": "গিনি"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa",
+      "el": "χώρα στην Δυτική Αφρική",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1005",
+    "labels": {
+      "en": "The Gambia",
+      "el": "Γκάμπια",
+      "jp": "ガンビア",
+      "sv": "Gambia",
+      "zh": "岡比亞",
+      "bn": "গাম্বিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa",
+      "el": "χώρα της δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非國家",
+      "bn": "পশ্চিম আফ্রিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q948",
+    "labels": {
+      "en": "Tunisia",
+      "el": "Τυνησία",
+      "jp": "チュニジア",
+      "sv": "Tunisien",
+      "zh": "突尼西亞",
+      "bn": "তিউনিসিয়া"
+    },
+    "descriptions": {
+      "en": "country in North Africa",
+      "el": "χώρα στις μεσογειακές ακτές της Βόρειας Αφρικής",
+      "jp": "北アフリカにある共和制国家",
+      "sv": "republik i Nordafrika",
+      "zh": "北非國家",
+      "bn": "আফ্রিকার স্বাধীন দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q953",
+    "labels": {
+      "en": "Zambia",
+      "el": "Ζάμπια",
+      "jp": "ザンビア",
+      "sv": "Zambia",
+      "zh": "贊比亞",
+      "bn": "জাম্বিয়া"
+    },
+    "descriptions": {
+      "en": "country at the crossroads of Central and Southern Africa",
+      "el": "χώρα της νότιας Αφρικής",
+      "jp": "アフリカ南部の国",
+      "sv": "republik i södra Afrika",
+      "zh": "非洲國家",
+      "bn": "দক্ষিণাঞ্চলীয় আফ্রিকার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1007",
+    "labels": {
+      "en": "Guinea-Bissau",
+      "el": "Γουινέα-Μπισσάου",
+      "jp": "ギニアビサウ",
+      "sv": "Guinea-Bissau",
+      "zh": "畿內亞比紹",
+      "bn": "গিনি-বিসাউ"
+    },
+    "descriptions": {
+      "en": "sovereign state in Western Africa",
+      "el": "χώρα της δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1008",
+    "labels": {
+      "en": "Ivory Coast",
+      "el": "Ακτή Ελεφαντοστού",
+      "jp": "コートジボワール",
+      "sv": "Elfenbenskusten",
+      "zh": "科特迪瓦",
+      "bn": "কোত দিভোয়ার"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa",
+      "el": "χώρα της δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1009",
+    "labels": {
+      "en": "Cameroon",
+      "el": "Καμερούν",
+      "jp": "カメルーン",
+      "sv": "Kamerun",
+      "zh": "喀麦隆",
+      "bn": "ক্যামেরুন"
+    },
+    "descriptions": {
+      "en": "sovereign state in West-Central Africa",
+      "el": "Χώρα της Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Centralafrika",
+      "zh": "非洲西部的國家",
+      "bn": "মধ্য আফ্রিকা একটি দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q200686",
+    "labels": {
+      "en": "French Fifth Republic",
+      "el": "Πέμπτη Γαλλική Δημοκρατία",
+      "jp": "フランス第五共和政",
+      "sv": "Femte franska republiken",
+      "zh": "法蘭西第五共和國",
+      "bn": "পঞ্চম ফরাসি প্রজাতন্ত্র"
+    },
+    "descriptions": {
+      "en": "current system of government of France (1958–present)",
+      "el": null,
+      "jp": "フランスの共和政体",
+      "sv": "sedan 1958 Frankrikes femte republikanska konstitution",
+      "zh": "1958年建立的法國政權",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q954",
+    "labels": {
+      "en": "Zimbabwe",
+      "el": "Ζιμπάμπουε",
+      "jp": "ジンバブエ",
+      "sv": "Zimbabwe",
+      "zh": "津巴布韦",
+      "bn": "জিম্বাবুয়ে"
+    },
+    "descriptions": {
+      "en": "sovereign state in southern Africa",
+      "el": "χώρα της νότιας Αφρικής",
+      "jp": "アフリカ南部の国",
+      "sv": "republik i södra Afrika",
+      "zh": "非洲南部國家",
+      "bn": "আফ্রিকার দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q756617",
+    "labels": {
+      "en": "Kingdom of Denmark",
+      "el": "Βασίλειο της Δανίας",
+      "jp": "デンマーク王国",
+      "sv": "Konungariket Danmark",
+      "zh": "丹麥王國",
+      "bn": "ডেনমার্ক"
+    },
+    "descriptions": {
+      "en": "Kingdom of Denmark and its autonomous territories",
+      "el": "Κυρίαρχο κράτος και μοναρχία στο οποίο ανήκουν η Δανία, η Γροιλανδία, και οι Νήσοι Φερόες",
+      "jp": "デンマーク国王を君主に戴くデンマークとその海外領土の総称",
+      "sv": "suverän stat i Europa, Arktis och Nordatlanten",
+      "zh": "國家",
+      "bn": "ইউরোপের রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1011",
+    "labels": {
+      "en": "Cape Verde",
+      "el": "Πράσινο Ακρωτήριο",
+      "jp": "カーボベルデ",
+      "sv": "Kap Verde",
+      "zh": "佛得角",
+      "bn": "কেপ ভার্দে"
+    },
+    "descriptions": {
+      "en": "sovereign state comprising ten islands off the Western coast of Africa",
+      "el": null,
+      "jp": "アフリカ大陸の北西沖にある共和制国家",
+      "sv": "republik omfattande en ögrupp i Atlanten väster om afrikanska fastlandet",
+      "zh": "大西洋島國",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q219060",
+    "labels": {
+      "en": "Palestine",
+      "el": "Κράτος της Παλαιστίνης",
+      "jp": "パレスチナ国",
+      "sv": "Palestina",
+      "zh": "巴勒斯坦",
+      "bn": "ফিলিস্তিন"
+    },
+    "descriptions": {
+      "en": "country in West Asia",
+      "el": "μερίκώς αναγνωρισμένο κράτος στην ανατολική Μεσόγειο",
+      "jp": "西アジアにある共和制国家",
+      "sv": "republik i Mellanöstern",
+      "zh": "西亞國家",
+      "bn": "মধ্যপ্রাচ্যের একটি সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1013",
+    "labels": {
+      "en": "Lesotho",
+      "el": "Λεσότο",
+      "jp": "レソト",
+      "sv": "Lesotho",
+      "zh": "莱索托",
+      "bn": "লেসোথো"
+    },
+    "descriptions": {
+      "en": "sovereign state in southern Africa",
+      "el": "χώρα της νότιας Αφρικής",
+      "jp": "アフリカ南部の立憲君主国家",
+      "sv": "konstitutionell monarki i södra Afrika",
+      "zh": "非洲國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1014",
+    "labels": {
+      "en": "Liberia",
+      "el": "Λιβερία",
+      "jp": "リベリア",
+      "sv": "Liberia",
+      "zh": "利比里亞",
+      "bn": "লাইবেরিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa",
+      "el": "χώρα της δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1016",
+    "labels": {
+      "en": "Libya",
+      "el": "Λιβύη",
+      "jp": "リビア",
+      "sv": "Libyen",
+      "zh": "利比亞",
+      "bn": "লিবিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in North Africa",
+      "el": "χώρα της βόρειας Αφρικής",
+      "jp": "アフリカ北部にある共和制国家",
+      "sv": "republik i Nordafrika",
+      "zh": "北非國家",
+      "bn": "আফ্রিকার স্বাধীন দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1019",
+    "labels": {
+      "en": "Madagascar",
+      "el": "Μαδαγασκάρη",
+      "jp": "マダガスカル",
+      "sv": "Madagaskar",
+      "zh": "馬達加斯加",
+      "bn": "মাদাগাস্কার"
+    },
+    "descriptions": {
+      "en": "island sovereign state off the coast of Southeast Africa, in the Indian Ocean",
+      "el": "νησιωτική χώρα στον Ινδικό Ωκεανό",
+      "jp": "アフリカ東方の島国",
+      "sv": "republik i Indiska oceanen",
+      "zh": "非洲东南部印度洋岛屿国家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1020",
+    "labels": {
+      "en": "Malawi",
+      "el": "Μαλάουι",
+      "jp": "マラウイ",
+      "sv": "Malawi",
+      "zh": "馬拉威",
+      "bn": "মালাউই"
+    },
+    "descriptions": {
+      "en": "sovereign state in Africa",
+      "el": "χώρα της νότιας Αφρικής",
+      "jp": "アフリカ南東部の国",
+      "sv": "republik i sydöstra Afrika",
+      "zh": "非洲東南部國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1025",
+    "labels": {
+      "en": "Mauritania",
+      "el": "Μαυριτανία",
+      "jp": "モーリタニア",
+      "sv": "Mauretanien",
+      "zh": "毛里塔尼亞",
+      "bn": "মৌরিতানিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa and North Africa",
+      "el": "Χώρα της βορειοδυτικής Αφρικής",
+      "jp": "アフリカ北西部の国",
+      "sv": "republik i nordvästra Afrika",
+      "zh": "非洲西北部的阿拉伯國家",
+      "bn": "উত্তর আফ্রিকার একটি স্বাধীন রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1027",
+    "labels": {
+      "en": "Mauritius",
+      "el": "Μαυρίκιος",
+      "jp": "モーリシャス",
+      "sv": "Mauritius",
+      "zh": "毛里求斯",
+      "bn": "মরিশাস"
+    },
+    "descriptions": {
+      "en": "island sovereign state off of East Africa in the Indian Ocean",
+      "el": null,
+      "jp": "インド洋にある島国",
+      "sv": "republik och östat i Indiska oceanen utanför Afrikas östkust",
+      "zh": "國家",
+      "bn": "ভারত মহাসাগরে আফ্রিকার দ্বীপের সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1028",
+    "labels": {
+      "en": "Morocco",
+      "el": "Μαρόκο",
+      "jp": "モロッコ",
+      "sv": "Marocko",
+      "zh": "摩洛哥",
+      "bn": "মরক্কো"
+    },
+    "descriptions": {
+      "en": "sovereign state in North Africa",
+      "el": "χώρα της Βόρειας Αφρικής",
+      "jp": "アフリカ北西部にある立憲君主制国家",
+      "sv": "konstitutionell monarki i Nordafrika",
+      "zh": "非洲西北部君主制國家",
+      "bn": "উত্তর আফ্রিকার স্বাধীন দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1030",
+    "labels": {
+      "en": "Namibia",
+      "el": "Ναμίμπια",
+      "jp": "ナミビア",
+      "sv": "Namibia",
+      "zh": "纳米比亚",
+      "bn": "নামিবিয়া"
+    },
+    "descriptions": {
+      "en": "country in Southern Africa",
+      "el": null,
+      "jp": "アフリカ南部の国",
+      "sv": "republik i södra Afrika",
+      "zh": "非洲南部國家",
+      "bn": "দক্ষিণ-পশ্চিম আফ্রিকার স্বাধীন রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1029",
+    "labels": {
+      "en": "Mozambique",
+      "el": "Μοζαμβίκη",
+      "jp": "モザンビーク",
+      "sv": "Moçambique",
+      "zh": "莫桑比克",
+      "bn": "মোজাম্বিক"
+    },
+    "descriptions": {
+      "en": "country in Southeastern Africa",
+      "el": null,
+      "jp": "アフリカ南東部の国",
+      "sv": "republik i södra Afrika",
+      "zh": "非洲國家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1032",
+    "labels": {
+      "en": "Niger",
+      "el": "Νίγηρας",
+      "jp": "ニジェール",
+      "sv": "Niger",
+      "zh": "尼日尔",
+      "bn": "নাইজার"
+    },
+    "descriptions": {
+      "en": "sovereign state in western Africa",
+      "el": null,
+      "jp": "西アフリカにある共和制国家",
+      "sv": "republik i Västafrika",
+      "zh": "西非内陸國家",
+      "bn": "পশ্চিম আফ্রিকার রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1033",
+    "labels": {
+      "en": "Nigeria",
+      "el": "Νιγηρία",
+      "jp": "ナイジェリア",
+      "sv": "Nigeria",
+      "zh": "奈及利亞",
+      "bn": "নাইজেরিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa",
+      "el": "ανερξάτητο κράτος στη Δυτική Αφρική",
+      "jp": "アフリカ西部の国",
+      "sv": "förbundsrepublik i Västafrika",
+      "zh": "非洲西部國家",
+      "bn": "পশ্চিম আফ্রিকার আটলান্টিক মহাসাগরীয় উপকূলে অবস্থিত সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1036",
+    "labels": {
+      "en": "Uganda",
+      "el": "Ουγκάντα",
+      "jp": "ウガンダ",
+      "sv": "Uganda",
+      "zh": "烏干達",
+      "bn": "উগান্ডা"
+    },
+    "descriptions": {
+      "en": "country in East-central Africa",
+      "el": null,
+      "jp": "アフリカ東部の内陸国",
+      "sv": "republik i Östafrika",
+      "zh": "東非國家",
+      "bn": "পূর্ব আফ্রিকার একটি স্থলবেষ্টিত রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1037",
+    "labels": {
+      "en": "Rwanda",
+      "el": "Ρουάντα",
+      "jp": "ルワンダ",
+      "sv": "Rwanda",
+      "zh": "卢旺达",
+      "bn": "রুয়ান্ডা"
+    },
+    "descriptions": {
+      "en": "sovereign state in East Africa",
+      "el": "χώρα της Αφρικής",
+      "jp": "アフリカ中部の内陸国",
+      "sv": "republik i Östafrika",
+      "zh": "非洲东部的国家",
+      "bn": "আফ্রিকার একটি সার্বভৌম রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1039",
+    "labels": {
+      "en": "São Tomé and Príncipe",
+      "el": "Σάο Τομέ και Πρίνσιπε",
+      "jp": "サントメ・プリンシペ",
+      "sv": "São Tomé och Príncipe",
+      "zh": "圣多美和普林西比",
+      "bn": "সাঁউ তুমি ও প্রিন্সিপি"
+    },
+    "descriptions": {
+      "en": "island sovereign state in Africa",
+      "el": null,
+      "jp": "アフリカの国",
+      "sv": "örepublik utanför Västafrika",
+      "zh": "非洲國家",
+      "bn": "আফ্রিকা মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1041",
+    "labels": {
+      "en": "Senegal",
+      "el": "Σενεγάλη",
+      "jp": "セネガル",
+      "sv": "Senegal",
+      "zh": "塞内加尔",
+      "bn": "সেনেগাল"
+    },
+    "descriptions": {
+      "en": "country on the coast of West Africa",
+      "el": "Χώρα της Δυτικής Αφρικής",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非國家",
+      "bn": "পশ্চিম আফ্রিকার উপকূলে অবস্থিত দেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1042",
+    "labels": {
+      "en": "Seychelles",
+      "el": "Σεϋχέλλες",
+      "jp": "セーシェル",
+      "sv": "Seychellerna",
+      "zh": "塞舌尔",
+      "bn": "সেশেলস"
+    },
+    "descriptions": {
+      "en": "island sovereign state off the eastern coast of Africa",
+      "el": null,
+      "jp": "インド洋にある国家",
+      "sv": "örepublik utanför Afrikas östkust i Indiska oceanen",
+      "zh": "非洲東部海岸的島國",
+      "bn": "পূর্ব আফ্রিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1044",
+    "labels": {
+      "en": "Sierra Leone",
+      "el": "Σιέρα Λεόνε",
+      "jp": "シエラレオネ",
+      "sv": "Sierra Leone",
+      "zh": "塞拉利昂",
+      "bn": "সিয়েরা লিওন"
+    },
+    "descriptions": {
+      "en": "sovereign state in West Africa",
+      "el": "χώρα στην Αφρική",
+      "jp": "アフリカ西部の国",
+      "sv": "republik i Västafrika",
+      "zh": "西非國家",
+      "bn": "পশ্চিম আফ্রিকার একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1045",
+    "labels": {
+      "en": "Somalia",
+      "el": "Σομαλία",
+      "jp": "ソマリア",
+      "sv": "Somalia",
+      "zh": "索馬里",
+      "bn": "সোমালিয়া"
+    },
+    "descriptions": {
+      "en": "sovereign state in Africa",
+      "el": "χώρα της Αφρικής",
+      "jp": "アフリカ東部の国",
+      "sv": "förbundsrepublik i Östafrika",
+      "zh": "非洲的國家",
+      "bn": "আফ্রিকা মহাদেশের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1049",
+    "labels": {
+      "en": "Sudan",
+      "el": "Σουδάν",
+      "jp": "スーダン",
+      "sv": "Sudan",
+      "zh": "苏丹",
+      "bn": "সুদান"
+    },
+    "descriptions": {
+      "en": "country in Northeast Africa",
+      "el": null,
+      "jp": "北東アフリカにある共和制国家",
+      "sv": "federal republik i Nordafrika",
+      "zh": "非洲國家",
+      "bn": "আফ্রিকা মহাদেশের উত্তরাঞ্চলের একটি রাষ্ট্র"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1050",
+    "labels": {
+      "en": "Eswatini",
+      "el": "Εσουατίνι",
+      "jp": "エスワティニ",
+      "sv": "Swaziland",
+      "zh": "斯威士兰",
+      "bn": "ইসোয়াতিনি"
+    },
+    "descriptions": {
+      "en": "sovereign state in southern Africa",
+      "el": null,
+      "jp": "アフリカ南部の国、旧スワジランド",
+      "sv": "absolut monarki i södra Afrika",
+      "zh": "非洲南部国家",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q29999",
+    "labels": {
+      "en": "Kingdom of the Netherlands",
+      "el": "Βασίλειο των Κάτω Χωρών",
+      "jp": "オランダ王国",
+      "sv": "Konungariket Nederländerna",
+      "zh": "荷兰王国",
+      "bn": "নেদারল্যান্ড রাজ্য"
+    },
+    "descriptions": {
+      "en": "transcontinental sovereign state and constitutional monarchy",
+      "el": "ανεξάρτητο κράτος που αποτελείται από την Αρούμπα, Κουρακάο, Άγιο Μαρτίνο, και τις Κάτω Χώρες",
+      "jp": null,
+      "sv": "består av Aruba, Curaçao, Nederländerna och Sint Maarten",
+      "zh": "主权国家及君主立宪制实体",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q6744020",
+    "labels": {
+      "en": "Mallabhum",
+      "el": null,
+      "jp": null,
+      "sv": null,
+      "zh": null,
+      "bn": "মল্লভূম"
+    },
+    "descriptions": {
+      "en": "kingdom ruled by the Malla kings of Bishnupur, in present-day West Bengal, India",
+      "el": null,
+      "jp": null,
+      "sv": null,
+      "zh": null,
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q129619467",
+    "labels": {
+      "en": "First Republic of Seychelles",
+      "el": null,
+      "jp": "セーシェル第一共和国",
+      "sv": null,
+      "zh": null,
+      "bn": null
+    },
+    "descriptions": {
+      "en": null,
+      "el": null,
+      "jp": null,
+      "sv": null,
+      "zh": null,
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q131839713",
+    "labels": {
+      "en": "Kingdom of Patones",
+      "el": null,
+      "jp": null,
+      "sv": null,
+      "zh": null,
+      "bn": null
+    },
+    "descriptions": {
+      "en": "former country in Modern Day Spain",
+      "el": null,
+      "jp": null,
+      "sv": null,
+      "zh": null,
+      "bn": null
+    }
+  }
+]
