@@ -1,0 +1,154 @@
+[
+  {
+    "url": "http://www.wikidata.org/entity/Q46",
+    "labels": {
+      "en": "Europe",
+      "el": "Ευρώπη",
+      "jp": "ヨーロッパ",
+      "sv": "Europa",
+      "zh": "欧洲",
+      "bn": "ইউরোপ"
+    },
+    "descriptions": {
+      "en": "continent in the Northern Hemisphere",
+      "el": "ήπειρος",
+      "jp": "大陸、大州",
+      "sv": "världsdel på jordens norra halvklot",
+      "zh": "歐亞大陸西北部的一區域",
+      "bn": "পৃথিবীর উত্তর গোলার্ধে অবস্থিত একটি মহাদেশ, বৃহত্তর ইউরেশিয়ার উত্তর-পশ্চিমাংশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q48",
+    "labels": {
+      "en": "Asia",
+      "el": "Ασία",
+      "jp": "アジア",
+      "sv": "Asien",
+      "zh": "亞洲",
+      "bn": "এশিয়া"
+    },
+    "descriptions": {
+      "en": "continent",
+      "el": "ήπειρος",
+      "jp": "大陸",
+      "sv": "världsdel, huvudsakligen på jordens norra halvklot",
+      "zh": "地球上面積最大、人口最多的大洲",
+      "bn": "পৃথিবীর বৃহত্তম মহাদেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q51",
+    "labels": {
+      "en": "Antarctica",
+      "el": "Ανταρκτική",
+      "jp": "南極大陸",
+      "sv": "Antarktis",
+      "zh": "南極洲",
+      "bn": "অ্যান্টার্কটিকা"
+    },
+    "descriptions": {
+      "en": "polar continent",
+      "el": "Η νοτιότερη ήπειρος της Γης",
+      "jp": "地球の最も南にある大陸",
+      "sv": "polarkontinent på jordens södra halvklot",
+      "zh": "地球大陸，七大洲之一",
+      "bn": "বিশ্বের পঞ্চম বৃহত্তম মহাদেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q828",
+    "labels": {
+      "en": "Americas",
+      "el": "Αμερική",
+      "jp": "アメリカ州",
+      "sv": "Amerika",
+      "zh": "美洲",
+      "bn": "আমেরিকা অঞ্চল"
+    },
+    "descriptions": {
+      "en": "North America and South America taken together as a single continent or landmass",
+      "el": "ήπειρος",
+      "jp": "南北アメリカをまとめて一つの大陸もしくは陸塊とする",
+      "sv": "landmassa bestående av kontinenterna Nordamerika och Sydamerika",
+      "zh": "一块包含北美洲、中美洲和南美洲的大陆",
+      "bn": "মহাদেশ"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q25322",
+    "labels": {
+      "en": "Arctic",
+      "el": "Αρκτική",
+      "jp": "北極",
+      "sv": "Arktis",
+      "zh": "北極地區",
+      "bn": "সুমেরু অঞ্চল"
+    },
+    "descriptions": {
+      "en": "polar region on the Earth's northern hemisphere",
+      "el": "Η περιοχή της Γης στον Βόρειο Πόλο",
+      "jp": "地球の最北部の地域",
+      "sv": "polarområde på jordens norra halvkot",
+      "zh": "寒帶地區",
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q55643",
+    "labels": {
+      "en": "Oceania",
+      "el": "Ωκεανία",
+      "jp": "オセアニア",
+      "sv": "Oceanien",
+      "zh": "大洋洲",
+      "bn": "ওশেনিয়া"
+    },
+    "descriptions": {
+      "en": "geographical region",
+      "el": "γεωγραφική περιοχή που αποτελείται από την Αυστραλία, Μελανησία, Μικρονησία, και Πολυνησία",
+      "jp": "六大州の一つ",
+      "sv": "region",
+      "zh": "地理区域包括澳大利亚、美拉尼西亚、密克罗尼西亚和波利尼西亚",
+      "bn": "অস্ট্রেলিয়া, মেলানেশিয়া, মাইক্রোনেশিয়া এবং পলিনেশিয়া নিয়ে গঠিত ভৌগলিক অঞ্চল"
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q1555938",
+    "labels": {
+      "en": "Antarctic",
+      "el": "Ανταρκτική",
+      "jp": "南極",
+      "sv": "Antarktis",
+      "zh": "南极",
+      "bn": "কুমেরু অঞ্চল"
+    },
+    "descriptions": {
+      "en": "polar region around Earth's South Pole",
+      "el": null,
+      "jp": "地球上の南極点、もしくは南極点を中心とする南極大陸およびその周辺の島嶼・海域などを含む地域",
+      "sv": "region kring Jordens sydpol",
+      "zh": null,
+      "bn": null
+    }
+  },
+  {
+    "url": "http://www.wikidata.org/entity/Q7856408",
+    "labels": {
+      "en": "Turtle Island",
+      "el": null,
+      "jp": "タートル・アイランド",
+      "sv": "Sköldpaddsön",
+      "zh": "靈龜島",
+      "bn": null
+    },
+    "descriptions": {
+      "en": "traditional name for (North) America among some indigenous groups",
+      "el": "ήπειρος",
+      "jp": "大陸",
+      "sv": "traditionellt namn för (Nord)-Amerika enligt vissa ursprungsbefolkningar",
+      "zh": "大洲",
+      "bn": "মহাদেশ"
+    }
+  }
+]
