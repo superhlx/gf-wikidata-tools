@@ -20,4 +20,6 @@ lin
   CountryLocation country = SyntaxGre.mkAdv in_Prep country ;
 
   city_Kind = mkCN L.city_N ;
+  bigKind kind = mkCN L.big_A kind ;
+
 }

@@ -15,4 +15,5 @@ fun
   CountryLocation : Country -> Location ;
 
   city_Kind : Kind ;
+  bigKind : Kind -> Kind ;
 }
