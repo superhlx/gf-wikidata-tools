@@ -90,6 +90,17 @@ if __name__ == '__main__':
                 data = json.load(file)
             languages = data[0]['labels'].keys()
 
+        if MODE == 'fix':
+            newdicts : list = []
+            for entry in data:
+                qid = get_qid(entry["url"])
+                newdicts.append({qid : entry["descriptions"]})
+            with open('data.jsonl', 'a') as f:
+                for dict in newdicts:
+                    json.dump(dict, f)
+                    f.write("\n")
+            print("Wrote into data.jsonl")
+
         if MODE == 'statistics':
             print("# Items:", len(data))
             print("# Labels:", {lang: len([
