@@ -93,7 +93,7 @@ if __name__ == '__main__':
         if MODE == 'fix':
             newdicts : list = []
             for entry in data:
-                qid = get_qid(entry["url"])
+                qid = entry["url"].split('/')[-1]
                 newdicts.append({qid : entry["descriptions"]})
             with open('data.jsonl', 'a') as f:
                 for dict in newdicts:
