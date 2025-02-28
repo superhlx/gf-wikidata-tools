@@ -1,0 +1,2155 @@
+# kejsardöme i Centraleuropa åren 1871–1918
+# newdoc
+# newpar
+# sent_id = 1
+# text = kejsardöme i Centraleuropa åren 1871–1918
+1	kejsardöme	kejsardöme	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	obl	_	_
+4	åren	år	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	5	nmod	_	_
+5	1871–1918	1871–1918	NUM	RG|NOM	Case=Nom|NumType=Card	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Nordamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Nordamerika
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Nordamerika	Nordamerika	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i södra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordafrika	Nordafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Östasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Östasien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Östasien	Östasien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralasien	Centralasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Nordeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Nordeuropa
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Nordeuropa	Nordeuropa	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik omfattande större delen av ön Irland
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik omfattande större delen av ön Irland
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	omfattande	omfattande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Tense=Pres|VerbForm=Part	4	amod	_	_
+3	större	stor	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	4	amod	_	_
+4	delen	del	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nsubj	_	_
+5	av	av	ADP	PP	_	6	case	_	_
+6	ön	ö	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nmod	_	_
+7	Irland	Irland	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\n
+
+
+# republik, önation och stadsstat i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik, önation och stadsstat i Sydostasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	MID	_	3	punct	_	_
+3	önation	önation	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	conj	_	_
+4	och	och	CCONJ	KN	_	5	cc	_	_
+5	stadsstat	stadssta	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	1	conj	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\n
+
+
+# republik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centraleuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# furstendöme i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = furstendöme i Centraleuropa
+1	furstendöme	furstendöme	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Persiska viken i Sydvästasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Persiska viken i Sydvästasien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	5	case	_	_
+4	Persiska	Persisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	viken	vik	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nmod	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	Sydvästasien	Sydvästasien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Sydeuropa
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Östeuropa-Sydvästasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östeuropa-Sydvästasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östeuropa-Sydvästasien	Östeuropa-Sydvästasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# federal republik i Nordamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = federal republik i Nordamerika
+1	federal	federal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Nordamerika	Nordamerika	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Oceanien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Oceanien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Oceanien	Oceanien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Västeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Västeuropa
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Västeuropa	Västeuropa	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Sydamerika
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# storhertigdöme i Västeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = storhertigdöme i Västeuropa
+1	storhertigdöme	storhertigdöme	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västeuropa	Västeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östasien	Östasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Sydostasien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordeuropa	Nordeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Nordeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Nordeuropa
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Nordeuropa	Nordeuropa	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centraleuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydostasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralafrika	Centralafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordeuropa	Nordeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# östat i sydöstra Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = östat i sydöstra Stilla havet
+1	östat	östa	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	i	ADP	PP	_	5	case	_	_
+3	sydöstra	sydöster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+4	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	5	amod	_	_
+5	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	obl	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Sydasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Sydasien
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydasien	Sydasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Polynesien i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Polynesien i Stilla havet
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Polynesien	Polynesien	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	i	i	ADP	PP	_	7	case	_	_
+6	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	7	amod	_	_
+7	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Centraleuropa
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Stilla havet
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	5	case	_	_
+4	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	5	amod	_	_
+5	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# land i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = land i Stilla havet
+1	land	land	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	4	amod	_	_
+4	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Centraleuropa
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Stilla havet
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	5	case	_	_
+4	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	5	amod	_	_
+5	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# östat i Melanesien i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = östat i Melanesien i Stilla havet
+1	östat	östa	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Melanesien	Melanesien	PROPN	PM|NOM	Case=Nom	1	obl	_	_
+4	i	i	ADP	PP	_	6	case	_	_
+5	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	6	amod	_	_
+6	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	obl	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Oceanien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Oceanien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Oceanien	Oceanien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Eurasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Eurasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Eurasien	Eurasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# östat i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = östat i Stilla havet
+1	östat	östa	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	4	amod	_	_
+4	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	obl	_	SpacesAfter=\n
+
+
+# republik och östat i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik och östat i Stilla havet
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	och	och	CCONJ	KN	_	3	cc	_	_
+3	östat	östa	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	1	conj	_	_
+4	i	i	ADP	PP	_	6	case	_	_
+5	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	obl	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# federal republik i Mikronesien i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = federal republik i Mikronesien i Stilla havet
+1	federal	federal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Mikronesien	Mikronesien	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	i	i	ADP	PP	_	7	case	_	_
+6	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	7	amod	_	_
+7	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# örepublik i Mikronesien i Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = örepublik i Mikronesien i Stilla havet
+1	örepublik	örepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mikronesien	Mikronesien	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	i	i	ADP	PP	_	6	case	_	_
+5	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	6	amod	_	_
+6	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Mikronesien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Mikronesien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mikronesien	Mikronesien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordafrika	Nordafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östasien	Östasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# östat och republik i Melanesien i södra Stilla havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = östat och republik i Melanesien i södra Stilla havet
+1	östat	östat	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	och	och	CCONJ	KN	_	3	cc	_	_
+3	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	conj	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Melanesien	Melanesien	PROPN	PM|NOM	Case=Nom	1	obl	_	_
+6	i	i	ADP	PP	_	9	case	_	_
+7	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	9	amod	_	_
+8	Stilla	stilla	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	9	amod	_	_
+9	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Sydamerika
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i norra Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i norra Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	norra	norr	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Nordamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Nordamerika
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordamerika	Nordamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Östafrika
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i nordöstra Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i nordöstra Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	nordöstra	nordöster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i nordvästra Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i nordvästra Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	nordvästra	nordväster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västeuropa	Västeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Västeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Västeuropa
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Västeuropa	Västeuropa	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Karibien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Karibien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Karibien	Karibien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Karibien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Karibien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Karibien	Karibien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Västindien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Västindien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Västindien	Västindien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# folkrepublik i Asien
+# newdoc
+# newpar
+# sent_id = 1
+# text = folkrepublik i Asien
+1	folkrepublik	folkrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Asien	Asien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Sydamerika
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Karibien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Karibien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Karibien	Karibien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# monarki i Karibiska havet
+# newdoc
+# newpar
+# sent_id = 1
+# text = monarki i Karibiska havet
+1	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	Karibiska	Karibisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	havet	hav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Västindien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Västindien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Västindien	Västindien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralamerika	Centralamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Östeuropa och Nordasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Östeuropa och Nordasien
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östeuropa	Östeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	och	och	CCONJ	KN	_	5	cc	_	_
+5	Nordasien	Nordasien	PROPN	PM|NOM	Case=Nom	3	conj	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Västindien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Västindien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Västindien	Västindien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Karibien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Karibien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Karibien	Karibien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Centraleuropa
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralamerika	Centralamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Karibien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Karibien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Karibien	Karibien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östeuropa	Östeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# örepublik i Nordeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = örepublik i Nordeuropa
+1	örepublik	örepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordeuropa	Nordeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västindien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västindien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västindien	Västindien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västindien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västindien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västindien	Västindien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordeuropa	Nordeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralamerika	Centralamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordeuropa	Nordeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydvästasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydvästasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydvästasien	Sydvästasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östeuropa	Östeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Västasien
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centraleuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralamerika	Centralamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centraleuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralamerika	Centralamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centraleuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centraleuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centraleuropa	Centraleuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik på arabiska halvön i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik på arabiska halvön i Västasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	på	på	ADP	PP	_	4	case	_	_
+3	arabiska	arabisk	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	halvön	halvö	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	1	nmod	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydösteuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydösteuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydösteuropa	Sydösteuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östeuropa	Östeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Västasien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralamerika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralamerika	Centralamerika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralasien	Centralasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# emirat i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = emirat i Västasien
+1	emirat	emira	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydostasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydösteuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydösteuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydösteuropa	Sydösteuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Sydeuropa
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# örepublik i norra Indiska oceanen
+# newdoc
+# newpar
+# sent_id = 1
+# text = örepublik i norra Indiska oceanen
+1	örepublik	örepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	5	case	_	_
+3	norra	norr	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+4	Indiska	Indiska	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	oceanen	ocean	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# federal konstitutionell monarki i Sydöstasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = federal konstitutionell monarki i Sydöstasien
+1	federal	federal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+2	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+3	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Sydöstasien	Sydöstasien	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\n
+
+
+# republik i sydöstra Kaukasus i Östeuropa-Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i sydöstra Kaukasus i Östeuropa-Västasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	obl	_	_
+2	i	i	ADP	PP	_	1	case	_	_
+3	sydöstra	sydöster	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	_	_
+4	Kaukasus	Kaukasus	PROPN	PM|NOM	Case=Nom	3	obj	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Östeuropa-Västasien	Östeuropa-Västasien	PROPN	PM|NOM	Case=Nom	3	obl	_	SpacesAfter=\n
+
+
+# republik i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydostasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Sydasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Sydasien
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydasien	Sydasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# furstendöme i Pyrenéerna i sydvästra Europa
+# newdoc
+# newpar
+# sent_id = 1
+# text = furstendöme i Pyrenéerna i sydvästra Europa
+1	furstendöme	furstendöme	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Pyrenéerna	Pyrené	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	1	nmod	_	_
+4	i	i	ADP	PP	_	6	case	_	_
+5	sydvästra	sydväster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	Europa	Europa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik på ön Cypern i Medelhavet
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik på ön Cypern i Medelhavet
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	på	på	ADP	PP	_	3	case	_	_
+3	ön	ön	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	_
+4	Cypern	Cyper	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Medelhavet	Medelhav	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# republik på gränsen mellan Europa och Asien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik på gränsen mellan Europa och Asien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	på	på	ADP	PP	_	3	case	_	_
+3	gränsen	gräns	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	_
+4	mellan	mellan	ADP	PP	_	5	case	_	_
+5	Europa	Europa	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+6	och	och	CCONJ	KN	_	7	cc	_	_
+7	Asien	Asien	PROPN	PM|NOM	Case=Nom	5	conj	_	SpacesAfter=\n
+
+
+# sultanat på Arabiska halvön
+# newdoc
+# newpar
+# sent_id = 1
+# text = sultanat på Arabiska halvön
+1	sultanat	sultana	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	på	på	ADP	PP	_	4	case	_	_
+3	Arabiska	arabisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	halvön	halvö	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	obl	_	SpacesAfter=\n
+
+
+# republik i Sydasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydasien	Sydasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralasien	Centralasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# örepublik i Medelhavet i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = örepublik i Medelhavet i Sydeuropa
+1	örepublik	örepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Medelhavet	Medelhavet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# absolut monarki på Arabiska halvöns nordöstkust
+# newdoc
+# newpar
+# sent_id = 1
+# text = absolut monarki på Arabiska halvöns nordöstkust
+1	absolut	absolut	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	på	på	ADP	PP	_	6	case	_	_
+4	Arabiska	arabisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	halvöns	halvö	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	6	nmod:poss	_	_
+6	nordöstkust	nordöstkust	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# kungadöme i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = kungadöme i Västasien
+1	kungadöme	kungadöme	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\n
+
+
+# republik i Sydasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydasien	Sydasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# mikrostat i italienska huvudstaden Rom i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = mikrostat i italienska huvudstaden Rom i Sydeuropa
+1	mikrostat	mikrostat	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	5	nsubj	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	italienska	italiensk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	huvudstaden	huvudstad	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	_
+5	Rom	Rom	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	5	obl	_	SpacesAfter=\n
+
+
+# furstendöme i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = furstendöme i Sydeuropa
+1	furstendöme	furstendöme	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydeuropa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydeuropa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydeuropa	Sydeuropa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västasien	Västasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralasien	Centralasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östasien	Östasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik på Appeninska halvön i södra Europa
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik på Appeninska halvön i södra Europa
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	på	på	ADP	PP	_	4	case	_	_
+3	Appeninska	Appeninsk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	halvön	halvö	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	_
+5	i	i	ADP	PP	_	7	case	_	_
+6	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	7	amod	_	_
+7	Europa	Europa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# federal monarki i Sydvästasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = federal monarki i Sydvästasien
+1	federal	federal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Sydvästasien	Sydvästasien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Sydostasien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralasien	Centralasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Centralamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Centralamerika
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Centralamerika	Centralamerika	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# östat i Karibien
+# newdoc
+# newpar
+# sent_id = 1
+# text = östat i Karibien
+1	östat	östa	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Karibien	Karibien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\n
+
+
+# republik i Karibien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Karibien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Karibien	Karibien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydostasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydostasien och Oceanien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydostasien och Oceanien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	och	och	CCONJ	KN	_	5	cc	_	_
+5	Oceanien	Oceanien	PROPN	PM|NOM	Case=Nom	3	conj	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i södra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i östra Asien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i östra Asien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	östra	öster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Asien	Asien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# land i södra Asien
+# newdoc
+# newpar
+# sent_id = 1
+# text = land i södra Asien
+1	land	land	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Asien	Asien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\n
+
+
+# republik i Sydasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydasien	Sydasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i västra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i västra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	västra	väster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik och östat i Indiska oceanen utanför Afrikas östkust
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik och östat i Indiska oceanen utanför Afrikas östkust
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	och	och	CCONJ	KN	_	3	cc	_	_
+3	östat	östa	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	1	conj	_	_
+4	i	i	ADP	PP	_	6	case	_	_
+5	Indiska	Indiska	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	oceanen	ocean	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	obl	_	_
+7	utanför	utanför	ADP	PP	_	9	case	_	_
+8	Afrikas	Afrika	DET	HS|DEF	Definite=Def|Poss=Yes|PronType=Rel	9	nmod:poss	_	_
+9	östkust	östkust	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	obl	_	SpacesAfter=\n
+
+
+# republik i Centralafrika, huvudstad Brazzaville
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralafrika, huvudstad Brazzaville
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralafrika	Centralafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	huvudstad	huvudstad	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	6	nmod	_	_
+6	Brazzaville	Brazzaville	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\n
+
+
+# republik i Centralafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralafrika	Centralafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Sydasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Sydasien
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Sydasien	Sydasien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# stat i Afrika - Demokratiska republiken Kongo
+# newdoc
+# newpar
+# sent_id = 1
+# text = stat i Afrika - Demokratiska republiken Kongo
+1	stat	stat	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	obl	_	_
+4	-	-	PUNCT	MID	_	1	punct	_	_
+5	Demokratiska	Demokratisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	republiken	republik	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nmod	_	_
+7	Kongo	Kongo	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\n
+
+
+# sultanat på ön Borneo i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = sultanat på ön Borneo i Sydostasien
+1	sultanat	sultana	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	på	på	ADP	PP	_	4	case	_	_
+3	ön	ö	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nmod	_	_
+4	Borneo	Borneo	PROPN	PM|NOM	Case=Nom	1	obl	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Sydostasien
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Sydostasien
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydostasien	Sydostasien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralafrika	Centralafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralafrika	Centralafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordafrika	Nordafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i södra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Centralafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Centralafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Centralafrika	Centralafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# sedan 1958 Frankrikes femte republikanska konstitution
+# newdoc
+# newpar
+# sent_id = 1
+# text = sedan 1958 Frankrikes femte republikanska konstitution
+1	sedan	sedan	ADP	PP	_	3	case	_	_
+2	1958	1958	NUM	RG|NOM	Case=Nom|NumType=Card	3	nummod	_	_
+3	Frankrikes	Frankrike	PROPN	PM|NOM	Case=Nom	6	obl	_	_
+4	femte	femte	ADJ	RO|NOM	Case=Nom	6	amod	_	_
+5	republikanska	republikansk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	konstitution	konstitution	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# republik i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i södra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# suverän stat i Europa, Arktis och Nordatlanten
+# newdoc
+# newpar
+# sent_id = 1
+# text = suverän stat i Europa, Arktis och Nordatlanten
+1	suverän	suverän	ADV	AB	_	2	advmod	_	_
+2	stat	stad	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Europa	Europa	PROPN	PM|NOM	Case=Nom	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	6	punct	_	_
+6	Arktis	Arkti	PROPN	PM|NOM	Case=Nom	2	conj	_	_
+7	och	och	CCONJ	KN	_	8	cc	_	_
+8	Nordatlanten	Nordatlanten	PROPN	PM|NOM	Case=Nom	2	conj	_	SpacesAfter=\n
+
+
+# republik omfattande en ögrupp i Atlanten väster om afrikanska fastlandet
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik omfattande en ögrupp i Atlanten väster om afrikanska fastlandet
+1	republik	republika	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	omfattande	omfattande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Tense=Pres|VerbForm=Part	1	nmod	_	_
+3	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	4	det	_	_
+4	ögrupp	ögrupp	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	_	_
+5	i	i	ADP	PP	_	7	case	_	_
+6	Atlanten	Atlanten	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	amod	_	_
+7	väster	väst	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	nmod	_	_
+8	om	om	ADP	PP	_	10	case	_	_
+9	afrikanska	afrikansk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	10	amod	_	_
+10	fastlandet	fastlande	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	7	nmod	_	SpacesAfter=\n
+
+
+# republik i Mellanöstern
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Mellanöstern
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mellanöstern	Mellanöster	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i södra Afrika
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	5	case	_	_
+4	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Nordafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Nordafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordafrika	Nordafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Indiska oceanen
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Indiska oceanen
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	Indiska	Indiska	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	oceanen	ocean	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# republik i sydöstra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i sydöstra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	sydöstra	sydöster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i nordvästra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i nordvästra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	nordvästra	nordväster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik och östat i Indiska oceanen utanför Afrikas östkust
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik och östat i Indiska oceanen utanför Afrikas östkust
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	och	och	CCONJ	KN	_	3	cc	_	_
+3	östat	östa	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	1	conj	_	_
+4	i	i	ADP	PP	_	6	case	_	_
+5	Indiska	Indiska	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	oceanen	ocean	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	obl	_	_
+7	utanför	utanför	ADP	PP	_	9	case	_	_
+8	Afrikas	Afrika	DET	HS|DEF	Definite=Def|Poss=Yes|PronType=Rel	9	nmod:poss	_	_
+9	östkust	östkust	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	obl	_	SpacesAfter=\n
+
+
+# konstitutionell monarki i Nordafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = konstitutionell monarki i Nordafrika
+1	konstitutionell	konstitutionell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Nordafrika	Nordafrika	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# republik i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i södra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i södra Afrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Västafrika
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Östafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# örepublik utanför Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = örepublik utanför Västafrika
+1	örepublik	örepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	utanför	utanför	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# örepublik utanför Afrikas östkust i Indiska oceanen
+# newdoc
+# newpar
+# sent_id = 1
+# text = örepublik utanför Afrikas östkust i Indiska oceanen
+1	örepublik	örepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	utanför	utanför	ADP	PP	_	4	case	_	_
+3	Afrikas	Afrika	DET	HS|DEF	Definite=Def|Poss=Yes|PronType=Rel	4	nmod:poss	_	_
+4	östkust	östkust	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	_
+5	i	i	ADP	PP	_	7	case	_	_
+6	Indiska	Indiska	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	7	amod	_	_
+7	oceanen	ocean	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# republik i Västafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = republik i Västafrika
+1	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Västafrika	Västafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# förbundsrepublik i Östafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = förbundsrepublik i Östafrika
+1	förbundsrepublik	förbundsrepublik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Östafrika	Östafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\n
+
+
+# federal republik i Nordafrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = federal republik i Nordafrika
+1	federal	federal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	republik	republik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Nordafrika	Nordafrika	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# absolut monarki i södra Afrika
+# newdoc
+# newpar
+# sent_id = 1
+# text = absolut monarki i södra Afrika
+1	absolut	absolut	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	2	amod	_	_
+2	monarki	monarki	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	5	case	_	_
+4	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	Afrika	Afrika	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\n
+
+
+# består av Aruba, Curaçao, Nederländerna och Sint Maarten
+# newdoc
+# newpar
+# sent_id = 1
+# text = består av Aruba, Curaçao, Nederländerna och Sint Maarten
+1	består	bestå	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	av	av	ADP	PP	_	3	case	_	_
+3	Aruba	Aruba	PROPN	PM|NOM	Case=Nom	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Curaçao	Curaçao	PROPN	PM|NOM	Case=Nom	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	Nederländerna	Nederländ	PROPN	PM|NOM	Case=Nom	3	conj	_	_
+8	och	och	CCONJ	KN	_	9	cc	_	_
+9	Sint	Sint	ADV	AB|POS	Degree=Pos	3	conj	_	_
+10	Maarten	Maart	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nsubj	_	SpacesAfter=\n
+
+

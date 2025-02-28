@@ -1,0 +1,116 @@
+# 大陸、大州
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大陸、大州
+1	大陸	大陸	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	大州	大州	PROPN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 大陸
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大陸
+1	大陸	大陸	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 地球の最も南にある大陸
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地球の最も南にある大陸
+1	地球	地球	NOUN	_	_	7	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	最も	最も	ADV	_	_	6	advmod	_	SpaceAfter=No
+4	南	南	PROPN	_	_	6	iobj	_	SpaceAfter=No
+5	に	に	ADP	_	_	4	case	_	SpaceAfter=No
+6	ある	ある	VERB	_	_	7	acl	_	SpaceAfter=No
+7	大陸	大陸	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南北アメリカをまとめて一つの大陸もしくは陸塊とする
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南北アメリカをまとめて一つの大陸もしくは陸塊とする
+1	南北アメリカ	南北アメリカ	PROPN	_	_	3	obj	_	SpaceAfter=No
+2	を	を	ADP	_	_	1	case	_	SpaceAfter=No
+3	まとめ	まとめる	VERB	_	_	13	acl	_	SpaceAfter=No
+4	て	て	SCONJ	_	_	3	mark	_	SpaceAfter=No
+5	一	一	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
+6	つ	つ	NOUN	_	_	5	mark	_	SpaceAfter=No
+7	の	の	ADP	_	_	5	case	_	SpaceAfter=No
+8	大陸	大陸	NOUN	_	_	13	obl	_	SpaceAfter=No
+9	も	も	ADP	_	_	8	case	_	SpaceAfter=No
+10	しくは	しくは	ADV	_	_	13	advmod	_	SpaceAfter=No
+11	陸塊	陸塊	NOUN	_	_	13	obl	_	SpaceAfter=No
+12	と	と	ADP	_	_	11	case	_	SpaceAfter=No
+13	する	する	VERB	_	_	0	root	_	SpacesAfter=\n
+
+
+# 地球の最北部の地域
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地球の最北部の地域
+1	地球	地球	NOUN	_	_	4	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	最	最	NOUN	_	_	4	amod	_	SpaceAfter=No
+4	北部	北部	NOUN	_	_	6	nmod	_	SpaceAfter=No
+5	の	の	ADP	_	_	4	case	_	SpaceAfter=No
+6	地域	地域	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 六大州の一つ
+# newdoc
+# newpar
+# sent_id = 1
+# text = 六大州の一つ
+1	六	六	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
+2	大州	大州	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	一	一	NUM	_	NumType=Card	0	root	_	SpaceAfter=No
+5	つ	つ	NOUN	_	_	4	mark	_	SpacesAfter=\n
+
+
+# 地球上の南極点、もしくは南極点を中心とする南極大陸およびその周辺の島嶼・海域などを含む地域
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地球上の南極点、もしくは南極点を中心とする南極大陸およびその周辺の島嶼・海域などを含む地域
+1	地球上	地球上	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	南極点	南極点	NOUN	_	_	24	nmod	_	SpaceAfter=No
+4	、	、	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	もしく	もしく	PRON	_	_	24	nmod	_	SpaceAfter=No
+6	は	は	ADP	_	_	5	case	_	SpaceAfter=No
+7	南極点	南極点	NOUN	_	_	11	obj	_	SpaceAfter=No
+8	を	を	ADP	_	_	7	case	_	SpaceAfter=No
+9	中心	中心	NOUN	_	_	11	obl	_	SpaceAfter=No
+10	と	と	ADP	_	_	9	case	_	SpaceAfter=No
+11	する	する	VERB	_	_	12	acl	_	SpaceAfter=No
+12	南極大陸	南極大陸	PROPN	_	_	13	nmod	_	SpaceAfter=No
+13	および	および	CCONJ	_	_	15	advmod	_	SpaceAfter=No
+14	その	その	ADJ	_	_	15	det	_	SpaceAfter=No
+15	周辺	周辺	NOUN	_	_	20	nmod	_	SpaceAfter=No
+16	の	の	ADP	_	_	15	case	_	SpaceAfter=No
+17	島	島	NOUN	_	_	18	compound	_	SpaceAfter=No
+18	嶼	嶼	NOUN	_	_	20	nmod	_	SpaceAfter=No
+19	・	・	SYM	_	_	18	compound	_	SpaceAfter=No
+20	海域	海域	NOUN	_	_	23	obj	_	SpaceAfter=No
+21	など	など	ADP	_	_	20	case	_	SpaceAfter=No
+22	を	を	ADP	_	_	20	case	_	SpaceAfter=No
+23	含む	含む	VERB	_	_	24	acl	_	SpaceAfter=No
+24	地域	地域	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 大陸
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大陸
+1	大陸	大陸	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+

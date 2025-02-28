@@ -1,0 +1,110 @@
+# 歐亞大陸西北部的一區域
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐亞大陸西北部的一區域
+1	歐	歐	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+3	大陸	大陸	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	西北	西北	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	部	部	PART	SFN	_	7	det	_	SpaceAfter=No
+6	的	的	PART	DEC	Case=Gen	5	case:dec	_	SpaceAfter=No
+7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
+8	區域	區域	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 地球上面積最大、人口最多的大洲
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地球上面積最大、人口最多的大洲
+1	地球	地球	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	上	上	NOUN	NN	_	1	acl	_	SpaceAfter=No
+3	面積	面積	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
+4	最大	最大	ADJ	JJ	_	9	acl:relcl	_	SpaceAfter=No
+5	、	、	PUNCT	EC	_	7	punct	_	SpaceAfter=No
+6	人口	人口	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+7	最多	最多	ADJ	JJ	_	4	conj	_	SpaceAfter=No
+8	的	的	PART	DEV	_	4	mark:relcl	_	SpaceAfter=No
+9	大洲	大洲	PROPN	NNP	_	0	root	_	SpacesAfter=\n
+
+
+# 地球大陸，七大洲之一
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地球大陸，七大洲之一
+1	地球	地球	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	大陸	大陸	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
+4	七	七	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+5	大	大	PART	PFA	_	6	case:pref	_	SpaceAfter=No
+6	洲	洲	PROPN	NNP	_	8	det	_	SpaceAfter=No
+7	之	之	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
+8	一	一	NUM	CD	NumType=Card	0	root	_	SpacesAfter=\n
+
+
+# 一块包含北美洲、中美洲和南美洲的大陆
+# newdoc
+# newpar
+# sent_id = 1
+# text = 一块包含北美洲、中美洲和南美洲的大陆
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
+2	块	块	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
+3	包含	包含	VERB	VV	_	0	root	_	SpaceAfter=No
+4	北	北	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+5	美	美	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+6	洲	洲	PART	SFN	_	17	det	_	SpaceAfter=No
+7	、	、	PUNCT	EC	_	10	punct	_	SpaceAfter=No
+8	中	中	PART	PFA	_	10	case:suff	_	SpaceAfter=No
+9	美	美	PROPN	NNP	_	8	conj	_	SpaceAfter=No
+10	洲	洲	PART	SFN	_	6	conj	_	SpaceAfter=No
+11	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
+12	南	南	NOUN	NN	_	13	nmod	_	SpaceAfter=No
+13	美	美	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+14	洲	洲	PART	SFN	_	6	conj	_	SpaceAfter=No
+15	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
+16	大	大	PART	PFA	_	17	case:pref	_	SpaceAfter=No
+17	陆	陆	NOUN	NN	_	3	obj	_	SpacesAfter=\n
+
+
+# 寒帶地區
+# newdoc
+# newpar
+# sent_id = 1
+# text = 寒帶地區
+1	寒帶	寒帶	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	地區	地區	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 地理区域包括澳大利亚、美拉尼西亚、密克罗尼西亚和波利尼西亚
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地理区域包括澳大利亚、美拉尼西亚、密克罗尼西亚和波利尼西亚
+1	地理	地理	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	区域	区域	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
+3	包括	包括	VERB	VV	_	0	root	_	SpaceAfter=No
+4	澳大利	澳大利	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+5	亚	亚	NOUN	NN	_	3	obj	_	SpaceAfter=No
+6	、	、	PUNCT	EC	_	8	punct	_	SpaceAfter=No
+7	美拉尼西	美拉尼西	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
+8	亚	亚	NOUN	NN	_	5	conj	_	SpaceAfter=No
+9	、	、	PUNCT	EC	_	13	punct	_	SpaceAfter=No
+10	密克	密克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
+11	罗	罗	NOUN	NN	_	13	nmod	_	SpaceAfter=No
+12	尼西	尼西	NOUN	NN	_	13	nmod	_	SpaceAfter=No
+13	亚	亚	NOUN	NN	_	5	conj	_	SpaceAfter=No
+14	和	和	CCONJ	CC	_	15	cc	_	SpaceAfter=No
+15	波利尼西	波利尼西	NOUN	NN	_	5	conj	_	SpaceAfter=No
+16	亚	亚	NOUN	NN	_	5	conj	_	SpacesAfter=\n
+
+
+# 大洲
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大洲
+1	大洲	大洲	PROPN	NNP	_	0	root	_	SpacesAfter=\n
+
+

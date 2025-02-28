@@ -1,0 +1,2533 @@
+# German nation-state in Central Europe from 1871 to 1918
+# newdoc
+# newpar
+# sent_id = 1
+# text = German nation-state in Central Europe from 1871 to 1918
+1	German	german	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	nation	nation	NOUN	NN	Number=Sing	4	compound	_	SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	punct	_	SpaceAfter=No
+4	state	state	NOUN	NN	Number=Sing	0	root	_	_
+5	in	in	ADP	IN	_	7	case	_	_
+6	Central	Central	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Europe	Europe	PROPN	NNP	Number=Sing	4	nmod	_	_
+8	from	from	ADP	IN	_	9	case	_	_
+9	1871	1871	NUM	CD	NumType=Card	4	nmod	_	_
+10	to	to	ADP	IN	_	11	case	_	_
+11	1918	1918	NUM	CD	NumType=Card	4	nmod	_	SpacesAfter=\n
+
+
+# country in North America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in North America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	North	North	PROPN	NNP	Number=Sing	4	compound	_	_
+4	America	America	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in southern Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	southern	southern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in North Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in North Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	North	North	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island country in East Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = island country in East Asia
+1	island	island	NOUN	NN	Number=Sing	2	compound	_	_
+2	country	country	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	East	East	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Northern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northern	Northern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in South America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	_
+4	America	America	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Northwestern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northwestern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northwestern	Northwestern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign island country and city-state in maritime Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign island country and city-state in maritime Southeast Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	3	amod	_	_
+2	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+3	country	country	NOUN	NN	Number=Sing	0	root	_	_
+4	and	and	CCONJ	CC	_	7	cc	_	_
+5	city	city	NOUN	NN	Number=Sing	7	compound	_	SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No
+7	state	state	NOUN	NN	Number=Sing	3	conj	_	_
+8	in	in	ADP	IN	_	11	case	_	_
+9	maritime	maritime	ADJ	JJ	Degree=Pos	11	amod	_	_
+10	Southeast	Southeast	PROPN	NNP	Number=Sing	11	compound	_	_
+11	Asia	Asia	PROPN	NNP	Number=Sing	7	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in the Persian Gulf
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Persian Gulf
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	5	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	Persian	Persian	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Gulf	Gulf	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in southwestern Europe with territories in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in southwestern Europe with territories in Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	southwestern	southwestern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	_
+5	with	with	ADP	IN	_	6	case	_	_
+6	territories	territory	PROPN	NNPS	Number=Plur	1	nmod	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	Africa	Africa	PROPN	NNP	Number=Sing	6	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in the South Caucasus region of Eurasia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in the South Caucasus region of Eurasia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	7	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+5	South	South	PROPN	NNP	Number=Sing	6	compound	_	_
+6	Caucasus	Caucasus	PROPN	NNP	Number=Sing	7	compound	_	_
+7	region	region	NOUN	NN	Number=Sing	2	nmod	_	_
+8	of	of	ADP	IN	_	9	case	_	_
+9	Eurasia	Eurasia	PROPN	NNP	Number=Sing	7	nmod	_	SpacesAfter=\n
+
+
+# country primarily located in North America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country primarily located in North America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	primarily	primarily	ADV	RB	_	3	advmod	_	_
+3	located	locate	VERB	VBN	Tense=Past|VerbForm=Part	1	acl	_	_
+4	in	in	ADP	IN	_	6	case	_	_
+5	North	North	PROPN	NNP	Number=Sing	6	compound	_	_
+6	America	America	PROPN	NNP	Number=Sing	3	obl	_	SpacesAfter=\n
+
+
+# country in Southeast Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Oceania
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	3	case	_	_
+3	Oceania	Oceania	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in western Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in western Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	western	western	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Northwestern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northwestern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northwestern	Northwestern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in East Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in East Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	East	East	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Northern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northern	Northern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Northern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northern	Northern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state situated on several islands in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state situated on several islands in Southeast Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	situated	situate	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	several	several	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	islands	island	NOUN	NNS	Number=Plur	3	obl	_	_
+7	in	in	ADP	IN	_	9	case	_	_
+8	Southeast	southeast	PROPN	NNP	Number=Sing	9	compound	_	_
+9	Asia	Asia	PROPN	NNP	Number=Sing	3	obl	_	SpacesAfter=\n
+
+
+# sovereign state in central Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in central Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	central	central	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in northeastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in northeastern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	northeastern	northeastern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Southern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southern	southern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island country in the southwest Pacific Ocean
+# newdoc
+# newpar
+# sent_id = 1
+# text = island country in the southwest Pacific Ocean
+1	island	island	NOUN	NN	Number=Sing	2	compound	_	_
+2	country	country	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	7	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+5	southwest	southwest	PROPN	NNP	Number=Sing	6	compound	_	_
+6	Pacific	Pacific	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Ocean	Ocean	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in South Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in South Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in Oceania
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	Oceania	Oceania	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Oceania, situated on an archipelago
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Oceania, situated on an archipelago
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Oceania	Oceania	PROPN	NNP	Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	6	punct	_	_
+6	situated	situate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	on	on	ADP	IN	_	9	case	_	_
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	archipelago	archipelago	NOUN	NN	Number=Sing	6	obl	_	SpacesAfter=\n
+
+
+# sovereign state made up of six islands in the Pacific Ocean
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state made up of six islands in the Pacific Ocean
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	made	make	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+4	up	up	ADP	IN	_	7	case	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	six	six	NUM	CD	NumType=Card	7	nummod	_	_
+7	islands	island	NOUN	NNS	Number=Plur	3	obl	_	_
+8	in	in	ADP	IN	_	11	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+10	Pacific	Pacific	PROPN	NNP	Number=Sing	11	compound	_	_
+11	Ocean	Ocean	PROPN	NNP	Number=Sing	7	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in Oceania
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	Oceania	Oceania	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# island country in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = island country in Oceania
+1	island	island	NOUN	NN	Number=Sing	0	root	_	_
+2	country	country	NOUN	NN	Number=Sing	1	nmod	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Oceania	Oceania	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Oceania
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	3	case	_	_
+3	Oceania	Oceania	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country straddling Southeast Europe and West Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country straddling Southeast Europe and West Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	straddling	straddl	VERB	VBG	VerbForm=Ger	1	acl	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	2	obj	_	_
+5	and	and	CCONJ	CC	_	7	cc	_	_
+6	West	West	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Asia	Asia	PROPN	NNP	Number=Sing	4	conj	_	SpacesAfter=\n
+
+
+# island sovereign state in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in Oceania
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	Oceania	Oceania	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Oceania
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	3	case	_	_
+3	Oceania	Oceania	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Southwestern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southwestern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southwestern	southwestern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in Oceania
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	Oceania	Oceania	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the central Pacific Ocean
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the central Pacific Ocean
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	8	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+6	central	central	ADJ	JJ	Degree=Pos	8	amod	_	_
+7	Pacific	Pacific	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Ocean	Ocean	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country near the equator in the Pacific Ocean
+# newdoc
+# newpar
+# sent_id = 1
+# text = country near the equator in the Pacific Ocean
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	near	near	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	equator	equator	NOUN	NN	Number=Sing	1	nmod	_	_
+5	in	in	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	Pacific	Pacific	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Ocean	Ocean	PROPN	NNP	Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# country in Northeast Africa and Southwest Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northeast Africa and Southwest Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northeast	northeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	_
+5	and	and	CCONJ	CC	_	7	cc	_	_
+6	Southwest	Southwest	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Asia	Asia	PROPN	NNP	Number=Sing	4	conj	_	SpacesAfter=\n
+
+
+# country in East Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in East Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	East	East	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in Oceania
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	Oceania	Oceania	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in northern South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in northern South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	6	case	_	_
+4	northern	northern	ADJ	JJ	Degree=Pos	6	amod	_	_
+5	South	South	PROPN	NNP	Number=Sing	6	compound	_	_
+6	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in South America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	_
+4	America	America	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in North America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in North America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	North	North	PROPN	NNP	Number=Sing	4	compound	_	_
+4	America	America	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Eastern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Eastern Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Eastern	Eastern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in the Horn of Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Horn of Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	Horn	horn	PROPN	NNP	Number=Sing	1	nmod	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	Africa	Africa	PROPN	NNP	Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# country in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in South America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	_
+4	America	America	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Western Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Western Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Western	western	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in north-west Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in north-west Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	6	case	_	_
+3	north	north	ADV	RB	_	5	advmod	_	SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	5	punct	_	SpaceAfter=No
+5	west	west	ADV	RB	_	6	advmod	_	_
+6	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Sea	Sea	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Sea	Sea	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country in East Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in East Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	East	East	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in South America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in South America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	_
+4	America	America	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Sea	Sea	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# island state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	2	compound	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	6	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	Caribbean	Caribbean	PROPN	NNP	Number=Sing	6	compound	_	_
+6	Sea	Sea	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Sea	Sea	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Eastern Europe and Northern Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Eastern Europe and Northern Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Eastern	Eastern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	_
+5	and	and	CCONJ	CC	_	7	cc	_	_
+6	Northern	northern	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Asia	Asia	PROPN	NNP	Number=Sing	4	conj	_	SpacesAfter=\n
+
+
+# island sovereign state in the West Indies
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the West Indies
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	West	West	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Indies	Indies	PROPN	NNPS	Number=Plur	3	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Sea	Sea	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Sea	Sea	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country in Eastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Eastern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Eastern	Eastern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Nordic island country in the North Atlantic Ocean
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nordic island country in the North Atlantic Ocean
+1	Nordic	Nordic	PROPN	NNP	Number=Sing	2	compound	_	_
+2	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+3	country	country	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	8	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+6	North	North	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Atlantic	Atlantic	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Ocean	Ocean	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in the Caribbean Sea
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	Caribbean	Caribbean	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Sea	Sea	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Caribbean Sea
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	5	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	Caribbean	Caribbean	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Sea	Sea	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Northern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northern	Northern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in northeastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in northeastern Europe
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	northeastern	northeastern	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Europe	Europe	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Western Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Western Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Western	western	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Eastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Eastern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Eastern	Eastern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Western Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Western Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Western	western	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Central America
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central America
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	America	America	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in the Middle East
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Middle East
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	5	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	Middle	Middle	PROPN	NNP	Number=Sing	5	compound	_	_
+5	East	East	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in West Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Eastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Eastern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Eastern	Eastern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in the Middle East
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Middle East
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	5	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	Middle	Middle	PROPN	NNP	Number=Sing	5	compound	_	_
+5	East	East	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in southeastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in southeastern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	southeastern	southeastern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Western Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Western Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Western	western	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in southeastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in southeastern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	southeastern	southeastern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Central Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Western Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Western Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Western	western	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South Asia, situated on an archipelago in the Arabian Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South Asia, situated on an archipelago in the Arabian Sea
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	situated	situate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+8	on	on	ADP	IN	_	10	case	_	_
+9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_
+10	archipelago	archipelago	NOUN	NN	Number=Sing	7	obl	_	_
+11	in	in	ADP	IN	_	14	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+13	Arabian	Arabian	PROPN	NNP	Number=Sing	14	compound	_	_
+14	Sea	Sea	PROPN	NNP	Number=Sing	10	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in the Caucasus in Eastern Europe and Western Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Caucasus in Eastern Europe and Western Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	Caucasus	Caucasus	PROPN	NNP	Number=Sing	1	nmod	_	_
+5	in	in	ADP	IN	_	7	case	_	_
+6	Eastern	Eastern	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Europe	Europe	PROPN	NNP	Number=Sing	4	nmod	_	_
+8	and	and	CCONJ	CC	_	10	cc	_	_
+9	Western	western	PROPN	NNP	Number=Sing	10	compound	_	_
+10	Asia	Asia	PROPN	NNP	Number=Sing	7	conj	_	SpacesAfter=\n
+
+
+# country in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in South Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in South Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign microstate between France and Spain, in Western Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign microstate between France and Spain, in Western Europe
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	microstate	microstate	NOUN	NN	Number=Sing	0	root	_	_
+3	between	between	ADP	IN	_	4	case	_	_
+4	France	France	PROPN	NNP	Number=Sing	2	nmod	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	Spain	Spain	PROPN	NNP	Number=Sing	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	Western	western	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	Europe	Europe	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Mediterranean island nation in Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mediterranean island nation in Europe
+1	Mediterranean	Mediterranean	ADJ	JJ	Degree=Pos	3	amod	_	_
+2	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+3	nation	nation	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	Europe	Europe	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country in the Caucasus
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Caucasus
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	Caucasus	Caucasus	NOUN	NNS	Number=Plur	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in western Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in western Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	western	western	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Eastern Europe and Central Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Eastern Europe and Central
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Eastern	Eastern	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Europe	Europe	PROPN	NNP	Number=Sing	2	nmod	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	Central	Central	PROPN	NNP	Number=Sing	5	conj	_	_
+
+# sent_id = 2
+# text = Asia
+1	Asia	Asia	PROPN	NNP	Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# sovereign state in Southern Europe situated on an archipelago in the Mediterranean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Southern Europe situated on an archipelago in the Mediterranean Sea
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Southern	southern	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Europe	Europe	PROPN	NNP	Number=Sing	2	nmod	_	_
+6	situated	situate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	on	on	ADP	IN	_	9	case	_	_
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	archipelago	archipelago	NOUN	NN	Number=Sing	6	obl	_	_
+10	in	in	ADP	IN	_	13	case	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+12	Mediterranean	Mediterranean	PROPN	NNP	Number=Sing	13	compound	_	_
+13	Sea	Sea	PROPN	NNP	Number=Sing	9	nmod	_	SpacesAfter=\n
+
+
+# country in West Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in West Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island country in South Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = island country in South Asia
+1	island	island	NOUN	NN	Number=Sing	2	compound	_	_
+2	country	country	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Holy See's independent state, an enclave within Rome, Italy
+# newdoc
+# newpar
+# sent_id = 1
+# text = Holy See's independent state, an enclave within Rome, Italy
+1	Holy	Holy	PROPN	NNP	Number=Sing	2	compound	_	_
+2	See	see	PROPN	NNP	Number=Sing	5	nmod:poss	_	SpaceAfter=No
+3	's	's	PART	POS	_	2	case	_	_
+4	independent	independent	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	state	state	NOUN	NN	Number=Sing	12	compound	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_
+8	enclave	enclave	NOUN	NN	Number=Sing	5	conj	_	_
+9	within	within	ADP	IN	_	10	case	_	_
+10	Rome	Rome	PROPN	NNP	Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	5	punct	_	_
+12	Italy	Italy	PROPN	NNP	Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# sovereign city-state on the French Riviera
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign city-state on the French Riviera
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	city	city	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	punct	_	SpaceAfter=No
+4	state	state	NOUN	NN	Number=Sing	2	appos	_	_
+5	on	on	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	French	french	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	Riviera	Riviera	PROPN	NNP	Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# country in southeastern Europe
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in southeastern Europe
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	southeastern	southeastern	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	Europe	Europe	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in West Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in East Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in East Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	East	East	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in southern Europe, enclaved within Italy
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in southern Europe, enclaved within Italy
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	southern	southern	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Europe	Europe	PROPN	NNP	Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	enclaved	enclave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+8	within	within	ADP	IN	_	9	case	_	_
+9	Italy	Italy	PROPN	NNP	Number=Sing	7	obl	_	SpacesAfter=\n
+
+
+# sovereign state in southwest Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in southwest Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	southwest	southwest	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Central Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Central America
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Central America
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Central	Central	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state situated on an island in the Caribbean Sea
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state situated on an island in the Caribbean Sea
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	situated	situate	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	island	island	NOUN	NN	Number=Sing	3	obl	_	_
+7	in	in	ADP	IN	_	10	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+9	Caribbean	Caribbean	PROPN	NNP	Number=Sing	10	compound	_	_
+10	Sea	Sea	PROPN	NNP	Number=Sing	6	nmod	_	SpacesAfter=\n
+
+
+# island nation in the Caribbean
+# newdoc
+# newpar
+# sent_id = 1
+# text = island nation in the Caribbean
+1	island	island	NOUN	NN	Number=Sing	2	compound	_	_
+2	nation	nation	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	Caribbean	Caribbean	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeast Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeast	southeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# island country in Southeast Asia and Oceania
+# newdoc
+# newpar
+# sent_id = 1
+# text = island country in Southeast Asia and Oceania
+1	island	island	NOUN	NN	Number=Sing	2	compound	_	_
+2	country	country	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Southeast	southeast	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	Oceania	Oceania	PROPN	NNP	Number=Sing	5	conj	_	SpacesAfter=\n
+
+
+# country in East Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in East Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	East	East	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Southern Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Southern	southern	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in East Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in East Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	East	East	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Central and South Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central and South Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	3	case	_	_
+3	Central	central	PROPN	NNP	Number=Sing	1	nmod	_	_
+4	and	and	CCONJ	CC	_	6	cc	_	_
+5	South	South	PROPN	NNP	Number=Sing	6	compound	_	_
+6	Asia	Asia	PROPN	NNP	Number=Sing	3	conj	_	SpacesAfter=\n
+
+
+# country in South Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in South Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	situated	situate	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+6	archipelago	archipelago	NOUN	NN	Number=Sing	3	obl	_	_
+7	in	in	ADP	IN	_	10	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+9	Indian	indian	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	Ocean	Ocean	PROPN	NNP	Number=Sing	2	nmod	_	_
+11	off	off	ADP	IN	_	14	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+13	eastern	eastern	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	coast	coast	NOUN	NN	Number=Sing	2	nmod	_	_
+15	of	of	ADP	IN	_	16	case	_	_
+16	Africa	Africa	PROPN	NNP	Number=Sing	14	nmod	_	SpacesAfter=\n
+
+
+# country in Central Africa, capital Brazzaville
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Africa, capital Brazzaville
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	capital	capital	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Brazzaville	Brazzaville	PROPN	NNP	Number=Sing	4	appos	_	SpacesAfter=\n
+
+
+# country on the west coast of Southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country on the west coast of Southern Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	on	on	ADP	IN	_	5	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	west	west	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	coast	coast	NOUN	NN	Number=Sing	1	nmod	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	Southern	southern	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Africa	Africa	PROPN	NNP	Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in South Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in South Asia
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Central Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign country and sultanate on the island of Borneo in south-east Asia, member of the Commonwealth of Nations
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign country and sultanate on the island of Borneo in south-east Asia, member of the Commonwealth of Nations
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	country	country	NOUN	NN	Number=Sing	16	compound	_	_
+3	and	and	CCONJ	CC	_	4	cc	_	_
+4	sultanate	sultanate	NOUN	NN	Number=Sing	2	conj	_	_
+5	on	on	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	island	island	NOUN	NN	Number=Sing	2	nmod	_	_
+8	of	of	ADP	IN	_	9	case	_	_
+9	Borneo	Borneo	PROPN	NNP	Number=Sing	7	nmod	_	_
+10	in	in	ADP	IN	_	14	case	_	_
+11	south	south	ADV	RB	_	13	advmod	_	SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	13	punct	_	SpaceAfter=No
+13	east	east	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	2	punct	_	_
+16	member	member	NOUN	NN	Number=Sing	0	root	_	_
+17	of	of	ADP	IN	_	19	case	_	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	_
+19	Commonwealth	Commonwealth	PROPN	NNP	Number=Sing	16	nmod	_	_
+20	of	of	ADP	IN	_	21	case	_	_
+21	Nations	nations	PROPN	NNPS	Number=Plur	19	nmod	_	SpacesAfter=\n
+
+
+# country in East Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in East Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	East	East	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in the Horn of Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in the Horn of Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	Horn	horn	PROPN	NNP	Number=Sing	1	nmod	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	Africa	Africa	PROPN	NNP	Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# archipelagic country in Southeast Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = archipelagic country in Southeast Asia
+1	archipelagic	archipelagic	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	country	country	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Southeast	southeast	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Asia	Asia	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Central Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Central Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Central	Central	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country on the Atlantic coast of Central Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country on the Atlantic coast of Central Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	on	on	ADP	IN	_	5	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	Atlantic	Atlantic	PROPN	NNP	Number=Sing	5	compound	_	_
+5	coast	coast	NOUN	NN	Number=Sing	1	nmod	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	Central	Central	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Africa	Africa	PROPN	NNP	Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# country in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in North Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in North Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	North	North	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country at the crossroads of Central and Southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country at the crossroads of Central and Southern Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	at	at	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	crossroads	crossroad	NOUN	NNS	Number=Plur	1	nmod	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	Central	central	PROPN	NNP	Number=Sing	4	nmod	_	_
+7	and	and	CCONJ	CC	_	9	cc	_	_
+8	Southern	southern	PROPN	NNP	Number=Sing	9	compound	_	_
+9	Africa	Africa	PROPN	NNP	Number=Sing	6	conj	_	SpacesAfter=\n
+
+
+# sovereign state in Western Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Western Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Western	western	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West-Central Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West-Central Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	6	case	_	_
+4	West-	west-	PUNCT	:	_	6	punct	_	SpaceAfter=No
+5	Central	Central	PROPN	NNP	Number=Sing	6	compound	_	_
+6	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# current system of government of France (1958–present)
+# newdoc
+# newpar
+# sent_id = 1
+# text = current system of government of France (1958–present)
+1	current	current	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	system	system	NOUN	NN	Number=Sing	0	root	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	government	government	NOUN	NN	Number=Sing	2	nmod	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	France	France	PROPN	NNP	Number=Sing	2	nmod	_	_
+7	(	(	PUNCT	-LRB-	_	9	punct	_	SpaceAfter=No
+8	1958–	1958-	PUNCT	:	_	9	punct	_	SpaceAfter=No
+9	present	present	ADJ	JJ	Degree=Pos	6	amod	_	SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	punct	_	SpacesAfter=\n
+
+
+# sovereign state in southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in southern Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	southern	southern	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Kingdom of Denmark and its autonomous territories
+# newdoc
+# newpar
+# sent_id = 1
+# text = Kingdom of Denmark and its autonomous territories
+1	Kingdom	Kingdom	PROPN	NNP	Number=Sing	0	root	_	_
+2	of	of	ADP	IN	_	3	case	_	_
+3	Denmark	Denmark	PROPN	NNP	Number=Sing	1	nmod	_	_
+4	and	and	CCONJ	CC	_	7	cc	_	_
+5	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+6	autonomous	autonomous	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	territories	territory	NOUN	NNS	Number=Plur	1	conj	_	SpacesAfter=\n
+
+
+# sovereign state comprising ten islands off the Western coast of Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state comprising ten islands off the Western coast of Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	comprising	comprise	VERB	VBG	VerbForm=Ger	2	acl	_	_
+4	ten	ten	NUM	CD	NumType=Card	5	nummod	_	_
+5	islands	island	NOUN	NNS	Number=Plur	3	obj	_	_
+6	off	off	ADP	IN	_	9	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+8	Western	western	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	coast	coast	NOUN	NN	Number=Sing	3	obl	_	_
+10	of	of	ADP	IN	_	11	case	_	_
+11	Africa	Africa	PROPN	NNP	Number=Sing	9	nmod	_	SpacesAfter=\n
+
+
+# country in West Asia
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in West Asia
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	West	West	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Asia	Asia	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in southern Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	southern	southern	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in North Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in North Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	North	North	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state off the coast of Southeast Africa, in the Indian Ocean
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state off the coast of Southeast Africa, in the Indian Ocean
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	off	off	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	coast	coast	NOUN	NN	Number=Sing	3	nmod	_	_
+7	of	of	ADP	IN	_	9	case	_	_
+8	Southeast	southeast	PROPN	NNP	Number=Sing	9	compound	_	_
+9	Africa	Africa	PROPN	NNP	Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	3	punct	_	_
+11	in	in	ADP	IN	_	14	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+13	Indian	indian	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	Ocean	Ocean	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa and North Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa and North Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	_
+6	and	and	CCONJ	CC	_	8	cc	_	_
+7	North	North	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Africa	Africa	PROPN	NNP	Number=Sing	5	conj	_	SpacesAfter=\n
+
+
+# island sovereign state off of East Africa in the Indian Ocean
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state off of East Africa in the Indian Ocean
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	off	off	ADP	IN	_	7	case	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	East	East	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Africa	Africa	PROPN	NNP	Number=Sing	3	nmod	_	_
+8	in	in	ADP	IN	_	11	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+10	Indian	indian	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	Ocean	Ocean	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in North Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in North Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	North	North	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southern Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southern	southern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# country in Southeastern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Southeastern Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Southeastern	southeastern	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in western Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in western Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	western	western	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in East-central Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in East-central Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	6	case	_	_
+3	East	East	PROPN	NNP	Number=Sing	5	compound	_	SpaceAfter=No
+4	-	-	PUNCT	,	_	5	punct	_	SpaceAfter=No
+5	central	central	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in East Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in East Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	East	East	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state in Africa
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# country on the coast of West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country on the coast of West Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	on	on	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	coast	coast	NOUN	NN	Number=Sing	1	nmod	_	_
+5	of	of	ADP	IN	_	7	case	_	_
+6	West	West	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Africa	Africa	PROPN	NNP	Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# island sovereign state off the eastern coast of Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = island sovereign state off the eastern coast of Africa
+1	island	island	NOUN	NN	Number=Sing	3	compound	_	_
+2	sovereign	sovereign	NOUN	NN	Number=Sing	3	compound	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	off	off	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+6	eastern	eastern	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	coast	coast	NOUN	NN	Number=Sing	3	nmod	_	_
+8	of	of	ADP	IN	_	9	case	_	_
+9	Africa	Africa	PROPN	NNP	Number=Sing	7	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in West Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in West Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	West	West	PROPN	NNP	Number=Sing	5	compound	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# country in Northeast Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = country in Northeast Africa
+1	country	country	NOUN	NN	Number=Sing	0	root	_	_
+2	in	in	ADP	IN	_	4	case	_	_
+3	Northeast	northeast	PROPN	NNP	Number=Sing	4	compound	_	_
+4	Africa	Africa	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# sovereign state in southern Africa
+# newdoc
+# newpar
+# sent_id = 1
+# text = sovereign state in southern Africa
+1	sovereign	sovereign	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	state	state	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	southern	southern	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# transcontinental sovereign state and constitutional monarchy
+# newdoc
+# newpar
+# sent_id = 1
+# text = transcontinental sovereign state and constitutional monarchy
+1	transcontinental	transcontinental	ADJ	JJ	Degree=Pos	3	amod	_	_
+2	sovereign	sovereign	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	state	state	NOUN	NN	Number=Sing	0	root	_	_
+4	and	and	CCONJ	CC	_	6	cc	_	_
+5	constitutional	constitutional	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	monarchy	monarchy	NOUN	NN	Number=Sing	3	conj	_	SpacesAfter=\n
+
+
+# kingdom ruled by the Malla kings of Bishnupur, in present-day West Bengal, India
+# newdoc
+# newpar
+# sent_id = 1
+# text = kingdom ruled by the Malla kings of Bishnupur, in present-day West Bengal, India
+1	kingdom	kingdom	NOUN	NN	Number=Sing	0	root	_	_
+2	ruled	rule	VERB	VBN	Tense=Past|VerbForm=Part	1	acl	_	_
+3	by	by	ADP	IN	_	6	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+5	Malla	Malla	PROPN	NNP	Number=Sing	6	compound	_	_
+6	kings	king	NOUN	NNS	Number=Plur	2	obl	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	Bishnupur	Bishnupur	PROPN	NNP	Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	1	punct	_	_
+10	in	in	ADP	IN	_	15	case	_	_
+11	present	present	ADJ	JJ	Degree=Pos	13	amod	_	SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	13	punct	_	SpaceAfter=No
+13	day	day	NOUN	NN	Number=Sing	15	compound	_	_
+14	West	West	PROPN	NNP	Number=Sing	15	compound	_	_
+15	Bengal	Bengal	PROPN	NNP	Number=Sing	1	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	1	punct	_	_
+17	India	India	PROPN	NNP	Number=Sing	1	appos	_	SpacesAfter=\n
+
+
+# former country in Modern Day Spain
+# newdoc
+# newpar
+# sent_id = 1
+# text = former country in Modern Day Spain
+1	former	former	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	country	country	NOUN	NN	Number=Sing	0	root	_	_
+3	in	in	ADP	IN	_	5	case	_	_
+4	Modern	modern	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Day	Day	PROPN	NNP	Number=Sing	6	compound	_	_
+6	Spain	Spain	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+

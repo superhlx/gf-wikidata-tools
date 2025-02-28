@@ -1,0 +1,105 @@
+# continent in the Northern Hemisphere
+# newdoc
+# newpar
+# sent_id = 1
+# text = continent in the Northern Hemisphere
+1	continent	continend	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	IN	_	5	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	Northern	northern	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	Hemisphere	hemisphere	NOUN	NN	Number=Sing	1	obl	_	SpacesAfter=\n
+
+
+# continent
+# newdoc
+# newpar
+# sent_id = 1
+# text = continent
+1	continent	continent	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# polar continent
+# newdoc
+# newpar
+# sent_id = 1
+# text = polar continent
+1	polar	polar	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	continent	continent	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# North America and South America taken together as a single continent or landmass
+# newdoc
+# newpar
+# sent_id = 1
+# text = North America and South America taken together as a single continent or landmass
+1	North	North	PROPN	NNP	Number=Sing	2	compound	_	_
+2	America	America	PROPN	NNP	Number=Sing	6	nsubj	_	_
+3	and	and	CCONJ	CC	_	5	cc	_	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	_	_
+5	America	America	PROPN	NNP	Number=Sing	2	conj	_	_
+6	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+7	together	together	ADV	RB	_	6	advmod	_	_
+8	as	as	ADP	IN	_	11	case	_	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	_
+10	single	single	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	continent	continent	NOUN	NN	Number=Sing	6	obl	_	_
+12	or	or	CCONJ	CC	_	13	cc	_	_
+13	landmass	landmass	NOUN	NNS	Number=Plur	11	conj	_	SpacesAfter=\n
+
+
+# polar region on the Earth's northern hemisphere
+# newdoc
+# newpar
+# sent_id = 1
+# text = polar region on the Earth's northern hemisphere
+1	polar	polar	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	region	region	NOUN	NN	Number=Sing	0	root	_	_
+3	on	on	ADP	IN	_	8	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	Earth	Earth	PROPN	NNP	Number=Sing	8	nmod:poss	_	SpaceAfter=No
+6	's	's	PART	POS	_	5	case	_	_
+7	northern	northern	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	hemisphere	hemisphere	NOUN	NN	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# geographical region
+# newdoc
+# newpar
+# sent_id = 1
+# text = geographical region
+1	geographical	geographical	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	region	region	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# polar region around Earth's South Pole
+# newdoc
+# newpar
+# sent_id = 1
+# text = polar region around Earth's South Pole
+1	polar	polar	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	region	region	NOUN	NN	Number=Sing	0	root	_	_
+3	around	around	ADP	IN	_	7	case	_	_
+4	Earth	Earth	PROPN	NNP	Number=Sing	7	nmod:poss	_	SpaceAfter=No
+5	's	's	PART	POS	_	4	case	_	_
+6	South	South	PROPN	NNP	Number=Sing	7	compound	_	_
+7	Pole	Pole	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# traditional name for (North) America among some indigenous groups
+# newdoc
+# newpar
+# sent_id = 1
+# text = traditional name for (North) America among some indigenous groups
+1	traditional	traditional	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	name	name	NOUN	NN	Number=Sing	0	root	_	_
+3	for	for	ADP	IN	_	7	case	_	_
+4	(	(	PUNCT	-LRB-	_	7	punct	_	SpaceAfter=No
+5	North	North	PROPN	NNP	Number=Sing	7	compound	_	SpaceAfter=No
+6	)	)	PUNCT	-RRB-	_	7	punct	_	_
+7	America	America	PROPN	NNP	Number=Sing	2	nmod	_	_
+8	among	among	ADP	IN	_	11	case	_	_
+9	some	some	DET	DT	_	11	det	_	_
+10	indigenous	indigenous	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	groups	group	NOUN	NNS	Number=Plur	2	nmod	_	SpacesAfter=\n
+
+

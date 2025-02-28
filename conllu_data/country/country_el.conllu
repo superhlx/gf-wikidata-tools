@@ -1,0 +1,1786 @@
+# Αυτοκρατορία στην κεντρική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = Αυτοκρατορία στην κεντρική Ευρώπη
+1	Αυτοκρατορία	αυτοκρατορία	NOUN	NOUN	Case=Voc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	κεντρική	κεντρικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Βόρειας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Βόρειας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βορειοδυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βορειοδυτικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βορειοδυτικής	βορειοδυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# νησιωτική χώρα της ανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιωτική χώρα της ανατολικής Ασίας
+1	νησιωτική	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βόρειας Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βόρειας Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βορειοδυτικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βορειοδυτικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βορειοδυτικής	βορειοδυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κυρίαρχη πόλη-κράτος στη Νοτιοανατολική Ασία
+# newdoc
+# newpar
+# sent_id = 1
+# text = κυρίαρχη πόλη-κράτος στη Νοτιοανατολική Ασία
+1	κυρίαρχη	κυρίαρχης	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+2	πόλη-κράτος	πόλη-κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	Νοτιοανατολική	νοτιοανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ασία	Ασία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην κεντρική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην κεντρική Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	κεντρική	κεντρικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα στη Δυτική Ασία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα στη Δυτική Ασία
+1	Χώρα	χώρα	ADV	ADV	_	4	advmod	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Δυτική	Δυτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασία	Ασία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοδυτικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοδυτικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοδυτικής	νοτιοδυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Βόρειας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Βόρειας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Ευρώπης στα Βαλκάνια
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Ευρώπης στα Βαλκάνια
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	5	case	_	_
+5	Βαλκάνια	Βαλκάνια	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην Αυστραλιανή ήπειρο
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην Αυστραλιανή ήπειρο
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Αυστραλιανή	Αυστραλιανή	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	ήπειρο	ήπειρος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της ανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της ανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βόρειας Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βόρειας Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βόρειας Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βόρειας Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κράτος της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος της Αφρικής
+1	κράτος	κράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της ανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της ανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της Ωκεανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της Ωκεανίας
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Ωκεανίας	Ωκεανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ομοσπονδιακή δημοκρατία της νότιας Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = ομοσπονδιακή δημοκρατία της νότιας Ασίας
+1	ομοσπονδιακή	ομοσπονδιακός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	δημοκρατία	δημοκρατία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικοκεντρικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικοκεντρικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικοκεντρικής	δυτικοκεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στη Νοτιοανατολική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στη Νοτιοανατολική Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Νοτιοανατολική	νοτιοανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κράτος στον Ειρηνικό Ωκεανό
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος στον Ειρηνικό Ωκεανό
+1	κράτος	κράτος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+2	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	4	case	_	_
+3	Ειρηνικό	Ειρηνικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	4	amod	_	_
+4	Ωκεανό	Ωκεανός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην Ωκεανία
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην Ωκεανία
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ωκεανία	Ωκεανία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της δυτικής Ασίας και της νοτιοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της δυτικής Ασίας και της νοτιοανατολικής Ευρώπης
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+5	και	και	CCONJ	CCONJ	_	8	cc	_	_
+6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+8	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοδυτικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοδυτικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοδυτικής	νοτιοδυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Ωκεανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Ωκεανίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Ωκεανίας	Ωκεανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην Ωκεανία
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην Ωκεανία
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ωκεανία	Ωκεανία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βορειοανατολικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βορειοανατολικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βορειοανατολικής	βορειοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα
+1	Χώρα	χώρα	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# Χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της Νότιας Αμερικής
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στη Βόρεια Αμερική
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στη Βόρεια Αμερική
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Βόρεια	βόρειος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερική	Αμερική	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της ανατολικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της ανατολικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της ανατολικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της ανατολικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανεξάρτητο κράτος στην Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανεξάρτητο κράτος στην Ευρώπη
+1	ανεξάρτητο	ανεξάρτητος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κράτος	κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# νησιωτική χώρα στη νότια Καραϊβική Θάλασσα
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιωτική χώρα στη νότια Καραϊβική Θάλασσα
+1	νησιωτική	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
+4	νότια	νότιος	ADV	ADV	_	5	advmod	_	_
+5	Καραϊβική	Καραϊβικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
+6	Θάλασσα	θάλασσα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# ανεξάρτητο νησιωτικό κρατίδιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανεξάρτητο νησιωτικό κρατίδιο
+1	ανεξάρτητο	ανεξάρτητος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	νησιωτικό	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	κρατίδιο	κρατίδιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# κράτος στην ανατολική Ασία
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος στην ανατολική Ασία
+1	κράτος	κράτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	ανατολική	ανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασία	Ασία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Νότιας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Νότιας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα στην Καραϊβική
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα στην Καραϊβική
+1	Χώρα	χώρα	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Καραϊβική	Καραϊβική	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα που εκτείνεται στην βόρεια Ευρασία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα που εκτείνεται στην βόρεια Ευρασία
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	3	nsubj	_	_
+3	εκτείνεται	εκτείνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl:relcl	_	_
+4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
+5	βόρεια	βόρειος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+6	Ευρασία	Ευρασία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	SpacesAfter=\n
+
+
+# χώρα της Βόρειας Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Βόρειας Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ομοσπονδιακή δημοκρατία στην κεντρική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = ομοσπονδιακή δημοκρατία στην κεντρική Ευρώπη
+1	ομοσπονδιακή	ομοσπονδιακός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	δημοκρατία	δημοκρατία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	κεντρική	κεντρικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της Καραϊβικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της Καραϊβικής
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Καραϊβικής	Καραϊβική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της ανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της ανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην ανατολική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην ανατολική Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	ανατολική	ανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Κεντρικής Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Κεντρικής Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βορειοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βορειοανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βορειοανατολικής	βορειοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Μέσης Ανατολής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Μέσης Ανατολής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Μέσης	μέσος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ανατολής	ανατολή	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα στην Ανατολική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα στην Ανατολική Ευρώπη
+1	Χώρα	χώρα	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Ανατολική	ανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Κράτος της Μέσης Ανατολής
+# newdoc
+# newpar
+# sent_id = 1
+# text = Κράτος της Μέσης Ανατολής
+1	Κράτος	κράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Μέσης	μέσος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ανατολής	ανατολή	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Κεντρικής Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Κεντρικής Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κράτος στη Μέση Ανατολή
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος στη Μέση Ανατολή
+1	κράτος	κράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Μέση	μέσος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ανατολή	ανατολή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Κεντρικής Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Κεντρικής Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στη κεντρική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στη κεντρική Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	κεντρική	κεντρικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην Ανατολική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην Ανατολική Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Ανατολική	ανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κράτος στην Κεντρική Ασία
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος στην Κεντρική Ασία
+1	κράτος	κράτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Κεντρική	κεντρικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασία	Ασία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κράτος της Νοτιοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος της Νοτιοανατολικής Ευρώπης
+1	κράτος	κράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νοτιοανατολικής	Νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιανατολικής	νοτιανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Ανατολικής Μεσογείου
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Ανατολικής Μεσογείου
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Μεσογείου	Μεσόγειος	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην περιοχή του Καυκάσου
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην περιοχή του Καυκάσου
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	περιοχή	περιοχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Καυκάσου	Καυκάσος	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# μικροκράτος ανάμεσα Γαλλία και Ισπανία
+# newdoc
+# newpar
+# sent_id = 1
+# text = μικροκράτος ανάμεσα Γαλλία και Ισπανία
+1	μικροκράτος	μικροκράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	ανάμεσα	ανάμεσα	ADV	ADV	_	1	advmod	_	_
+3	Γαλλία	Γαλλία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+4	και	και	CCONJ	CCONJ	_	5	cc	_	_
+5	Ισπανία	Ισπανία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	SpacesAfter=\n
+
+
+# κράτος της ανατολικής Μεσογείου
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος της ανατολικής Μεσογείου
+1	κράτος	κράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Μεσογείου	Μεσόγειος	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Ανατολικής Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Ανατολικής Ευρώπης
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# νησιωτική χώρα της νότιας Ευρώπης
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιωτική χώρα της νότιας Ευρώπης
+1	νησιωτική	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ευρώπης	Ευρώπη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# ανεξάρτητο εμιράτο της Μέσης Ανατολής
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανεξάρτητο εμιράτο της Μέσης Ανατολής
+1	ανεξάρτητο	ανεξάρτητος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	εμιράτο	εμιράτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	Μέσης	μέσος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ανατολής	ανατολή	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Μέσης Ανατολής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Μέσης Ανατολής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Μέσης	μέσος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ανατολής	ανατολή	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ευρωπαϊκό κράτος και έδρα της Παπικής Εκκλησίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = ευρωπαϊκό κράτος και έδρα της Παπικής Εκκλησίας
+1	ευρωπαϊκό	ευρωπαϊκός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κράτος	κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	και	και	CCONJ	CCONJ	_	4	cc	_	_
+4	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	Παπικής	Παπικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
+7	Εκκλησίας	εκκλησία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# χώρα και πόλη-κράτος στην Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα και πόλη-κράτος στην Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	και	και	CCONJ	CCONJ	_	3	cc	_	_
+3	πόλη-κράτος	πόλη-κράτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	_
+4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+5	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην νοτιοανατολική Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην νοτιοανατολική Ευρώπη
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	νοτιοανατολική	νοτιοανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα
+1	Χώρα	χώρα	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# νησιωτική χώρα της Ανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιωτική χώρα της Ανατολικής Ασίας
+1	νησιωτική	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	Ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# μικροκράτος στη νότια Ευρώπη
+# newdoc
+# newpar
+# sent_id = 1
+# text = μικροκράτος στη νότια Ευρώπη
+1	μικροκράτος	μικροκράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	νότια	νότιος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Ομοσπονδιακό κράτος στη Μέση Ανατολή
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ομοσπονδιακό κράτος στη Μέση Ανατολή
+1	Ομοσπονδιακό	ομοσπονδιακός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κράτος	κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	Μέση	μέσος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ανατολή	ανατολή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ασιας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ασιας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασιας	Ασια	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Κεντρικής Αμερικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Κεντρικής Αμερικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αμερικής	Αμερική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# νησιώτικη χώρα της Καραϊβικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιώτικη χώρα της Καραϊβικής
+1	νησιώτικη	νησιώτικος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Καραϊβικής	Καραϊβική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# νησιωτική χώρα της Καραϊβικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιωτική χώρα της Καραϊβικής
+1	νησιωτική	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Καραϊβικής	Καραϊβική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της Δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της Δυτικής Αφρικής
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της ανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της ανατολικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοκεντρικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοκεντρικής Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοκεντρικής	νοτιοκεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Ασίας
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κράτος της δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = κράτος της δυτικής Αφρικής
+1	κράτος	κράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Δυτικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Ανατολικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Ανατολικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Ένωση των Κομορών
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ένωση των Κομορών
+1	Ένωση	ένωση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	Κομορών	Κομορά	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νοτιοκεντρικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νοτιοκεντρικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νοτιοκεντρικής	νοτιοκεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της Νότιας Ασίας που βρίσκεται στα ανατολικά Ιμαλάια
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της Νότιας Ασίας που βρίσκεται στα ανατολικά Ιμαλάια
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+5	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	6	nsubj	_	_
+6	βρίσκεται	βρίσκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	_
+7	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	9	case	_	_
+8	ανατολικά	ανατολικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
+9	Ιμαλάια	Ιμαλάια	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της ανατολικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της ανατολικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	ανατολικής	ανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# νησιωτικό κράτος της νοτιοανατολικής Ασίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιωτικό κράτος της νοτιοανατολικής Ασίας
+1	νησιωτικό	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κράτος	κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	νοτιοανατολικής	νοτιοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ασίας	Ασίας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της κεντρικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της κεντρικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην Δυτική Αφρική
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην Δυτική Αφρική
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Δυτική	Δυτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρική	Αφρική	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στις μεσογειακές ακτές της Βόρειας Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στις μεσογειακές ακτές της Βόρειας Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	4	case	_	_
+3	μεσογειακές	μεσογειακός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	4	amod	_	_
+4	ακτές	ακτής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	Βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
+7	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της Αφρικής
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Κυρίαρχο κράτος και μοναρχία στο οποίο ανήκουν η Δανία, η Γροιλανδία, και οι Νήσοι Φερόες
+# newdoc
+# newpar
+# sent_id = 1
+# text = Κυρίαρχο κράτος και μοναρχία στο οποίο ανήκουν η Δανία, η Γροιλανδία, και οι Νήσοι Φερόες
+1	Κυρίαρχο	Κυρίαρχος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κράτος	κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	και	και	CCONJ	CCONJ	_	4	cc	_	_
+4	μοναρχία	μοναρχία	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	2	conj	_	_
+5	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	6	case	_	_
+6	οποίο	οποίος	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	7	obl	_	_
+7	ανήκουν	ανήκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+8	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Δανία	Δανία	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	12	punct	_	_
+11	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Γροιλανδία	Γροιλανδία	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+13	,	,	PUNCT	PUNCT	_	17	punct	_	_
+14	και	και	CCONJ	CCONJ	_	17	cc	_	_
+15	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+16	Νήσοι	Νήσος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	17	amod	_	_
+17	Φερόες	Φερόες	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	SpacesAfter=\n
+
+
+# μερίκώς αναγνωρισμένο κράτος στην ανατολική Μεσόγειο
+# newdoc
+# newpar
+# sent_id = 1
+# text = μερίκώς αναγνωρισμένο κράτος στην ανατολική Μεσόγειο
+1	μερίκώς	μερίκώς	ADV	ADV	_	3	amod	_	_
+2	αναγνωρισμένο	αναγνωρίζω	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	κράτος	κρά	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
+5	ανατολική	ανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+6	Μεσόγειο	Μεσόγειος	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της δυτικής Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της βόρειας Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της βόρειας Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# νησιωτική χώρα στον Ινδικό Ωκεανό
+# newdoc
+# newpar
+# sent_id = 1
+# text = νησιωτική χώρα στον Ινδικό Ωκεανό
+1	νησιωτική	νησιωτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
+4	Ινδικό	Ινδικό	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+5	Ωκεανό	Ωκεανός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της νότιας Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της νότιας Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	νότιας	νότιος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της βορειοδυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της βορειοδυτικής Αφρικής
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	βορειοδυτικής	βορειοδυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Βόρειας Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Βόρειας Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανερξάτητο κράτος στη Δυτική Αφρική
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανερξάτητο κράτος στη Δυτική Αφρική
+1	ανερξάτητο	ανερξάτητος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κράτος	κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	Δυτική	Δυτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Αφρική	Αφρική	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Χώρα της Δυτικής Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = Χώρα της Δυτικής Αφρικής
+1	Χώρα	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Δυτικής	δυτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα στην Αφρική
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα στην Αφρική
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Αφρική	Αφρική	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# χώρα της Αφρικής
+# newdoc
+# newpar
+# sent_id = 1
+# text = χώρα της Αφρικής
+1	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αφρικής	Αφρική	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανεξάρτητο κράτος που αποτελείται από την Αρούμπα, Κουρακάο, Άγιο Μαρτίνο, και τις Κάτω Χώρες
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανεξάρτητο κράτος που αποτελείται από την Αρούμπα, Κουρακάο, Άγιο Μαρτίνο, και τις Κάτω Χώρες
+1	ανεξάρτητο	ανεξάρτητος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κράτος	κράτος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	που	που	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
+4	αποτελείται	αποτελώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	_
+5	από	από	ADP	ADP	_	7	case	_	_
+6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Αρούμπα	Αρούμπα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	Κουρακάο	Κουρακάο	PROPN	PROPN	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	12	punct	_	_
+11	Άγιο	Άγιο	PROPN	PROPN	Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	_
+12	Μαρτίνο	Μαρτίνος	PROPN	PROPN	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+13	,	,	PUNCT	PUNCT	_	17	punct	_	_
+14	και	και	CCONJ	CCONJ	_	17	cc	_	_
+15	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	Κάτω	κάτω	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	17	amod	_	_
+17	Χώρες	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	SpacesAfter=\n
+
+
