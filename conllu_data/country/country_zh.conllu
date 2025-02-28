@@ -1,0 +1,2074 @@
+# 1871年普鲁士王國建立的德意志第二帝國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 1871年普鲁士王國建立的德意志第二帝國
+1	1871	1871	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	5	nmod:tmod	_	SpaceAfter=No
+3	普鲁士	普鲁士	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+4	王國	王國	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
+5	建立	建立	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+7	德意志	德意志	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
+8	第二	第二	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
+9	帝國	帝國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北美洲國家
+1	北	北	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲南部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北非國家
+1	北	北	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東亞國家
+1	東亞	東亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中亞國家
+1	中亞	中亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北歐國家
+1	北	北	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西歐國家
+1	西	西	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞島國及城邦
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞島國及城邦
+1	東南	東南	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	島	島	PART	SFN	_	4	case:suff	_	SpaceAfter=No
+4	國	國	PART	SFN	_	0	root	_	SpaceAfter=No
+5	及	及	CCONJ	CC	_	6	cc	_	SpaceAfter=No
+6	城邦	城邦	NOUN	NN	_	4	conj	_	SpacesAfter=\n
+
+
+# 中歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中歐國家
+1	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 中歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中歐國家
+1	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 西亞島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞島國
+1	西亞島國	西亞島國	PROPN	NNP	_	0	root	_	SpacesAfter=\n
+
+
+# 西南歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西南歐國家
+1	西南	西南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 高加索地區國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 高加索地區國家
+1	高加索	高加索	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	地區	地區	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北美洲國家
+1	北	北	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南歐國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 大洋洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大洋洲國家
+1	大洋	大洋	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西歐國家
+1	西	西	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 美洲南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 美洲南部國家
+1	美洲	美洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲國家
+1	歐洲	歐洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東北亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東北亞國家
+1	東北	東北	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北歐國家
+1	北	北	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北歐國家
+1	北	北	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中歐國家
+1	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲中部国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲中部国家
+1	非洲	非洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	中部	中部	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	国	国	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 東北歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東北歐國家
+1	東北	東北	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南歐國家
+1	南	南	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 大洋洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大洋洲國家
+1	大洋	大洋	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南亞國家
+1	南亞	南亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 大洋洲島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大洋洲島國
+1	大洋	大洋	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲中部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲中部國家
+1	歐洲	歐洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	中部	中部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平島國
+1	南	南	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	太平島國	太平島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中歐國家
+1	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲東南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲東南部國家
+1	歐洲	歐洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	東南	東南	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋島國
+1	南	南	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	太平洋	太平洋	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋岛国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋岛国
+1	南	南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	太平	太平	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洋	洋	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	岛	岛	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	国	国	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 大洋洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大洋洲國家
+1	大洋	大洋	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 亚洲国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 亚洲国家
+1	亚	亚	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	国	国	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 大洋洲島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大洋洲島國
+1	大洋	大洋	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 大洋洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大洋洲國家
+1	大洋	大洋	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲西南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲西南部國家
+1	歐洲	歐洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	西南	西南	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西太平洋岛国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西太平洋岛国
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	太平	太平	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洋	洋	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	岛	岛	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	国	国	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 太平洋島嶼國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 太平洋島嶼國家
+1	太平	太平	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洋	洋	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	島嶼	島嶼	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲北部與亞洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲北部與亞洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	北部	北部	NOUN	NN	_	0	root	_	SpaceAfter=No
+3	與	與	ADP	IN	_	5	case	_	SpaceAfter=No
+4	亞洲	亞洲	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	2	conj	_	SpacesAfter=\n
+
+
+# 東亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東亞國家
+1	東亞	東亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋的国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋的国家
+1	南	南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	太平	太平	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洋	洋	PART	SFN	_	6	det	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	国	国	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+6	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲北部的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲北部的國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	北部	北部	NOUN	NN	_	5	det	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北美洲國家
+1	北	北	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東非國家
+1	東非	東非	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲国家
+1	南	南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	国	国	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西歐國家
+1	西	西	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐國家	歐國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲西北部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲西北部國家
+1	歐洲	歐洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	西北	西北	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 加勒比海島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 加勒比海島國
+1	加勒比海島國	加勒比海島國	PROPN	NNP	_	0	root	_	SpacesAfter=\n
+
+
+# 加勒比海島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 加勒比海島國
+1	加勒比海島國	加勒比海島國	PROPN	NNP	_	0	root	_	SpacesAfter=\n
+
+
+# 東加勒比海島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東加勒比海島國
+1	東	東	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	加勒比海	加勒比海	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 东亚国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 东亚国家
+1	东	东	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	亚	亚	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	国	国	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 南美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南美洲國家
+1	南美	南美	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 加勒比海上的島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 加勒比海上的島國
+1	加勒比	加勒比	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	海	海	PART	SFN	_	5	det	_	SpaceAfter=No
+3	上	上	NOUN	NN	_	2	acl	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+5	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 位於中美洲的加勒比島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 位於中美洲的加勒比島國
+1	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
+2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
+3	中	中	ADP	IN	_	5	case:suff	_	SpaceAfter=No
+4	美	美	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+5	洲	洲	PART	SFN	_	7	det	_	SpaceAfter=No
+6	的	的	PART	DEC	Case=Gen	5	case:dec	_	SpaceAfter=No
+7	加勒比島國	加勒比島國	NOUN	NN	_	1	obj	_	SpacesAfter=\n
+
+
+# 美洲加勒比地區國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 美洲加勒比地區國家
+1	美洲	美洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	加勒比	加勒比	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+3	地區	地區	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲的國家
+1	中	中	ADP	IN	_	5	det	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	1	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東歐及北亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東歐及北亞國家
+1	東	東	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	歐	歐	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
+3	及	及	CCONJ	CC	_	5	cc	_	SpaceAfter=No
+4	北	北	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	亞	亞	PROPN	NNP	_	2	conj	_	SpaceAfter=No
+6	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲岛国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲岛国
+1	中	中	ADP	IN	_	5	acl	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	岛	岛	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	国	国	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲國家
+1	歐洲	歐洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲國家
+1	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 加勒比海的島嶼國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 加勒比海的島嶼國家
+1	加勒比	加勒比	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	海	海	PART	SFN	_	5	det	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	島嶼	島嶼	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東歐國家
+1	東	東	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 北大西洋上的北歐島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北大西洋上的北歐島國
+1	北	北	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	大西	大西	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洋	洋	PART	SFN	_	7	det	_	SpaceAfter=No
+4	上	上	NOUN	NN	_	3	acl	_	SpaceAfter=No
+5	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+6	北歐	北歐	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
+7	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 加勒比海國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 加勒比海國家
+1	加勒比	加勒比	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+2	海	海	PART	SFN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲国家
+1	中	中	ADP	IN	_	5	acl	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	国	国	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 亞洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 亞洲國家
+1	亞洲	亞洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東歐國家
+1	東	東	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲國家
+1	歐洲	歐洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲國家
+1	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞國家
+1	西亞	西亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中歐的內陸國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中歐的內陸國家
+1	中	中	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	歐	歐	PROPN	NNP	_	5	det	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	內陸	內陸	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲國家
+1	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 位於歐洲中部的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 位於歐洲中部的國家
+1	位	位	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No
+2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
+3	歐洲	歐洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+4	中部	中部	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+6	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西南亞國家
+1	西南	西南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 欧洲东南部国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 欧洲东南部国家
+1	欧洲	欧洲	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+2	东	东	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+3	南部	南部	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+4	国	国	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 東歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東歐國家
+1	東	東	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲東南部巴爾幹半島上的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲東南部巴爾幹半島上的國家
+1	歐洲	歐洲	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+2	東南	東南	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	巴爾幹	巴爾幹	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+5	半島	半島	NOUN	NN	_	8	det	_	SpaceAfter=No
+6	上	上	ADP	IN	_	5	acl	_	SpaceAfter=No
+7	的	的	PART	DEC	Case=Gen	5	case:dec	_	SpaceAfter=No
+8	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中東國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中東國家
+1	中東	中東	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲國家
+1	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中亞國家
+1	中亞	中亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南歐國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 西亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞國家
+1	西亞	西亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲國家
+1	歐洲	歐洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南歐國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 亞洲西部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 亞洲西部國家
+1	亞洲	亞洲	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 歐洲東南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 歐洲東南部國家
+1	歐洲	歐洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	東南	東南	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 亞洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 亞洲國家
+1	亞洲	亞洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞的君主立憲制聯邦國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞的君主立憲制聯邦國家
+1	東南	東南	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	4	det	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	君主	君主	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
+5	立	立	VERB	VV	_	0	root	_	SpaceAfter=No
+6	憲制	憲制	VERB	VV	_	5	xcomp	_	SpaceAfter=No
+7	聯邦	聯邦	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+8	國家	國家	NOUN	NN	_	6	obj	_	SpacesAfter=\n
+
+
+# 高加索地區國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 高加索地區國家
+1	高加索	高加索	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	地區	地區	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南亞國家
+1	南亞	南亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 欧洲国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 欧洲国家
+1	欧	欧	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+2	洲	洲	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	国	国	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 位於地中海東部的島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 位於地中海東部的島國
+1	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
+2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
+3	地中	地中	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+4	海東部	海東部	NOUN	NN	_	6	det	_	SpaceAfter=No
+5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
+6	島國	島國	NOUN	NN	_	1	obj	_	SpacesAfter=\n
+
+
+# 高加索地區國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 高加索地區國家
+1	高加索	高加索	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	地區	地區	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞國家
+1	西亞	西亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南亞國家
+1	南亞	南亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中亚跨洲国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中亚跨洲国家
+1	中	中	ADP	IN	_	5	acl	_	SpaceAfter=No
+2	亚	亚	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	跨洲	跨洲	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	国	国	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 位於南歐地中海的群島國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 位於南歐地中海的群島國家
+1	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
+2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
+3	南歐	南歐	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+4	地中	地中	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+5	海	海	PART	SFN	_	8	det	_	SpaceAfter=No
+6	的	的	PART	DEC	Case=Gen	5	case:dec	_	SpaceAfter=No
+7	群島	群島	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+8	國家	國家	NOUN	NN	_	1	obj	_	SpacesAfter=\n
+
+
+# 西亞的阿拉伯國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞的阿拉伯國家
+1	西亞	西亞	PROPN	NNP	_	4	det	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+3	阿拉伯	阿拉伯	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞國家
+1	西亞	西亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南亞國家
+1	南亞	南亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 位於罗马城内、由聖座管治的獨立城邦
+# newdoc
+# newpar
+# sent_id = 1
+# text = 位於罗马城内、由聖座管治的獨立城邦
+1	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
+2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
+3	罗	罗	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+4	马	马	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	城	城	PART	SFN	_	6	nmod	_	SpaceAfter=No
+6	内	内	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	、	、	PUNCT	EC	_	8	punct	_	SpaceAfter=No
+8	由	由	VERB	VV	_	6	conj	_	SpaceAfter=No
+9	聖座	聖座	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
+10	管治	管治	PROPN	NNP	_	13	det	_	SpaceAfter=No
+11	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
+12	獨立	獨立	ADJ	JJ	_	13	amod	_	SpaceAfter=No
+13	城邦	城邦	NOUN	NN	_	8	obj	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南歐國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南歐國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	歐國	歐國	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 西亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞國家
+1	西亞	西亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中亞國家
+1	中亞	中亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東亞國家
+1	東亞	東亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 亞洲西部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 亞洲西部國家
+1	亞洲	亞洲	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中亞國家
+1	中亞	中亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中美洲的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中美洲的國家
+1	中	中	ADP	IN	_	5	det	_	SpaceAfter=No
+2	美	美	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+3	洲	洲	PART	SFN	_	1	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 美洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 美洲國家
+1	美洲	美洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 位於西大西洋的島嶼國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 位於西大西洋的島嶼國家
+1	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
+2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
+3	西大西	西大西	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
+4	洋	洋	PART	SFN	_	7	det	_	SpaceAfter=No
+5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
+6	島嶼	島嶼	NOUN	NN	_	7	nmod	_	SpaceAfter=No
+7	國家	國家	NOUN	NN	_	1	obj	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 位於非洲南部的內陸國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 位於非洲南部的內陸國
+1	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
+2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
+3	非洲	非洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+4	南部	南部	NOUN	NN	_	7	det	_	SpaceAfter=No
+5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
+6	內陸	內陸	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+7	國	國	PART	SFN	_	1	obj	_	SpacesAfter=\n
+
+
+# 东北亚国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 东北亚国家
+1	东	东	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+2	北	北	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+3	亚	亚	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	国	国	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 亞洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 亞洲國家
+1	亞洲	亞洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南亞國家
+1	南亞	南亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非国家
+1	西非	西非	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	国	国	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲島國，位於西莫桑比克海峽北部
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲島國，位於西莫桑比克海峽北部
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	島國	島國	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
+3	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+4	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
+5	於	於	VERB	VV	_	4	mark	_	SpaceAfter=No
+6	西	西	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+7	莫桑比克	莫桑比克	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
+8	海峽	海峽	NOUN	NN	_	4	obj	_	SpaceAfter=No
+9	北	北	NOUN	NN	_	8	acl	_	SpaceAfter=No
+10	部	部	PART	SFN	_	4	obj	_	SpacesAfter=\n
+
+
+# 中部非洲国家，首都布拉柴维尔
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中部非洲国家，首都布拉柴维尔
+1	中部	中部	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	非洲	非洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+3	国	国	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	9	appos	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
+6	首都	首都	NOUN	NN	_	7	appos	_	SpaceAfter=No
+7	布拉柴	布拉柴	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
+8	维	维	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+9	尔	尔	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 亞洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 亞洲國家
+1	亞洲	亞洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 中非国家，首都金沙萨
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中非国家，首都金沙萨
+1	中非	中非	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	国	国	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	家	家	PART	SFN	_	7	appos	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
+5	首都	首都	NOUN	NN	_	6	appos	_	SpaceAfter=No
+6	金沙	金沙	NOUN	NN	_	7	nmod	_	SpaceAfter=No
+7	萨	萨	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞國家
+1	東南	東南	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	亞	亞	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲东北部国家，位于埃塞俄比亚与索马里之间
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲东北部国家，位于埃塞俄比亚与索马里之间
+1	非洲	非洲	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+2	东	东	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+3	北部	北部	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	国	国	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	家	家	PART	SFN	_	17	appos	_	SpaceAfter=No
+6	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
+7	位	位	NOUN	NN	_	9	appos	_	SpaceAfter=No
+8	于	于	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
+9	埃塞	埃塞	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
+10	俄	俄	PROPN	NNP	_	9	conj	_	SpaceAfter=No
+11	比	比	ADP	IN	_	15	case	_	SpaceAfter=No
+12	亚	亚	NOUN	NN	_	15	nmod	_	SpaceAfter=No
+13	与	与	NOUN	NN	_	15	nmod	_	SpaceAfter=No
+14	索	索	NOUN	NN	_	15	nmod	_	SpaceAfter=No
+15	马	马	NOUN	NN	_	9	conj	_	SpaceAfter=No
+16	里	里	ADP	IN	_	15	acl	_	SpaceAfter=No
+17	之间	之间	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲中部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲中部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	中部	中部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲之角的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲之角的國家
+1	非洲	非洲	PROPN	NNP	_	3	det	_	SpaceAfter=No
+2	之	之	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+3	角	角	NOUN	NN	_	5	det	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東南亞島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南亞島國
+1	東南	東南	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	亞島國	亞島國	PROPN	NNP	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西部的赤道國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西部的赤道國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	5	det	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	赤道	赤道	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非國家
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非國家
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北非國家
+1	北	北	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非國家
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非國家
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西部的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西部的國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	4	det	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 1958年建立的法國政權
+# newdoc
+# newpar
+# sent_id = 1
+# text = 1958年建立的法國政權
+1	1958	1958	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	3	nmod:tmod	_	SpaceAfter=No
+3	建立	建立	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+5	法國	法國	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
+6	政權	政權	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲南部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 大西洋島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 大西洋島國
+1	大西洋	大西洋	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西亞國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西亞國家
+1	西亞	西亞	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非國家
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 北非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北非國家
+1	北	北	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲东南部印度洋岛屿国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲东南部印度洋岛屿国家
+1	非洲	非洲	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
+2	东	东	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+3	南部	南部	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+4	印度	印度	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+5	洋	洋	PART	SFN	_	9	nmod	_	SpaceAfter=No
+6	岛	岛	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+7	屿	屿	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+8	国	国	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+9	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲東南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲東南部國家
+1	非洲	非洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	東南	東南	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	4	nmod	_	SpaceAfter=No
+4	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西北部的阿拉伯國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西北部的阿拉伯國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	西北	西北	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	6	det	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	阿拉伯	阿拉伯	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
+6	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 國家
+1	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西北部君主制國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西北部君主制國家
+1	非洲	非洲	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+2	西北	西北	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	君主	君主	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	制	制	PART	SFN	_	6	nsubj	_	SpaceAfter=No
+6	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲南部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲南部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非内陸國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非内陸國家
+1	西非	西非	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	内	内	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	陸國	陸國	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲西部國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲西部國家
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	西部	西部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 東非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東非國家
+1	東非	東非	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲东部的国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲东部的国家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	东	东	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+3	部	部	PART	SFN	_	6	det	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	国	国	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+6	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非國家
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲東部海岸的島國
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲東部海岸的島國
+1	非洲	非洲	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	東部	東部	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	海岸	海岸	NOUN	NN	_	5	det	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	島國	島國	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 西非國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西非國家
+1	西	西	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	非	非	PART	PFA	_	3	case:pref	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲的國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲的國家
+1	非洲	非洲	PROPN	NNP	_	3	det	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+3	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲國家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲國家
+1	非洲	非洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
+2	國家	國家	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+
+# 非洲南部国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 非洲南部国家
+1	非洲	非洲	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	国	国	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	0	root	_	SpacesAfter=\n
+
+
+# 主权国家及君主立宪制实体
+# newdoc
+# newpar
+# sent_id = 1
+# text = 主权国家及君主立宪制实体
+1	主	主	PART	PFA	_	2	case:pref	_	SpaceAfter=No
+2	权	权	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	国	国	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+4	家	家	PART	SFN	_	11	nsubj	_	SpaceAfter=No
+5	及	及	CCONJ	CC	_	10	cc	_	SpaceAfter=No
+6	君主	君主	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+7	立	立	VERB	VV	_	10	amod	_	SpaceAfter=No
+8	宪	宪	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+9	制	制	PART	SFN	_	7	obj	_	SpaceAfter=No
+10	实	实	NOUN	NN	_	4	conj	_	SpaceAfter=No
+11	体	体	NOUN	NN	_	0	root	_	SpacesAfter=\n
+
+

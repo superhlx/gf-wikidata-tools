@@ -1,0 +1,100 @@
+# världsdel på jordens norra halvklot
+# newdoc
+# newpar
+# sent_id = 1
+# text = världsdel på jordens norra halvklot
+1	världsdel	världsdel	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	på	på	ADP	PP	_	5	case	_	_
+3	jordens	jord	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	5	nmod:poss	_	_
+4	norra	norra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	halvklot	halvklo	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# världsdel, huvudsakligen på jordens norra halvklot
+# newdoc
+# newpar
+# sent_id = 1
+# text = världsdel, huvudsakligen på jordens norra halvklot
+1	världsdel	världsdel	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	MID	_	1	punct	_	_
+3	huvudsakligen	huvudsakligen	ADV	AB	_	7	advmod	_	_
+4	på	på	ADP	PP	_	7	case	_	_
+5	jordens	jord	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	7	nmod:poss	_	_
+6	norra	norra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	7	amod	_	_
+7	halvklot	halvklo	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	obl	_	SpacesAfter=\n
+
+
+# polarkontinent på jordens södra halvklot
+# newdoc
+# newpar
+# sent_id = 1
+# text = polarkontinent på jordens södra halvklot
+1	polarkontinent	polarkontinent	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	på	på	ADP	PP	_	5	case	_	_
+3	jordens	jord	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	5	nmod:poss	_	_
+4	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	halvklot	halvklo	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# landmassa bestående av kontinenterna Nordamerika och Sydamerika
+# newdoc
+# newpar
+# sent_id = 1
+# text = landmassa bestående av kontinenterna Nordamerika och Sydamerika
+1	landmassa	landmassa	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Dem	0	root	_	_
+2	bestående	bestå	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Tense=Pres|VerbForm=Part	1	acl	_	_
+3	av	av	ADP	PP	_	5	case	_	_
+4	kontinenterna	kontinent	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	5	nmod	_	_
+5	Nordamerika	Nordamerika	PROPN	PM|NOM	Case=Nom	2	obl:agent	_	_
+6	och	och	CCONJ	KN	_	7	cc	_	_
+7	Sydamerika	Sydamerika	PROPN	PM|NOM	Case=Nom	5	conj	_	SpacesAfter=\n
+
+
+# polarområde på jordens norra halvkot
+# newdoc
+# newpar
+# sent_id = 1
+# text = polarområde på jordens norra halvkot
+1	polarområde	polarområde	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	på	på	ADP	PP	_	5	case	_	_
+3	jordens	jord	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	5	nmod:poss	_	_
+4	norra	norra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
+5	halvkot	halvko	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# region
+# newdoc
+# newpar
+# sent_id = 1
+# text = region
+1	region	region	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# region kring Jordens sydpol
+# newdoc
+# newpar
+# sent_id = 1
+# text = region kring Jordens sydpol
+1	region	region	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	kring	kring	ADP	PP	_	4	case	_	_
+3	Jordens	Jorden	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	4	nmod:poss	_	_
+4	sydpol	sydpol	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# traditionellt namn för (Nord)-Amerika enligt vissa ursprungsbefolkningar
+# newdoc
+# newpar
+# sent_id = 1
+# text = traditionellt namn för (Nord)-Amerika enligt vissa ursprungsbefolkningar
+1	traditionellt	traditionell	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	namn	namn	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	nmod	_	_
+3	för	för	ADP	PP	_	2	case	_	_
+4	(	(	PUNCT	PAD	_	2	punct	_	SpaceAfter=No
+5	Nord	Nord	PROPN	PM|NOM	Case=Nom	2	appos	_	SpaceAfter=No
+6	)	)	PUNCT	PAD	_	2	punct	_	SpaceAfter=No
+7	-Amerika	-Amerik	PROPN	PM|NOM	Case=Nom	0	root	_	_
+8	enligt	enligt	ADP	PP	_	10	case	_	_
+9	vissa	viss	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	ursprungsbefolkningar	ursprungsbefolkning	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	7	obl	_	SpacesAfter=\n
+
+

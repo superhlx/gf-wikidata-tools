@@ -1,0 +1,2155 @@
+# かつて存在した中央ヨーロッパの帝国
+# newdoc
+# newpar
+# sent_id = 1
+# text = かつて存在した中央ヨーロッパの帝国
+1	かつて	かつて	ADV	_	_	2	advmod	_	SpaceAfter=No
+2	存在	存在	VERB	_	_	6	acl	_	SpaceAfter=No
+3	し	する	AUX	_	_	2	aux	_	SpaceAfter=No
+4	た	た	AUX	_	_	2	aux	_	SpaceAfter=No
+5	中央	中央	NOUN	_	_	6	compound	_	SpaceAfter=No
+6	ヨーロッパ	ヨーロッパ	PROPN	_	_	8	nmod	_	SpaceAfter=No
+7	の	の	ADP	_	_	6	case	_	SpaceAfter=No
+8	帝国	帝国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北アメリカの国
+1	北アメリカ	北アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ北部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ北部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	北部	北部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東アジアの国
+1	東アジア	東アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アジアの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アジア	アジア	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北ヨーロッパの国
+1	北	北	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアにある共和制国家
+1	西アジア	西アジア	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北アメリカの国
+1	北アメリカ	北アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南ヨーロッパにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南ヨーロッパにある共和制国家
+1	東南	東南	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	iobj	_	SpaceAfter=No
+3	に	に	ADP	_	_	2	case	_	SpaceAfter=No
+4	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+5	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# オセアニアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = オセアニアの国
+1	オセアニア	オセアニア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東アジアの国
+1	東アジア	東アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北ヨーロッパの国
+1	北	北	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北ヨーロッパの国
+1	北	北	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ中部の内陸国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ中部の内陸国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	中部	中部	NOUN	_	_	5	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	内陸	内陸	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北ヨーロッパの国
+1	北	北	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# オセアニアの島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = オセアニアの島国
+1	オセアニア	オセアニア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アジアの国
+1	南アジア	南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋の島国
+1	南太平洋	南太平洋	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋の島国
+1	南太平洋	南太平洋	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋の島国
+1	南太平洋	南太平洋	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋の島国
+1	南太平洋	南太平洋	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋の島国
+1	南太平洋	南太平洋	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# オセアニアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = オセアニアの国
+1	オセアニア	オセアニア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパと西アジアに跨がる国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパと西アジアに跨がる国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	と	と	ADP	_	_	2	case	_	SpaceAfter=No
+4	西アジア	西アジア	PROPN	_	_	6	iobj	_	SpaceAfter=No
+5	に	に	ADP	_	_	4	case	_	SpaceAfter=No
+6	跨がる	跨がる	VERB	_	_	7	acl	_	SpaceAfter=No
+7	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 太平洋の島国
+1	太平洋	太平洋	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋にある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋にある共和制国家
+1	南太平洋	南太平洋	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 太平洋の島国
+1	太平洋	太平洋	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 太平洋の島国
+1	太平洋	太平洋	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 太平洋の島国
+1	太平洋	太平洋	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北アフリカと西アジアに跨がる国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北アフリカと西アジアに跨がる国
+1	北アフリカ	北アフリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	と	と	ADP	_	_	1	case	_	SpaceAfter=No
+3	西アジア	西アジア	PROPN	_	_	5	iobj	_	SpaceAfter=No
+4	に	に	ADP	_	_	3	case	_	SpaceAfter=No
+5	跨がる	跨がる	VERB	_	_	6	acl	_	SpaceAfter=No
+6	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東アジアの国
+1	東アジア	東アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南太平洋の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南太平洋の島国
+1	南太平洋	南太平洋	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東部	東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東部	東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部にある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部にある共和制国家
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	iobj	_	SpaceAfter=No
+3	に	に	ADP	_	_	2	case	_	SpaceAfter=No
+4	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+5	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海にある立憲君主制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海にある立憲君主制国家
+1	カリブ海	カリブ海	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	6	acl	_	SpaceAfter=No
+4	立憲	立憲	NOUN	_	_	6	compound	_	SpaceAfter=No
+5	君	君	NOUN	_	_	6	compound	_	SpaceAfter=No
+6	主	主	ADJ	_	_	7	acl	_	SpaceAfter=No
+7	制国家	制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東アジアの国
+1	東アジア	東アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アメリカの国
+1	南アメリカ	南アメリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# ヨーロッパ・アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = ヨーロッパ・アジアの国
+1	ヨーロッパ	ヨーロッパ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	・	・	SYM	_	_	1	compound	_	SpaceAfter=No
+3	アジア	アジア	NOUN	_	_	5	nmod	_	SpaceAfter=No
+4	の	の	ADP	_	_	3	case	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = ヨーロッパの国
+1	ヨーロッパ	ヨーロッパ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北ヨーロッパの島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北ヨーロッパの島国
+1	北	北	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北ヨーロッパの国
+1	北	北	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北ヨーロッパの国
+1	北	北	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジア、中東にある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジア、中東にある共和制国家
+1	西アジア	西アジア	PROPN	_	_	6	nmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	中東	中東	NOUN	_	_	5	iobj	_	SpaceAfter=No
+4	に	に	ADP	_	_	3	case	_	SpaceAfter=No
+5	ある	ある	VERB	_	_	6	acl	_	SpaceAfter=No
+6	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアにある共和制国家
+1	西アジア	西アジア	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパの国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アジアの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アジア	アジア	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパにある共和制国家
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	iobj	_	SpaceAfter=No
+3	に	に	ADP	_	_	2	case	_	SpaceAfter=No
+4	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+5	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アジアの国
+1	南アジア	南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアにある共和制国家
+1	西アジア	西アジア	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アジアの国
+1	南アジア	南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# ヨーロッパの国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = ヨーロッパの国家
+1	ヨーロッパ	ヨーロッパ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国家	国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 地中海東部の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地中海東部の島国
+1	地中	地中	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	海東部	海東部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東ヨーロッパ、西アジアにある国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東ヨーロッパ、西アジアにある国
+1	東	東	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	7	nmod	_	SpaceAfter=No
+3	、	、	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	西アジア	西アジア	PROPN	_	_	6	iobj	_	SpaceAfter=No
+5	に	に	ADP	_	_	4	case	_	SpaceAfter=No
+6	ある	ある	VERB	_	_	7	acl	_	SpaceAfter=No
+7	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アジアの国
+1	南アジア	南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アジアの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アジア	アジア	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 地中海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 地中海の島国
+1	地中海	地中海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アジアの国
+1	南アジア	南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 教皇庁の独立した都市国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 教皇庁の独立した都市国家
+1	教皇	教皇	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	庁	庁	NOUN	_	_	4	obl	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	独立	独立	VERB	_	_	7	acl	_	SpaceAfter=No
+5	し	する	AUX	_	_	4	aux	_	SpaceAfter=No
+6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
+7	都市国家	都市国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西ヨーロッパの国
+1	西	西	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アジアの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アジア	アジア	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東アジアの国
+1	東アジア	東アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南ヨーロッパの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南ヨーロッパの国
+1	南	南	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	ヨーロッパ	ヨーロッパ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアの国
+1	西アジア	西アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アジアの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アジア	アジア	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アメリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アメリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アメリカ	アメリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# カリブ海の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = カリブ海の島国
+1	カリブ海	カリブ海	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東部の内陸国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東部の内陸国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東部	東部	PROPN	_	_	5	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	内陸	内陸	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東アジアの国
+1	東アジア	東アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央・南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央・南アジアの国
+1	中央	中央	NOUN	_	_	3	nmod	_	SpaceAfter=No
+2	・	・	SYM	_	_	1	compound	_	SpaceAfter=No
+3	南アジア	南アジア	PROPN	_	_	5	nmod	_	SpaceAfter=No
+4	の	の	ADP	_	_	3	case	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アジアにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アジアにある共和制国家
+1	南アジア	南アジア	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ中部の内陸国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ中部の内陸国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	中部	中部	NOUN	_	_	5	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	内陸	内陸	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東方の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東方の島国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東方	東方	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 中央アフリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 中央アフリカの国
+1	中央	中央	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	アフリカ	アフリカ	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南西部にある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南西部にある共和制国家
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	南西部	南西部	PROPN	_	_	4	iobj	_	SpaceAfter=No
+3	に	に	ADP	_	_	2	case	_	SpaceAfter=No
+4	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+5	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 南アジアの国
+1	南アジア	南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ中部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ中部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	中部	中部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアにある立憲君主制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアにある立憲君主制国家
+1	東南アジア	東南アジア	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+4	立憲	立憲	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	君主	君主	NOUN	_	_	6	nmod	_	SpaceAfter=No
+6	制国家	制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東部	東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ北東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ北東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	北東部	北東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# ギニア湾にあるエロベイ諸島に位置する国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = ギニア湾にあるエロベイ諸島に位置する国家
+1	ギニア湾	ギニア湾	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+4	エロベイ	エロベイ	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	諸島	諸島	NOUN	_	_	7	iobj	_	SpaceAfter=No
+6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
+7	位置	位置	VERB	_	_	9	acl	_	SpaceAfter=No
+8	する	する	AUX	_	_	7	aux	_	SpaceAfter=No
+9	国家	国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ北東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ北東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	北東部	北東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 東南アジアの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = 東南アジアの国
+1	東南アジア	東南アジア	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ中部に位置する内陸国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ中部に位置する内陸国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	中部	中部	NOUN	_	_	4	iobj	_	SpaceAfter=No
+3	に	に	ADP	_	_	2	case	_	SpaceAfter=No
+4	位置	位置	VERB	_	_	7	acl	_	SpaceAfter=No
+5	する	する	AUX	_	_	4	aux	_	SpaceAfter=No
+6	内陸	内陸	NOUN	_	_	7	compound	_	SpaceAfter=No
+7	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ中部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ中部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	中部	中部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北アフリカにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北アフリカにある共和制国家
+1	北アフリカ	北アフリカ	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# フランスの共和政体
+# newdoc
+# newpar
+# sent_id = 1
+# text = フランスの共和政体
+1	フランス	フランス	PROPN	_	_	4	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	共和	共和	NOUN	_	_	4	compound	_	SpaceAfter=No
+4	政体	政体	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# デンマーク国王を君主に戴くデンマークとその海外領土の総称
+# newdoc
+# newpar
+# sent_id = 1
+# text = デンマーク国王を君主に戴くデンマークとその海外領土の総称
+1	デンマーク	デンマーク	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	国王	国王	NOUN	_	_	13	nmod	_	SpaceAfter=No
+3	を	を	ADP	_	_	2	case	_	SpaceAfter=No
+4	君主	君主	NOUN	_	_	13	nmod	_	SpaceAfter=No
+5	に	に	ADP	_	_	4	case	_	SpaceAfter=No
+6	戴く	戴い	ADJ	_	_	7	acl	_	SpaceAfter=No
+7	デンマーク	デンマーク	NOUN	_	_	11	nmod	_	SpaceAfter=No
+8	と	と	ADP	_	_	7	case	_	SpaceAfter=No
+9	その	その	ADJ	_	_	11	det	_	SpaceAfter=No
+10	海外	海外	NOUN	_	_	11	nmod	_	SpaceAfter=No
+11	領土	領土	NOUN	_	_	13	nmod	_	SpaceAfter=No
+12	の	の	ADP	_	_	11	case	_	SpaceAfter=No
+13	総称	総称	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ大陸の北西沖にある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ大陸の北西沖にある共和制国家
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	大陸	大陸	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	北西沖	北西沖	NOUN	_	_	6	iobj	_	SpaceAfter=No
+5	に	に	ADP	_	_	4	case	_	SpaceAfter=No
+6	ある	ある	VERB	_	_	7	acl	_	SpaceAfter=No
+7	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アジアにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アジアにある共和制国家
+1	西アジア	西アジア	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南部の立憲君主国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南部の立憲君主国家
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	南部	南部	NOUN	_	_	7	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	立憲	立憲	NOUN	_	_	7	compound	_	SpaceAfter=No
+5	君	君	NOUN	_	_	7	compound	_	SpaceAfter=No
+6	主	主	ADJ	_	_	7	amod	_	SpaceAfter=No
+7	国家	国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ北部にある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ北部にある共和制国家
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	北部	北部	PROPN	_	_	4	iobj	_	SpaceAfter=No
+3	に	に	ADP	_	_	2	case	_	SpaceAfter=No
+4	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+5	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東方の島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東方の島国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東方	東方	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	南東部	南東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ北西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ北西部の国
+1	アフリカ	アフリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	北	北	NOUN	_	_	3	compound	_	SpaceAfter=No
+3	西部	西部	NOUN	_	_	5	nmod	_	SpaceAfter=No
+4	の	の	ADP	_	_	3	case	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# インド洋にある島国
+# newdoc
+# newpar
+# sent_id = 1
+# text = インド洋にある島国
+1	インド洋	インド洋	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	島国	島国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ北西部にある立憲君主制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ北西部にある立憲君主制国家
+1	アフリカ	アフリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	北	北	NOUN	_	_	3	compound	_	SpaceAfter=No
+3	西部	西部	NOUN	_	_	5	iobj	_	SpaceAfter=No
+4	に	に	ADP	_	_	3	case	_	SpaceAfter=No
+5	ある	ある	VERB	_	_	7	acl	_	SpaceAfter=No
+6	立憲君主	立憲君主	NOUN	_	_	7	compound	_	SpaceAfter=No
+7	制国家	制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	南東部	南東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 西アフリカにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 西アフリカにある共和制国家
+1	西アフリカ	西アフリカ	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東部の内陸国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東部の内陸国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東部	東部	PROPN	_	_	5	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	内陸	内陸	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ中部の内陸国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ中部の内陸国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	中部	中部	NOUN	_	_	5	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	内陸	内陸	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカの国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカの国
+1	アフリカ	アフリカ	PROPN	_	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	_	_	1	case	_	SpaceAfter=No
+3	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# インド洋にある国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = インド洋にある国家
+1	インド洋	インド洋	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	国家	国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ西部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ西部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	西部	西部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ東部の国
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ東部の国
+1	アフリカ	アフリカ	PROPN	_	_	2	compound	_	SpaceAfter=No
+2	東部	東部	PROPN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# 北東アフリカにある共和制国家
+# newdoc
+# newpar
+# sent_id = 1
+# text = 北東アフリカにある共和制国家
+1	北東アフリカ	北東アフリカ	PROPN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	4	acl	_	SpaceAfter=No
+4	共和制国家	共和制国家	NOUN	_	_	0	root	_	SpacesAfter=\n
+
+
+# アフリカ南部の国、旧スワジランド
+# newdoc
+# newpar
+# sent_id = 1
+# text = アフリカ南部の国、旧スワジランド
+1	アフリカ	アフリカ	PROPN	_	_	2	nmod	_	SpaceAfter=No
+2	南部	南部	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	国	国	NOUN	_	_	7	nmod	_	SpaceAfter=No
+5	、	、	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	旧	旧	NOUN	_	_	7	amod	_	SpaceAfter=No
+7	スワジランド	スワジランド	PROPN	_	_	0	root	_	SpacesAfter=\n
+
+

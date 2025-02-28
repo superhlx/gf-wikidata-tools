@@ -1,0 +1,1797 @@
+# ιδιωτικό ερευνητικό πανεπιστήμιο στην Πασαντίνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιδιωτικό ερευνητικό πανεπιστήμιο στην Πασαντίνα
+1	ιδιωτικό	ιδιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	ερευνητικό	ερευνητικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+5	Πασαντίνα	Πασαντίνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# ιδιωτικό πανεπιστήμιο στη Βόρεια Καρολίνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιδιωτικό πανεπιστήμιο στη Βόρεια Καρολίνα
+1	ιδιωτικό	ιδιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	Βόρεια	βόρειος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Καρολίνα	Καρολίνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Σαραγόσα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Σαραγόσα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Σαραγόσα	Σαραγόσα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο ερευνητικό πανεπιστήμιο, το οποίο βρίσκεται στην πόλη Γκίλφορντ, Σάρρεϋ
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο ερευνητικό πανεπιστήμιο, το οποίο βρίσκεται στην πόλη Γκίλφορντ, Σάρρεϋ
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+2	ερευνητικό	ερευνητικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+3	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	οποίο	οποίος	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel	7	nsubj	_	_
+7	βρίσκεται	βρίσκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl:relcl	_	_
+8	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	9	case	_	_
+9	πόλη	πόλη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+10	Γκίλφορντ	Γκίλφορντ	X	X	Foreign=Yes	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	12	punct	_	_
+12	Σάρρεϋ	Σάρρεϋ	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	SpacesAfter=\n
+
+
+# εσθονικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = εσθονικό πανεπιστήμιο
+1	εσθονικό	εσθονικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# Πανεπιστήμια και κολέγια στο Τόκιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμια και κολέγια στο Τόκιο
+1	Πανεπιστήμια	πανεπιστήμιο	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	και	και	CCONJ	CCONJ	_	3	cc	_	_
+3	κολέγια	κολέγος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
+4	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	5	case	_	_
+5	Τόκιο	Τόκιο	X	X	Foreign=Yes	3	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα με έδρα τη Θεσσαλονίκη
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα με έδρα τη Θεσσαλονίκη
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Θεσσαλονίκη	Θεσσαλονίκη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Χαβάη των ΗΠΑ
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Χαβάη των ΗΠΑ
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Χαβάη	Χαβάη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	3	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Ρουμανία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Ρουμανία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ρουμανία	Ρουμανία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ιταλικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιταλικό πανεπιστήμιο
+1	ιταλικό	ιταλικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο της Ιταλίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο της Ιταλίας
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Ιταλίας	Ιταλία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ολλανδικό πανεπιστημιακό ίδρυμα (πολυτεχνείο)
+# newdoc
+# newpar
+# sent_id = 1
+# text = ολλανδικό πανεπιστημιακό ίδρυμα (πολυτεχνείο)
+1	ολλανδικό	ολλανδικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	πανεπιστημιακό	πανεπιστημιακός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	(	(	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+5	πολυτεχνείο	πολυτεχνείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+6	)	)	PUNCT	PUNCT	_	5	punct	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο της Υεμένης
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο της Υεμένης
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Υεμένης	Υεμένη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# μουσικό πανεπιστήμιο στο Βουκουρέστι
+# newdoc
+# newpar
+# sent_id = 1
+# text = μουσικό πανεπιστήμιο στο Βουκουρέστι
+1	μουσικό	μουσικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+4	Βουκουρέστι	Βουκουρέστι	X	X	Foreign=Yes	2	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Στοκχόλμη της Σουηδίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Στοκχόλμη της Σουηδίας
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Στοκχόλμη	Στοκχόλμος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Σουηδίας	Σουηδία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστημιακό ίδρυμα στο Μάλμε της Σουηδίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστημιακό ίδρυμα στο Μάλμε της Σουηδίας
+1	πανεπιστημιακό	πανεπιστημιακός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+3	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+4	Μάλμε	Μάλμε	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Σουηδίας	Σουηδία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# εκπαιδευτικό ίδρυμα τεχνών με έδρα το Ελσίνκι
+# newdoc
+# newpar
+# sent_id = 1
+# text = εκπαιδευτικό ίδρυμα τεχνών με έδρα το Ελσίνκι
+1	εκπαιδευτικό	εκπαιδευτικό	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	ίδρυμα	ίδρυμος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	τεχνών	τεχνός	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+6	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	Ελσίνκι	Ελσίνκι	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# μουσικό εκπαιδευτικό ίδρυμα στο Λονδίνο
+# newdoc
+# newpar
+# sent_id = 1
+# text = μουσικό εκπαιδευτικό ίδρυμα στο Λονδίνο
+1	μουσικό	μουσικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	5	case	_	_
+5	Λονδίνο	Λονδίνο	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Ιταλία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Ιταλία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ιταλία	Ιταλία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Φιλαδέλφεια των ΗΠΑ
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Φιλαδέλφεια των ΗΠΑ
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Φιλαδέλφεια	Φιλαδέλφεια	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	3	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στο Μαρόκο
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στο Μαρόκο
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Μαρόκο	Μαρόκο	PROPN	PROPN	Case=Nom|Gender=Neut|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο πανεπιστημιακό ίδρυμα στο Παρίσι της Γαλλίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο πανεπιστημιακό ίδρυμα στο Παρίσι της Γαλλίας
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	πανεπιστημιακό	πανεπιστημιακός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	5	case	_	_
+5	Παρίσι	Παρίσι	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
+6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Γαλλίας	Γαλλία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Ουκρανία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Ουκρανία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ουκρανία	Ουκρανία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κατάλογος εγχειρήματος Wikimedia
+# newdoc
+# newpar
+# sent_id = 1
+# text = κατάλογος εγχειρήματος Wikimedia
+1	κατάλογος	κατάλογος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	εγχειρήματος	εγχειρήμα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	Wikimedia	Wikimedia	X	X	Foreign=Yes	2	nmod	_	SpacesAfter=\n
+
+
+# σελίδα αποσαφήνισης εγχειρημάτων Wikimedia
+# newdoc
+# newpar
+# sent_id = 1
+# text = σελίδα αποσαφήνισης εγχειρημάτων Wikimedia
+1	σελίδα	σελίδος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	αποσαφήνισης	αποσαφήνιση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	εγχειρημάτων	εγχειρημάτων	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	Wikimedia	Wikimedia	X	X	Foreign=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στο Μπακού του Αζερμπαϊτζάν
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στο Μπακού του Αζερμπαϊτζάν
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Μπακού	Μπακό	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Αζερμπαϊτζάν	Αζερμπαϊτζάν	X	X	Foreign=Yes	3	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο της Μαδρίτης (1822-1943), τέως όνομα του Πανεπιστημίου Κομπλουτένσε
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο της Μαδρίτης (1822-1943)
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Μαδρίτης	Μαδρίτη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	(	(	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+5	1822-1943	1822-1943	NOUN	NOUN	_	1	nmod	_	SpaceAfter=No
+6	)	)	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = , τέως όνομα του Πανεπιστημίου Κομπλουτένσε
+1	,	,	PUNCT	PUNCT	_	3	punct	_	_
+2	τέως	τέως	ADV	ADV	_	3	amod	_	_
+3	όνομα	όνομα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Πανεπιστημίου	πανεπιστήμιο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	Κομπλουτένσε	Κομπλουτένσε	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
+
+
+# σελίδα αποσαφήνισης εγχειρημάτων Wikimedia
+# newdoc
+# newpar
+# sent_id = 1
+# text = σελίδα αποσαφήνισης εγχειρημάτων Wikimedia
+1	σελίδα	σελίδος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	αποσαφήνισης	αποσαφήνιση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	εγχειρημάτων	εγχειρημάτων	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	Wikimedia	Wikimedia	X	X	Foreign=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# κατηγορία εγχειρημάτων Wikimedia
+# newdoc
+# newpar
+# sent_id = 1
+# text = κατηγορία εγχειρημάτων Wikimedia
+1	κατηγορία	κατηγορία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	εγχειρημάτων	εγχειρημάτων	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+3	Wikimedia	Wikimedia	X	X	Foreign=Yes	2	nmod	_	SpacesAfter=\n
+
+
+# σελίδα αποσαφήνισης εγχειρημάτων Wikimedia
+# newdoc
+# newpar
+# sent_id = 1
+# text = σελίδα αποσαφήνισης εγχειρημάτων Wikimedia
+1	σελίδα	σελίδος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	αποσαφήνισης	αποσαφήνιση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	εγχειρημάτων	εγχειρημάτων	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	Wikimedia	Wikimedia	X	X	Foreign=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Ιαπωνία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Ιαπωνία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ιαπωνία	Ιαπωνία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ερευνητικό πανεπιστήμιο στη Μασαχουσέτη
+# newdoc
+# newpar
+# sent_id = 1
+# text = ερευνητικό πανεπιστήμιο στη Μασαχουσέτη
+1	ερευνητικό	ερευνητικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Μασαχουσέτη	Μασαχουσέτης	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στο Όμπερν της Αλαμπάμας, ΗΠΑ
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στο Όμπερν της Αλαμπάμας, ΗΠΑ
+1	Πανεπιστήμιο	Πανεπιστήμιο	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Όμπερν	όμπερν	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+4	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Αλαμπάμας	Αλαμπάμα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	1	conj	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στο Καράκας της Βενεζουέλας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στο Καράκας της Βενεζουέλας
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Καράκας	Καράκας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Βενεζουέλας	Βενεζουέλας	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Αθήνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Αθήνα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Αθήνα	Αθήνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# Ιδιωτικό Πανεπιστήμιο στο Σικάγο, Ιλινόι (ΗΠΑ)
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ιδιωτικό Πανεπιστήμιο στο Σικάγο, Ιλινόι (ΗΠΑ)
+1	Ιδιωτικό	Ιδιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	Πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+3	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+4	Σικάγο	Σικάγος	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	Ιλινόι	Ιλινός	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	(	(	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No
+8	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	6	obl	_	SpaceAfter=No
+9	)	)	PUNCT	PUNCT	_	6	punct	_	SpacesAfter=\n
+
+
+# ωδείο στη Νάπολη
+# newdoc
+# newpar
+# sent_id = 1
+# text = ωδείο στη Νάπολη
+1	ωδείο	ωδείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Νάπολη	Νάπολη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κρατικό εκπαιδευτικό ίδρυμα στη Βομβάη
+# newdoc
+# newpar
+# sent_id = 1
+# text = κρατικό εκπαιδευτικό ίδρυμα στη Βομβάη
+1	κρατικό	κρατικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+5	Βομβάη	Βομβάη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# τεχνικό πανεπιστήμιο στη Λετονία
+# newdoc
+# newpar
+# sent_id = 1
+# text = τεχνικό πανεπιστήμιο στη Λετονία
+1	τεχνικό	τεχνικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Λετονία	Λετονία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Τυνησία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Τυνησία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Τυνησία	Τυνησία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Ουκρανία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Ουκρανία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ουκρανία	Ουκρανία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στον Νομό Χιροσίμα της Ιαπωνίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στον Νομό Χιροσίμα της Ιαπωνίας
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
+3	Νομό	νομός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	_
+4	Χιροσίμα	Χιροσίμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Ιαπωνίας	Ιαπωνία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο πανεπιστήμιο στο Ντέιβις της Καλιφόρνια. μέρος του συστήματος του Πανεπιστημίου της Καλιφόρνια
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο πανεπιστήμιο στο Ντέιβις της Καλιφόρνια.
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+4	Ντέιβις	ντέιβις	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Καλιφόρνια	Καλιφόρνια	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 2
+# text = μέρος του συστήματος του Πανεπιστημίου της Καλιφόρνια
+1	μέρος	μέρος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	συστήματος	σύστημα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Πανεπιστημίου	πανεπιστήμιο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Καλιφόρνια	Καλιφόρνια	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# ιδιωτικό πανεπιστήμιο στη Βουλγαρία
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιδιωτικό πανεπιστήμιο στη Βουλγαρία
+1	ιδιωτικό	ιδιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Βουλγαρία	Βουλγαρία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο πανεπιστήμιο στο Λος Άντζελες
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο πανεπιστήμιο στο Λος Άντζελες
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+4	Λος	Λος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	Άντζελες	Άντζελες	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Plur	4	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο του Ηνωμένου Βασιλείου
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο του Ηνωμένου Βασιλείου
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+3	Ηνωμένου	ηνωμένος	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Sing	4	amod	_	_
+4	Βασιλείου	βασίλειο	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο της Άιοβα
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο της Άιοβα
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	3	advmod	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Άιοβα	Άιοβας	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# γαλλικό πανεπιστήμιο (1896-1970)
+# newdoc
+# newpar
+# sent_id = 1
+# text = γαλλικό πανεπιστήμιο (1896-1970)
+1	γαλλικό	γαλλικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	(	(	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+4	1896-1970	1896-1970	NOUN	NOUN	_	2	nmod	_	SpaceAfter=No
+5	)	)	PUNCT	PUNCT	_	4	punct	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην πόλη Σπλιτ της Κροατίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην πόλη Σπλιτ της Κροατίας
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	πόλη	πόλη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	Σπλιτ	Σπλιτ	X	X	Foreign=Yes	3	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Κροατίας	Κροατία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Λιθουανία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Λιθουανία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Λιθουανία	Λιθουανία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Βιρτζίνια των ΗΠΑ
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Βιρτζίνια των ΗΠΑ
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Βιρτζίνια	Βιρτζίνια	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	3	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο των ΗΠΑ
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο των ΗΠΑ
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# Αββαείο στην Αυστρία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Αββαείο στην Αυστρία
+1	Αββαείο	Αββαείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Αυστρία	Αυστρία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Ταϊβάν
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Ταϊβάν
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ταϊβάν	Ταϊβάν	X	X	Foreign=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο πανεπιστήμιο στη Σιγκαπούρη
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο πανεπιστήμιο στη Σιγκαπούρη
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Σιγκαπούρη	σιγκαπούρη	ADJ	ADJ	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	2	amod	_	SpacesAfter=\n
+
+
+# Ιταλικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ιταλικό πανεπιστήμιο
+1	Ιταλικό	Ιταλικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# πρώην πανεπιστήμιο που ιδρύθηκε το 1971 από τη συγχώνευση των πρώην πανεπιστημίων της Κινσάσα, του Λουμπουμπάσι και του Κισανγκάνι, το οποίο εξαφανίστηκε το 1981 για τη μεταρρύθμιση των προαναφερθέντων πανεπιστημίων (Πανεπιστήμιο της Κινσάσα, Πανεπισ
+# newdoc
+# newpar
+# sent_id = 1
+# text = πρώην πανεπιστήμιο που ιδρύθηκε το 1971 από τη συγχώνευση των πρώην πανεπιστημίων της Κινσάσα, του Λουμπουμπάσι και του Κισανγκάνι, το οποίο εξαφανίστηκε το 1981 για τη μεταρρύθμιση των προαναφερθέντων πανεπιστημίων (Πανεπιστήμιο της Κινσάσα, Πανεπισ
+1	πρώην	πρώην	ADV	ADV	_	2	advmod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	38	advmod	_	_
+3	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
+4	ιδρύθηκε	ιδρύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	_
+5	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	1971	1971	NUM	NUM	NumType=Card	4	nummod	_	_
+7	από	από	ADP	ADP	_	9	case	_	_
+8	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	συγχώνευση	συγχώνευση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+10	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	_	_
+11	πρώην	πρώην	ADV	ADV	_	12	amod	_	_
+12	πανεπιστημίων	πανεπιστημίο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+13	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Κινσάσα	Κινσάσα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	17	punct	_	_
+16	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Λουμπουμπάσι	Λουμπουμπάσι	X	X	Foreign=Yes	12	appos	_	_
+18	και	και	CCONJ	CCONJ	_	20	cc	_	_
+19	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Κισανγκάνι	Κισανγκάνι	X	X	Foreign=Yes	17	conj	_	SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	24	punct	_	_
+22	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	23	det	_	_
+23	οποίο	οποίος	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel	24	nsubj	_	_
+24	εξαφανίστηκε	εξαφανίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	17	acl:relcl	_	_
+25	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	26	det	_	_
+26	1981	1981	NUM	NUM	NumType=Card	24	nummod	_	_
+27	για	για	ADP	ADP	_	29	case	_	_
+28	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	μεταρρύθμιση	μεταρρύθμιση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
+30	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	32	det	_	_
+31	προαναφερθέντων	προαναφερθείς	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Plur	32	amod	_	_
+32	πανεπιστημίων	πανεπιστημίο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	29	nmod	_	_
+33	(	(	PUNCT	PUNCT	_	34	punct	_	SpaceAfter=No
+34	Πανεπιστήμιο	πανεπιστήμιο	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	32	appos	_	_
+35	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
+36	Κινσάσα	Κινσάσα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	34	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	PUNCT	_	38	punct	_	_
+38	Πανεπισ	Πανεπισ	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Πάτρα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Πάτρα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Πάτρα	Πάτρα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο της Κεντρικής Ελλάδας
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο της Κεντρικής Ελλάδας
+1	Πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Κεντρικής	κεντρικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ελλάδας	Ελλάδα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Αθήνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Αθήνα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Αθήνα	Αθήνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Σερβία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Σερβία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Σερβία	Σερβία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Φινλανδία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Φινλανδία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Φινλανδία	Φινλανδία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ιταλικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιταλικό πανεπιστήμιο
+1	ιταλικό	ιταλικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στην Ολλανδία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στην Ολλανδία
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ολλανδία	Ολλανδία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Αθήνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Αθήνα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Αθήνα	Αθήνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στη Σικελία (Ιταλία)
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στη Σικελία (Ιταλία)
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Σικελία	Σικελία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	(	(	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+5	Ιταλία	Ιταλία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	appos	_	SpaceAfter=No
+6	)	)	PUNCT	PUNCT	_	1	punct	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# Ρωσικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ρωσικό πανεπιστήμιο
+1	Ρωσικό	Ρωσικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# εκπαιδευτικό ίδρυμα στο Σίτι του Λονδίνου
+# newdoc
+# newpar
+# sent_id = 1
+# text = εκπαιδευτικό ίδρυμα στο Σίτι του Λονδίνου
+1	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+4	Σίτι	Σίτι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	Λονδίνου	Λονδίνο	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Κέρκυρα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα με έδρα την Κέρκυρα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Κέρκυρα	Κέρκυρα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στα Τίρανα της Αλβανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στα Τίρανα της Αλβανίας
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	3	case	_	_
+3	Τίρανα	Τίρανα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	nmod	_	_
+4	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Αλβανίας	Αλβανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στο Μπενίν
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στο Μπενίν
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Μπενίν	Μπενίν	X	X	Foreign=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Τυνησία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Τυνησία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Τυνησία	Τυνησία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα που δραστηριοποιείται στην Τρίπολη
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα που δραστηριοποιείται στην Τρίπολη
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	που	που	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel	5	nsubj	_	_
+5	δραστηριοποιείται	δραστηριοποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl:relcl	_	_
+6	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	7	case	_	_
+7	Τρίπολη	Τρίπολη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στο Πεκίνο
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στο Πεκίνο
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	3	advmod	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Πεκίνο	Πεκίνο	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα που δραστηριοποιείται στην Αθήνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα που δραστηριοποιείται στην Αθήνα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	που	που	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel	5	nsubj	_	_
+5	δραστηριοποιείται	δραστηριοποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl:relcl	_	_
+6	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	7	case	_	_
+7	Αθήνα	Αθήνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	SpacesAfter=\n
+
+
+# Πολυτεχνείο στην Ελλάδα
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πολυτεχνείο στην Ελλάδα
+1	Πολυτεχνείο	Πολυτεχνείο	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ελλάδα	Ελλάδα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στο Ιράν
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στο Ιράν
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Ιράν	Ιράν	X	X	Foreign=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Ρωσία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Ρωσία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ρωσία	Ρωσία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο της Αλγερίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο της Αλγερίας
+1	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Αλγερίας	Αλγερία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ιδιωτικό πανεπιστήμιο στην Βόρεια Μακεδονία, με έδρα τα Σκόπια
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιδιωτικό πανεπιστήμιο στην Βόρεια Μακεδονία, με έδρα τα Σκόπια
+1	ιδιωτικό	ιδιωτικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	Βόρεια	βόρειος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Μακεδονία	Μακεδονία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	με	με	ADP	ADP	_	8	case	_	_
+8	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+9	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
+10	Σκόπια	Σκόπια	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	8	nmod	_	SpacesAfter=\n
+
+
+# αμερικανικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = αμερικανικό πανεπιστήμιο
+1	αμερικανικό	αμερικάνικος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Μανίλα των Φιλιππίνων
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Μανίλα των Φιλιππίνων
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Μανίλα	Μανίλα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	Φιλιππίνων	Φιλιππίνες	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	SpacesAfter=\n
+
+
+# μουσικό πανεπιστήμιο και μέγαρο μουσικής στη Βουδαπέστη
+# newdoc
+# newpar
+# sent_id = 1
+# text = μουσικό πανεπιστήμιο και μέγαρο μουσικής στη Βουδαπέστη
+1	μουσικό	μουσικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	και	και	CCONJ	CCONJ	_	4	cc	_	_
+4	μέγαρο	μέγαρο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	_
+5	μουσικής	μουσικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+6	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	7	case	_	_
+7	Βουδαπέστη	Βουδαπέστης	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Βυζαντινό εκπαιδευτικό ίδρυμα
+# newdoc
+# newpar
+# sent_id = 1
+# text = Βυζαντινό εκπαιδευτικό ίδρυμα
+1	Βυζαντινό	βυζαντινός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο με έδρα το Σάλτσμπουργκ
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο με έδρα το Σάλτσμπουργκ
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	με	με	ADP	ADP	_	3	case	_	_
+3	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Σάλτσμπουργκ	Σάλτσμπουργκ	X	X	Foreign=Yes	3	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο πανεπιστήμιο με έδρα το Γκρατς
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο πανεπιστήμιο με έδρα το Γκρατς
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	με	με	ADP	ADP	_	4	case	_	_
+4	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	Γκρατς	Γκρατς	X	X	Foreign=Yes	4	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# Δημόσιο πανεπιστήμιο στο Μπέλφαστ της Βόρειας Ιρλανδίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = Δημόσιο πανεπιστήμιο στο Μπέλφαστ της Βόρειας Ιρλανδίας
+1	Δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+4	Μπέλφαστ	Μπέλφαστ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	Βόρειας	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
+7	Ιρλανδίας	Ιρλανδία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# ρωσικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = ρωσικό πανεπιστήμιο
+1	ρωσικό	ρωσικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Αλγερία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Αλγερία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Αλγερία	Αλγερία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# γαλλική πρώην διοικητική υπηρεσία υπεύθυνη για την ανώτατη εκπαίδευση κατά την διάρκεια του 19ου αιώνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = γαλλική πρώην διοικητική υπηρεσία υπεύθυνη για την ανώτατη εκπαίδευση κατά την διάρκεια του 19ου αιώνα
+1	γαλλική	γαλλικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+2	πρώην	πρώην	ADV	ADV	_	3	advmod	_	_
+3	διοικητική	διοικητική	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+4	υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	υπεύθυνη	υπεύθυνος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+6	για	για	ADP	ADP	_	9	case	_	_
+7	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	ανώτατη	ανώτατος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
+9	εκπαίδευση	εκπαίδευση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+10	κατά	κατά	ADP	ADP	_	12	case	_	_
+11	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	διάρκεια	διάρκεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
+13	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	19ου	19ος	NUM	NUM	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	15	nummod	_	_
+15	αιώνα	αιώνας	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpacesAfter=\n
+
+
+# Εθνικό πανεπιστήμιο στην πόλη Ντνίπρο της Ουκρανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = Εθνικό πανεπιστήμιο στην πόλη Ντνίπρο της Ουκρανίας
+1	Εθνικό	εθνικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	πόλη	πόλη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	Ντνίπρο	Ντνίπρο	ADP	ADP	_	7	case	_	_
+6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Ουκρανίας	Ουκρανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# μαθήματα ανώτατης εκπαίδευσης για Ρωσίδες γυναίκες
+# newdoc
+# newpar
+# sent_id = 1
+# text = μαθήματα ανώτατης εκπαίδευσης για Ρωσίδες γυναίκες
+1	μαθήματα	μαθήμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
+2	ανώτατης	ανώταο	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	3	amod	_	_
+3	εκπαίδευσης	εκπαίδευση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	για	για	ADP	ADP	_	6	case	_	_
+5	Ρωσίδες	Ρωσίδες	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	6	amod	_	_
+6	γυναίκες	γυναίκα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	1	nmod	_	SpacesAfter=\n
+
+
+# σχολή κινηματογράφου
+# newdoc
+# newpar
+# sent_id = 1
+# text = σχολή κινηματογράφου
+1	σχολή	σχολή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	κινηματογράφου	κινηματογράφος	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμια στην Ινδονησία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμια στην Ινδονησία
+1	Πανεπιστήμια	πανεπιστήμια	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ινδονησία	Ινδονησία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# ιταλικό ακαδημαϊκό ίδρυμα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιταλικό ακαδημαϊκό ίδρυμα
+1	ιταλικό	ιταλικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	ακαδημαϊκό	ακαδημαϊκός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στη Βοστώνη, Ηνωμένες Πολιτείες
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στη Βοστώνη, Ηνωμένες Πολιτείες
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	6	advmod	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Βοστώνη	Βοστώνης	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	6	punct	_	_
+5	Ηνωμένες	ηνωμένος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	6	amod	_	_
+6	Πολιτείες	πολιτεία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στο Αζερμπαϊτζάν
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στο Αζερμπαϊτζάν
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	3	case	_	_
+3	Αζερμπαϊτζάν	Αζερμπαϊτζάν	X	X	Foreign=Yes	1	nmod	_	SpacesAfter=\n
+
+
+# ρωσική στρατιωτική σχολή
+# newdoc
+# newpar
+# sent_id = 1
+# text = ρωσική στρατιωτική σχολή
+1	ρωσική	ρωσικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
+2	στρατιωτική	στρατιωτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
+3	σχολή	σχολή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# πρώην πανεπιστήμιο (1896-1969)
+# newdoc
+# newpar
+# sent_id = 1
+# text = πρώην πανεπιστήμιο (1896-1969)
+1	πρώην	πρώην	ADV	ADV	_	2	advmod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+3	(	(	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+4	1896-1969	1896-1969	NOUN	NOUN	_	2	appos	_	SpaceAfter=No
+5	)	)	PUNCT	PUNCT	_	4	punct	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Λαϊκή Δημοκρατία της Κίνας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Λαϊκή Δημοκρατία της Κίνας
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+3	Λαϊκή	Λαϊκή	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	Δημοκρατία	δημοκρατία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Κίνας	Κίνα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# σοβιετικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = σοβιετικό πανεπιστήμιο
+1	σοβιετικό	σοβιετικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# Ρωσικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ρωσικό πανεπιστήμιο
+1	Ρωσικό	Ρωσικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# εκπαιδευτικό ίδρυμα στη Μόσχα
+# newdoc
+# newpar
+# sent_id = 1
+# text = εκπαιδευτικό ίδρυμα στη Μόσχα
+1	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Μόσχα	Μόσχα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Ρωσικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ρωσικό πανεπιστήμιο
+1	Ρωσικό	Ρωσικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# τεχνικό πανεπιστήμιο στην πόλη Μπρνο της Τσεχίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = τεχνικό πανεπιστήμιο στην πόλη Μπρνο της Τσεχίας
+1	τεχνικό	τεχνικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	πόλη	πόλη	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Μπρνο	Μπρνο	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Τσεχίας	Τσεχία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# ίδρυμα τριτοβάθμιας εκπαίδευσης στη Μόσχα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ίδρυμα τριτοβάθμιας εκπαίδευσης στη Μόσχα
+1	ίδρυμα	ίδρυμος	ADV	ADV	_	3	advmod	_	_
+2	τριτοβάθμιας	τριτοβάθμια	DET	DET	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	εκπαίδευσης	εκπαίδευση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+4	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+5	Μόσχα	Μόσχα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο της Νέας Ζηλανδίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο της Νέας Ζηλανδίας
+1	Πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	4	advmod	_	_
+2	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	Νέας	νέος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	Ζηλανδίας	Ζηλανδία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# δημόσιο Πανεπιστήμιο στην Κουάλα Λουμπούρ της Μαλαισίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο Πανεπιστήμιο στην Κουάλα Λουμπούρ της Μαλαισίας
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	Πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Κουάλα	Κουάλα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	Λουμπούρ	Λουμπούρ	ADP	ADP	_	7	case	_	_
+6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Μαλαισίας	Μαλαισία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στη Ρωσία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στη Ρωσία
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ρωσία	Ρωσία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο πανεπιστήμιο στην Οδησσό της Ουκρανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο πανεπιστήμιο στην Οδησσό της Ουκρανίας
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Οδησσό	Οδησσός	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Ουκρανίας	Ουκρανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στην Οδησσό της Ουκρανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στην Οδησσό της Ουκρανίας
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Οδησσό	Οδησσός	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Ουκρανίας	Ουκρανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο κρατικό εκπαιδευτικό ίδρυμα της Ρωσίας, στη Δημοκρατία της Καρελίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο κρατικό εκπαιδευτικό ίδρυμα της Ρωσίας, στη Δημοκρατία της Καρελίας
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
+2	κρατικό	κρατικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
+3	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
+4	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Ρωσίας	Ρωσία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	9	case	_	_
+9	Δημοκρατία	δημοκρατία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
+10	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Καρελίας	Καρελία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο κρατικό πανεπιστήμιο στο Κανπούρ του Ούταρ Πραντές
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο κρατικό πανεπιστήμιο στο Κανπούρ του Ούταρ Πραντές
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+2	κρατικό	κρατικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+3	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+4	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	5	case	_	_
+5	Κανπούρ	Κανπούρ	X	X	Foreign=Yes	3	nmod	_	_
+6	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	Ούταρ	Ούταρ	X	X	Foreign=Yes	8	nmod	_	_
+8	Πραντές	Πραντής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο πανεπιστήμιο της Βουλγαρίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο πανεπιστήμιο της Βουλγαρίας
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Βουλγαρίας	Βουλγαρία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Σερβία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Σερβία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Σερβία	Σερβία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# Ανώτατο εκπαιδευτικό ίδρυμα στη Δυτική Μακεδονία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ανώτατο εκπαιδευτικό ίδρυμα στη Δυτική Μακεδονία
+1	Ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
+5	Δυτική	Δυτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+6	Μακεδονία	Μακεδονία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# παλαιότερο πανεπιστήμιο της Ρωσίας (1915-2006)
+# newdoc
+# newpar
+# sent_id = 1
+# text = παλαιότερο πανεπιστήμιο της Ρωσίας (1915-2006)
+1	παλαιότερο	παλαιός	ADV	ADV	Degree=Cmp	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Ρωσίας	Ρωσία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	(	(	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
+6	1915-2006	1915-2006	NOUN	NOUN	_	2	appos	_	SpaceAfter=No
+7	)	)	PUNCT	PUNCT	_	6	punct	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στα Τίρανα
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στα Τίρανα
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	3	advmod	_	_
+2	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	3	case	_	_
+3	Τίρανα	Τίρανα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	0	root	_	SpacesAfter=\n
+
+
+# Αγγλικό Πανεπιστήμιο με έδρα το Λονδίνο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Αγγλικό Πανεπιστήμιο με έδρα το Λονδίνο
+1	Αγγλικό	Αγγλικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	Πανεπιστήμιο	Πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	με	με	ADP	ADP	_	4	case	_	_
+4	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	Λονδίνο	Λονδίνο	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο με έδρα το Μπάρι
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο με έδρα το Μπάρι
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	με	με	ADP	ADP	_	3	case	_	_
+3	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Μπάρι	Μπάρι	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο πανεπιστήμιο στη Μεσσήνη της Σικελίας, στην Ιταλία, που ιδρύθηκε το 1548
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο πανεπιστήμιο στη Μεσσήνη της Σικελίας, στην Ιταλία, που ιδρύθηκε το 1548
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Μεσσήνη	Μεσσήνη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Σικελίας	Σικελία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	9	case	_	_
+9	Ιταλία	Ιταλία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	12	punct	_	_
+11	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	12	nsubj	_	_
+12	ιδρύθηκε	ιδρύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	acl:relcl	_	_
+13	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+14	1548	1548	NUM	NUM	NumType=Card	12	nummod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Χιλή
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Χιλή
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Χιλή	Χιλή	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην πόλη Γκαλάτσι της Ρουμανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην πόλη Γκαλάτσι της Ρουμανίας
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	πόλη	πόλη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	Γκαλάτσι	Γκαλάτσι	X	X	Foreign=Yes	3	nmod	_	_
+5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Ρουμανίας	Ρουμανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+
+
+# Το μοναδικό πανεπιστήμιο αποκλειστικά για αναπήρους σε όλο το κόσμο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Το μοναδικό πανεπιστήμιο αποκλειστικά για αναπήρους σε όλο το κόσμο
+1	Το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+2	μοναδικό	μοναδικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+3	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+4	αποκλειστικά	αποκλειστικά	ADV	ADV	_	10	advmod	_	_
+5	για	για	ADP	ADP	_	6	case	_	_
+6	αναπήρους	αναπήρος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	4	nmod	_	_
+7	σε	σε	ADP	ADP	_	10	case	_	_
+8	όλο	όλος	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_
+9	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	κόσμο	κόσμος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστημιακό ινστιτούτο ανώτερης καλλιτεχνικής κατάρτισης
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστημιακό ινστιτούτο ανώτερης καλλιτεχνικής κατάρτισης
+1	πανεπιστημιακό	πανεπιστημιακός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	2	amod	_	_
+2	ινστιτούτο	ινστιτούτο	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+3	ανώτερης	ανώτερος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+4	καλλιτεχνικής	καλλιτεχνικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	κατάρτισης	κατάρτιση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# αμερικανικό πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = αμερικανικό πανεπιστήμιο
+1	αμερικανικό	αμερικάνικος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στην Τουρκία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στην Τουρκία
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Τουρκία	Τουρκία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# ανώτατο εκπαιδευτικό ίδρυμα στην Ελλάδα
+# newdoc
+# newpar
+# sent_id = 1
+# text = ανώτατο εκπαιδευτικό ίδρυμα στην Ελλάδα
+1	ανώτατο	ανώτερος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+5	Ελλάδα	Ελλάδα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
+# ρωσικό δημόσιο πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = ρωσικό δημόσιο πανεπιστήμιο
+1	ρωσικό	ρωσικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	δημόσιο	δημόσιος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Ιαπωνία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Ιαπωνία
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ιαπωνία	Ιαπωνία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στη Κύπρο
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στη Κύπρο
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Κύπρο	Κύπρος	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# δημόσιο εκπαιδευτικό ίδρυμα με έδρα το Κισινάου
+# newdoc
+# newpar
+# sent_id = 1
+# text = δημόσιο εκπαιδευτικό ίδρυμα με έδρα το Κισινάου
+1	δημόσιο	δημόσιος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	εκπαιδευτικό	εκπαιδευτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	ίδρυμα	ίδρυμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	με	με	ADP	ADP	_	5	case	_	_
+5	έδρα	έδρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	Κισινάου	Κισινάος	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο στο Κίεβο Ουκρανίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο στο Κίεβο Ουκρανίας
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+3	Κίεβο	Κίεβο	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	4	amod	_	_
+4	Ουκρανίας	Ουκρανία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# κεντρικό κτήριο του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών
+# newdoc
+# newpar
+# sent_id = 1
+# text = κεντρικό κτήριο του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών
+1	κεντρικό	κεντρικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κτήριο	κτήριο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+4	Εθνικού	εθνικός	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+5	και	και	CCONJ	CCONJ	_	6	cc	_	_
+6	Καποδιστριακού	Καποδιστριακός	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+7	Πανεπιστημίου	πανεπιστήμιο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+8	Αθηνών	Αθήνα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpacesAfter=\n
+
+
+# Πανεπιστήμιο
+# newdoc
+# newpar
+# sent_id = 1
+# text = Πανεπιστήμιο
+1	Πανεπιστήμιο	Πανεπιστήμιο	ADV	ADV	_	0	root	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στην Αθήνα
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στην Αθήνα
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	0	root	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Αθήνα	Αθήνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμιο στο Ηνωμένο Βασίλειο
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμιο στο Ηνωμένο Βασίλειο
+1	πανεπιστήμιο	πανεπιστήμιο	ADV	ADV	_	4	advmod	_	_
+2	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	4	case	_	_
+3	Ηνωμένο	ηνωμένος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	4	amod	_	_
+4	Βασίλειο	βασίλειο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# Ιδιωτικό πανεπιστήμιο στην Κολομβία
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ιδιωτικό πανεπιστήμιο στην Κολομβία
+1	Ιδιωτικό	Ιδιωτικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Κολομβία	Κολομβία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# πανεπιστήμια στην Ινδονησία
+# newdoc
+# newpar
+# sent_id = 1
+# text = πανεπιστήμια στην Ινδονησία
+1	πανεπιστήμια	πανεπιστήμια	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	3	case	_	_
+3	Ινδονησία	Ινδονησία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+
+
+# ένα από τα δώδεκα αυτοκρατορικά πανεπιστήμια της Ρωσικής Αυτοκρατορίας
+# newdoc
+# newpar
+# sent_id = 1
+# text = ένα από τα δώδεκα αυτοκρατορικά πανεπιστήμια της Ρωσικής Αυτοκρατορίας
+1	ένα	ένας	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	6	nummod	_	_
+2	από	από	ADP	ADP	_	4	case	_	_
+3	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	δώδεκα	δώδεκα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	nmod	_	_
+5	αυτοκρατορικά	αυτοκρατορικοί	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	6	amod	_	_
+6	πανεπιστήμια	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+7	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	Ρωσικής	Ρωσική	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	_
+9	Αυτοκρατορίας	αυτοκρατορία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpacesAfter=\n
+
+
+# νομική σχολή στην Οθωμανική Θεσσαλονίκη
+# newdoc
+# newpar
+# sent_id = 1
+# text = νομική σχολή στην Οθωμανική Θεσσαλονίκη
+1	νομική	νομικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	σχολή	σχολή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+4	Οθωμανική	Οθωμανικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	Θεσσαλονίκη	Θεσσαλονίκη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# κρατικό πανεπιστήμιο στην Ινδία
+# newdoc
+# newpar
+# sent_id = 1
+# text = κρατικό πανεπιστήμιο στην Ινδία
+1	κρατικό	κρατικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Ινδία	Ινδία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+
+
+# Ιδιωτικό πανεπιστήμιο στη Βοστώνη, Μασαχουσέτη
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ιδιωτικό πανεπιστήμιο στη Βοστώνη, Μασαχουσέτη
+1	Ιδιωτικό	Ιδιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Βοστώνη	Βοστώνης	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	Μασαχουσέτη	Μασαχουσέτης	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	SpacesAfter=\n
+
+
+# ιδιωτικό ερευνητικό πανεπιστήμιο στη Μασσαχουσέττη
+# newdoc
+# newpar
+# sent_id = 1
+# text = ιδιωτικό ερευνητικό πανεπιστήμιο στη Μασσαχουσέττη
+1	ιδιωτικό	ιδιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	ερευνητικό	ερευνητικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	πανεπιστήμιο	πανεπιστήμιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
+5	Μασσαχουσέττη	Μασσαχουσέττης	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpacesAfter=\n
+
+
