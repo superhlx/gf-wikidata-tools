@@ -3,7 +3,8 @@ incomplete concrete ExtractSyntaxFunctor of ExtractSyntax = Structural
 ** open
   Syntax,
   Symbolic,
-  Extend
+  Extend,
+  Prelude
 
 in {
 
@@ -17,12 +18,18 @@ lin
 
   UseN n = mkCN n ;
   AdjCN ap cn = mkCN ap cn ;
-  CompoundN x y = Extend.CompoundN x y ; 
+  UsePN pn = mkNP pn ;
+  CompoundN x y = Extend.CompoundN x y ;
   IntCompoundCN i x = prefixCN (i.s ++ hyphen) x ;
   NameCompoundCN n x = prefixCN ((mkUtt (mkNP n)).s ++ hyphen) x ;
   NounIntCN cn i = mkCN cn (symb i) ;
   NounPrepCN cn adv = mkCN cn adv ;
   NounGenCN cn np = prefixCN (mkUtt (mkNP (Extend.GenNP np))).s cn ;
+  PNCommaPN thessaloniki greece = thessaloniki ** {
+    s = table {
+      cas => thessaloniki.s ! cas ++ bindComma ++ (mkUtt (mkNP greece)).s
+    }
+  } ;
 
   DefCN cn = mkNP the_Det cn ;
   DefPluralCN cn = mkNP thePl_Det cn ;

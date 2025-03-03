@@ -12,12 +12,14 @@ fun
 
   UseN : N -> CN ;                    -- bijection
   AdjCN : AP -> CN -> CN ;            -- continuous function
+  UsePN : PN -> NP ;                  -- Paris
   CompoundN : N -> N -> N ;           -- function space
   IntCompoundCN : Int -> CN -> CN ;   -- 13-cube
   NameCompoundCN : PN -> CN -> CN ;   -- Lie group
   NounIntCN : CN -> Int -> CN ;       -- Grinberg graph 42
   NounPrepCN : CN -> Adv -> CN ;      -- ring of sets
   NounGenCN : CN -> NP -> CN ;        -- bishop's graph
+  PNCommaPN : PN -> PN -> PN ;        -- Thessaloniki, Greece
 
   DefCN : CN -> NP ;                  -- (multiple of) the median
   DefPluralCN : CN -> NP ;            -- (law of) large numbers
