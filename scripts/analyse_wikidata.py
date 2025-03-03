@@ -95,6 +95,8 @@ if __name__ == '__main__':
             for entry in data:
                 qid = entry["url"].split('/')[-1]
                 newdicts.append({qid : entry["descriptions"]})
+            with open('data.jsonl', 'w') as f:
+                f.write("")
             with open('data.jsonl', 'a') as f:
                 for dict in newdicts:
                     json.dump(dict, f)
