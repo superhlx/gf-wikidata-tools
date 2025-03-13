@@ -15,5 +15,11 @@ fun
   CountryLocation : Country -> Location ;
 
   city_Kind : Kind ;
-  bigKind : Kind -> Kind ;
+
+  capitalKind, -- replaces the Kind with the noun "capital"
+
+  bigKind -- modifies the Kind with the adjective "big"
+
+   : Kind -> Kind ;
+
 }
