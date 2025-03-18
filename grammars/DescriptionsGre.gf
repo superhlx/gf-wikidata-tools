@@ -21,5 +21,6 @@ lin
 
   city_Kind = mkCN L.city_N ;
   bigKind kind = mkCN L.big_A kind ;
+  capitalKind _ = mkCN (mkN "πρωτεύουσα") ;
 
 }
