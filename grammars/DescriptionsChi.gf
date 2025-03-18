@@ -14,9 +14,9 @@ lincat
   Region = NP ;
   Kind = CN ;
   Attribute = AP ;
-  
+
 lin
-  CityDescription kind location = mkCN kind location ; 
+  CityDescription kind location = mkCN kind location ;
 ---  RegionCountryLocation : Region -> Country -> Location ;
 --  CountryLocation country = SyntaxChi.mkAdv in_Prep country ;
   CountryLocation country = SyntaxChi.mkAdv possess_Prep country ;
@@ -24,5 +24,6 @@ lin
   city_Kind = mkCN L.city_N ;
 
   bigKind kind = mkCN L.big_A kind ;
+  capitalKind _ = mkCN (mkN "首都") ;
 
 }

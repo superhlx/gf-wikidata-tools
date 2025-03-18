@@ -40,14 +40,19 @@ def population(city):
             return int(p)
     return 0
 
+def capital(city):
+    return bool(city.get('prop', {}).get('capital', False))
+
 english = grammar.languages['DescriptionsEng']
 chinese = grammar.languages['DescriptionsChi']
 greek = grammar.languages['DescriptionsGre']
 swedish = grammar.languages['DescriptionsSwe']
 
 for city in data:
-    country = city['country']
-    if population(city) > BIG_POPULATION:
+    country = city['prop']['country']
+    if capital(city):
+        tree = city_description(country, 'capitalKind')
+    elif population(city) > BIG_POPULATION:
         tree = city_description(country, 'bigKind')
     elif t := city_description(country):
         tree = t
