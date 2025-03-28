@@ -36,7 +36,7 @@ fun
   noLocation              : Location ;
   Q956_Beijing_Region : Region ;
 
-  FoundedIn : String -> Attribute ;
+  FoundedIn : Int -> Attribute ;
   noAttr : Attribute ;
 
 }

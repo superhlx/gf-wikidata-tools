@@ -34,10 +34,16 @@ lin
 
 
 
-  FoundedIn = mkAdv ("founded in 1999");
-  noAttr = mkAdv ""; 
+  FoundedIn year = ParadigmsEng.mkAdv ("founded in" ++ year.s);
+  noAttr = mkAdv "";
 
   CityDescription kind location = mkCN kind location ;
   UniversityDescription kind location attr =
     mkCN (mkCN kind location) attr ;
+
+oper
+  joinByComma : NP -> NP -> NP  ;
+  joinByComma = mkNP comma_Conj ;
+
+  comma_Conj : Conj = and_Conj ** {s2 = bindComma} ;
 }
