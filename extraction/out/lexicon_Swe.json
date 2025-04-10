@@ -1,0 +1,1712 @@
+{
+  "museum": [
+    "museum",
+    "mkN \"museum\" neutrum",
+    "N"
+  ],
+  "Österrike": [
+    "Österrike",
+    "mkPN \"Österrike\" utrum",
+    "PN"
+  ],
+  "universitet": [
+    "universitet",
+    "mkN \"universitet\" neutrum",
+    "N"
+  ],
+  "Ukraina": [
+    "Ukraina",
+    "mkPN \"Ukraina\" utrum",
+    "PN"
+  ],
+  "Stavanger": [
+    "Stavanger",
+    "mkPN \"Stavanger\" utrum",
+    "PN"
+  ],
+  "Norge": [
+    "Norge",
+    "mkPN \"Norge\" utrum",
+    "PN"
+  ],
+  "framstående": [
+    "framstående",
+    "mkA \"framstående\"",
+    "A"
+  ],
+  "lärosäte": [
+    "lärosäte",
+    "mkN \"lärosäte\" neutrum",
+    "N"
+  ],
+  "stad": [
+    "stad",
+    "mkN \"stad\" utrum",
+    "N"
+  ],
+  "Gundeshapur": [
+    "Gundeshapur",
+    "mkPN \"Gundeshapur\" utrum",
+    "PN"
+  ],
+  "senantik": [
+    "senantik",
+    "mkN \"senantik\" utrum",
+    "N"
+  ],
+  "tre": [
+    "tre",
+    "mkA \"tre\"",
+    "A"
+  ],
+  "svensk": [
+    "svensk",
+    "mkA \"svensk\"",
+    "A"
+  ],
+  "grunda": [
+    "grunda",
+    "mkA \"grunda\"",
+    "A"
+  ],
+  "New": [
+    "New",
+    "mkPN \"New\" utrum",
+    "PN"
+  ],
+  "York": [
+    "York",
+    "mkPN \"York\" utrum",
+    "PN"
+  ],
+  "Mocambique": [
+    "Mocambique",
+    "mkPN \"Mocambique\" utrum",
+    "PN"
+  ],
+  "Kina": [
+    "Kina",
+    "mkPN \"Kina\" utrum",
+    "PN"
+  ],
+  "Italien": [
+    "Italien",
+    "mkPN \"Italien\" utrum",
+    "PN"
+  ],
+  "Åbo": [
+    "Åbo",
+    "mkPN \"Åbo\" utrum",
+    "PN"
+  ],
+  "Finland": [
+    "Finland",
+    "mkPN \"Finland\" utrum",
+    "PN"
+  ],
+  "polsk": [
+    "polsk",
+    "mkA \"polsk\"",
+    "A"
+  ],
+  "amerikansk": [
+    "amerikansk",
+    "mkA \"amerikansk\"",
+    "A"
+  ],
+  "forskningsuniversitet": [
+    "forskningsuniversitet",
+    "mkN \"forskningsuniversitet\" neutrum",
+    "N"
+  ],
+  "Budapest": [
+    "Budapest",
+    "mkPN \"Budapest\" utrum",
+    "PN"
+  ],
+  "Oxford": [
+    "Oxford",
+    "mkPN \"Oxford\" utrum",
+    "PN"
+  ],
+  "Chile": [
+    "Chile",
+    "mkPN \"Chile\" utrum",
+    "PN"
+  ],
+  "fransk": [
+    "fransk",
+    "mkA \"fransk\"",
+    "A"
+  ],
+  "grande": [
+    "grande",
+    "mkA \"grande\"",
+    "A"
+  ],
+  "école": [
+    "école",
+    "mkN \"école\" utrum",
+    "N"
+  ],
+  "informatikingenjör": [
+    "informatikingenjör",
+    "mkN \"informatikingenjör\" \"informatikingenjörer\"",
+    "N"
+  ],
+  "Jerevan": [
+    "Jerevan",
+    "mkPN \"Jerevan\" utrum",
+    "PN"
+  ],
+  "privat": [
+    "privat",
+    "mkA \"privat\"",
+    "A"
+  ],
+  "Pasadena": [
+    "Pasadena",
+    "mkPN \"Pasadena\" utrum",
+    "PN"
+  ],
+  "Kalifornien": [
+    "Kalifornien",
+    "mkPN \"Kalifornien\" utrum",
+    "PN"
+  ],
+  "USA": [
+    "USA",
+    "mkPN \"USA\" utrum",
+    "PN"
+  ],
+  "sydafrikansk": [
+    "sydafrikansk",
+    "mkA \"sydafrikansk\"",
+    "A"
+  ],
+  "nederland": [
+    "nederland",
+    "mkN \"nederland\" \"Nederländerna\"",
+    "N"
+  ],
+  "Spanien": [
+    "Spanien",
+    "mkPN \"Spanien\" utrum",
+    "PN"
+  ],
+  "Wittenberg": [
+    "Wittenberg",
+    "mkPN \"Wittenberg\" utrum",
+    "PN"
+  ],
+  "Tel": [
+    "Tel",
+    "mkPN \"Tel\" utrum",
+    "PN"
+  ],
+  "Aviv": [
+    "Aviv",
+    "mkPN \"Aviv\" utrum",
+    "PN"
+  ],
+  "Storbritannien": [
+    "Storbritannien",
+    "mkPN \"Storbritannien\" utrum",
+    "PN"
+  ],
+  "ungersk": [
+    "ungersk",
+    "mkA \"ungersk\"",
+    "A"
+  ],
+  "statlig": [
+    "statlig",
+    "mkA \"statlig\"",
+    "A"
+  ],
+  "Göteborg": [
+    "Göteborg",
+    "mkPN \"Göteborg\" utrum",
+    "PN"
+  ],
+  "Sverige": [
+    "Sverige",
+    "mkPN \"Sverige\" utrum",
+    "PN"
+  ],
+  "Polen": [
+    "Polen",
+    "mkPN \"Polen\" utrum",
+    "PN"
+  ],
+  "Kraków": [
+    "Kraków",
+    "mkPN \"Kraków\" utrum",
+    "PN"
+  ],
+  "tidig": [
+    "tidig",
+    "mkA \"tidig\"",
+    "A"
+  ],
+  "Rwanda": [
+    "Rwanda",
+    "mkPN \"Rwanda\" utrum",
+    "PN"
+  ],
+  "Japan": [
+    "Japan",
+    "mkPN \"Japan\" utrum",
+    "PN"
+  ],
+  "Marocko": [
+    "Marocko",
+    "mkPN \"Marocko\" utrum",
+    "PN"
+  ],
+  "Estland": [
+    "Estland",
+    "mkPN \"Estland\" utrum",
+    "PN"
+  ],
+  "Jersey": [
+    "Jersey",
+    "mkPN \"Jersey\" utrum",
+    "PN"
+  ],
+  "japansk": [
+    "japansk",
+    "mkA \"japansk\"",
+    "A"
+  ],
+  "Baltimore": [
+    "Baltimore",
+    "mkPN \"Baltimore\" utrum",
+    "PN"
+  ],
+  "delstat": [
+    "delstat",
+    "mkN \"delstat\" utrum",
+    "N"
+  ],
+  "Maryland": [
+    "Maryland",
+    "mkPN \"Maryland\" utrum",
+    "PN"
+  ],
+  "Kairo": [
+    "Kairo",
+    "mkPN \"Kairo\" utrum",
+    "PN"
+  ],
+  "Egypten": [
+    "Egypten",
+    "mkPN \"Egypten\" utrum",
+    "PN"
+  ],
+  "college": [
+    "college",
+    "mkN \"college\" neutrum",
+    "N"
+  ],
+  "Hays": [
+    "Hays",
+    "mkPN \"Hays\" utrum",
+    "PN"
+  ],
+  "Kansas": [
+    "Kansas",
+    "mkPN \"Kansas\" utrum",
+    "PN"
+  ],
+  "belgisk": [
+    "belgisk",
+    "mkA \"belgisk\"",
+    "A"
+  ],
+  "utbildningsinstitution": [
+    "utbildningsinstitution",
+    "mkN \"utbildningsinstitution\" utrum",
+    "N"
+  ],
+  "Jyväskylä": [
+    "Jyväskylä",
+    "mkPN \"Jyväskylä\" utrum",
+    "PN"
+  ],
+  "högskola": [
+    "högskola",
+    "mkN \"högskola\" utrum",
+    "N"
+  ],
+  "Tokyo": [
+    "Tokyo",
+    "mkPN \"Tokyo\" utrum",
+    "PN"
+  ],
+  "Irkutsk": [
+    "Irkutsk",
+    "mkPN \"Irkutsk\" utrum",
+    "PN"
+  ],
+  "Sibirien": [
+    "Sibirien",
+    "mkPN \"Sibirien\" utrum",
+    "PN"
+  ],
+  "Zomba": [
+    "Zomba",
+    "mkPN \"Zomba\" utrum",
+    "PN"
+  ],
+  "Malawi": [
+    "Malawi",
+    "mkPN \"Malawi\" utrum",
+    "PN"
+  ],
+  "Botswana": [
+    "Botswana",
+    "mkPN \"Botswana\" utrum",
+    "PN"
+  ],
+  "Amsterdam": [
+    "Amsterdam",
+    "mkPN \"Amsterdam\" utrum",
+    "PN"
+  ],
+  "buddhistisk": [
+    "buddhistisk",
+    "mkA \"buddhistisk\"",
+    "A"
+  ],
+  "Indien": [
+    "Indien",
+    "mkPN \"Indien\" utrum",
+    "PN"
+  ],
+  "Grekland": [
+    "Grekland",
+    "mkPN \"Grekland\" utrum",
+    "PN"
+  ],
+  "stor": [
+    "stor",
+    "mkA \"stor\"",
+    "A"
+  ],
+  "konstvetenskaplig": [
+    "konstvetenskaplig",
+    "mkA \"konstvetenskaplig\"",
+    "A"
+  ],
+  "Zürich": [
+    "Zürich",
+    "mkPN \"Zürich\" utrum",
+    "PN"
+  ],
+  "Schweiz": [
+    "Schweiz",
+    "mkPN \"Schweiz\" utrum",
+    "PN"
+  ],
+  "anrikt": [
+    "anrikt",
+    "mkA \"anrikt\"",
+    "A"
+  ],
+  "schweizisk": [
+    "schweizisk",
+    "mkA \"schweizisk\"",
+    "A"
+  ],
+  "Lund": [
+    "Lund",
+    "mkPN \"Lund\" utrum",
+    "PN"
+  ],
+  "Stockholm": [
+    "Stockholm",
+    "mkPN \"Stockholm\" utrum",
+    "PN"
+  ],
+  "akademisk": [
+    "akademisk",
+    "mkA \"akademisk\"",
+    "A"
+  ],
+  "specialisera": [
+    "specialisera",
+    "mkA \"specialisera\"",
+    "A"
+  ],
+  "Tjeckien": [
+    "Tjeckien",
+    "mkPN \"Tjeckien\" utrum",
+    "PN"
+  ],
+  "offentligt-privad": [
+    "offentligt-privad",
+    "mkA \"offentligt-privad\"",
+    "A"
+  ],
+  "Genève": [
+    "Genève",
+    "mkPN \"Genève\" utrum",
+    "PN"
+  ],
+  "Rumänien": [
+    "Rumänien",
+    "mkPN \"Rumänien\" utrum",
+    "PN"
+  ],
+  "förlag": [
+    "förlag",
+    "mkN \"förlag\" neutrum",
+    "N"
+  ],
+  "Belgien": [
+    "Belgien",
+    "mkPN \"Belgien\" utrum",
+    "PN"
+  ],
+  "nederländskspråkig": [
+    "nederländskspråkig",
+    "mkA \"nederländskspråkig\"",
+    "A"
+  ],
+  "Mons": [
+    "Mons",
+    "mkPN \"Mons\" utrum",
+    "PN"
+  ],
+  "Rovaniemi": [
+    "Rovaniemi",
+    "mkPN \"Rovaniemi\" utrum",
+    "PN"
+  ],
+  "Tyskland": [
+    "Tyskland",
+    "mkPN \"Tyskland\" utrum",
+    "PN"
+  ],
+  "Leeds": [
+    "Leeds",
+    "mkPN \"Leeds\" utrum",
+    "PN"
+  ],
+  "England": [
+    "England",
+    "mkPN \"England\" utrum",
+    "PN"
+  ],
+  "Minsk": [
+    "Minsk",
+    "mkPN \"Minsk\" utrum",
+    "PN"
+  ],
+  "pennsylvania": [
+    "pennsylvania",
+    "mkPN \"pennsylvania\" utrum",
+    "PN"
+  ],
+  "libysk": [
+    "libysk",
+    "mkA \"libysk\"",
+    "A"
+  ],
+  "italiensk": [
+    "italiensk",
+    "mkA \"italiensk\"",
+    "A"
+  ],
+  "City": [
+    "City",
+    "mkPN \"City\" utrum",
+    "PN"
+  ],
+  "London": [
+    "London",
+    "mkPN \"London\" utrum",
+    "PN"
+  ],
+  "Libyen": [
+    "Libyen",
+    "mkPN \"Libyen\" utrum",
+    "PN"
+  ],
+  "forskningsinstitution": [
+    "forskningsinstitution",
+    "mkN \"forskningsinstitution\" utrum",
+    "N"
+  ],
+  "Paris": [
+    "Paris",
+    "mkPN \"Paris\" utrum",
+    "PN"
+  ],
+  "povins": [
+    "povins",
+    "mkN \"povins\" utrum",
+    "N"
+  ],
+  "Kwazulu-natal": [
+    "Kwazulu-natal",
+    "mkPN \"Kwazulu-natal\" utrum",
+    "PN"
+  ],
+  "republik": [
+    "republik",
+    "mkA \"republik\"",
+    "A"
+  ],
+  "Sydafrika": [
+    "Sydafrika",
+    "mkPN \"Sydafrika\" utrum",
+    "PN"
+  ],
+  "Ecuador": [
+    "Ecuador",
+    "mkPN \"Ecuador\" utrum",
+    "PN"
+  ],
+  "Herat": [
+    "Herat",
+    "mkPN \"Herat\" utrum",
+    "PN"
+  ],
+  "Afghanistan": [
+    "Afghanistan",
+    "mkPN \"Afghanistan\" utrum",
+    "PN"
+  ],
+  "liberal": [
+    "liberal",
+    "mkA \"liberal\"",
+    "A"
+  ],
+  "art": [
+    "art",
+    "mkN \"art\" utrum",
+    "N"
+  ],
+  "Worcester": [
+    "Worcester",
+    "mkPN \"Worcester\" utrum",
+    "PN"
+  ],
+  "Massachusetts": [
+    "Massachusetts",
+    "mkPN \"Massachusetts\" utrum",
+    "PN"
+  ],
+  "israelisk": [
+    "israelisk",
+    "mkA \"israelisk\"",
+    "A"
+  ],
+  "Köln": [
+    "Köln",
+    "mkPN \"Köln\" utrum",
+    "PN"
+  ],
+  "konstnärlig": [
+    "konstnärlig",
+    "mkA \"konstnärlig\"",
+    "A"
+  ],
+  "Joensuu": [
+    "Joensuu",
+    "mkPN \"Joensuu\" utrum",
+    "PN"
+  ],
+  "Moskva": [
+    "Moskva",
+    "mkPN \"Moskva\" utrum",
+    "PN"
+  ],
+  "Ryssland": [
+    "Ryssland",
+    "mkPN \"Ryssland\" utrum",
+    "PN"
+  ],
+  "historisk": [
+    "historisk",
+    "mkA \"historisk\"",
+    "A"
+  ],
+  "Frankfurt": [
+    "Frankfurt",
+    "mkPN \"Frankfurt\" utrum",
+    "PN"
+  ],
+  "Oder": [
+    "Oder",
+    "mkPN \"Oder\" utrum",
+    "PN"
+  ],
+  "Providence": [
+    "Providence",
+    "mkPN \"Providence\" utrum",
+    "PN"
+  ],
+  "Rhode": [
+    "Rhode",
+    "mkPN \"Rhode\" utrum",
+    "PN"
+  ],
+  "Island": [
+    "Island",
+    "mkPN \"Island\" utrum",
+    "PN"
+  ],
+  "nederländsk": [
+    "nederländsk",
+    "mkA \"nederländsk\"",
+    "A"
+  ],
+  "konsthögskola": [
+    "konsthögskola",
+    "mkN \"konsthögskola\" utrum",
+    "N"
+  ],
+  "Sankt": [
+    "Sankt",
+    "mkPN \"Sankt\" utrum",
+    "PN"
+  ],
+  "Petersburg": [
+    "Petersburg",
+    "mkPN \"Petersburg\" utrum",
+    "PN"
+  ],
+  "spansk": [
+    "spansk",
+    "mkA \"spansk\"",
+    "A"
+  ],
+  "kongolesisk": [
+    "kongolesisk",
+    "mkA \"kongolesisk\"",
+    "A"
+  ],
+  "Kisangani": [
+    "Kisangani",
+    "mkPN \"Kisangani\" utrum",
+    "PN"
+  ],
+  "Tshopo-provins": [
+    "Tshopo-provins",
+    "mkPN \"Tshopo-provins\" utrum",
+    "PN"
+  ],
+  "Sanaa": [
+    "Sanaa",
+    "mkPN \"Sanaa\" utrum",
+    "PN"
+  ],
+  "Jemen": [
+    "Jemen",
+    "mkPN \"Jemen\" utrum",
+    "PN"
+  ],
+  "UFRJ": [
+    "UFRJ",
+    "mkPN \"UFRJ\" utrum",
+    "PN"
+  ],
+  "Río": [
+    "Río",
+    "mkPN \"Río\" utrum",
+    "PN"
+  ],
+  "Janeiro": [
+    "Janeiro",
+    "mkPN \"Janeiro\" utrum",
+    "PN"
+  ],
+  "Brasilien": [
+    "Brasilien",
+    "mkPN \"Brasilien\" utrum",
+    "PN"
+  ],
+  "Kroatien": [
+    "Kroatien",
+    "mkPN \"Kroatien\" utrum",
+    "PN"
+  ],
+  "offentlig": [
+    "offentlig",
+    "mkA \"offentlig\"",
+    "A"
+  ],
+  "Newport": [
+    "Newport",
+    "mkPN \"Newport\" utrum",
+    "PN"
+  ],
+  "News": [
+    "News",
+    "mkPN \"News\" utrum",
+    "PN"
+  ],
+  "Virginia": [
+    "Virginia",
+    "mkPN \"Virginia\" utrum",
+    "PN"
+  ],
+  "San": [
+    "San",
+    "mkPN \"San\" utrum",
+    "PN"
+  ],
+  "Marino": [
+    "Marino",
+    "mkPN \"Marino\" utrum",
+    "PN"
+  ],
+  "Saudiarabien": [
+    "Saudiarabien",
+    "mkPN \"Saudiarabien\" utrum",
+    "PN"
+  ],
+  "colombiansk": [
+    "colombiansk",
+    "mkA \"colombiansk\"",
+    "A"
+  ],
+  "Columbus": [
+    "Columbus",
+    "mkPN \"Columbus\" utrum",
+    "PN"
+  ],
+  "Mississippi": [
+    "Mississippi",
+    "mkPN \"Mississippi\" utrum",
+    "PN"
+  ],
+  "internetspecialist": [
+    "internetspecialist",
+    "mkN \"internetspecialist\" \"internetspecialister\"",
+    "N"
+  ],
+  "nigeriansk": [
+    "nigeriansk",
+    "mkA \"nigeriansk\"",
+    "A"
+  ],
+  "katalansk": [
+    "katalansk",
+    "mkA \"katalansk\"",
+    "A"
+  ],
+  "förvaltningsmyndighet": [
+    "förvaltningsmyndighet",
+    "mkN \"förvaltningsmyndighet\" utrum",
+    "N"
+  ],
+  "armenisk": [
+    "armenisk",
+    "mkA \"armenisk\"",
+    "A"
+  ],
+  "teologisk": [
+    "teologisk",
+    "mkA \"teologisk\"",
+    "A"
+  ],
+  "seminarium": [
+    "seminarium",
+    "mkN \"seminarium\" neutrum",
+    "N"
+  ],
+  "Etjmiadzin": [
+    "Etjmiadzin",
+    "mkPN \"Etjmiadzin\" utrum",
+    "PN"
+  ],
+  "teknisk": [
+    "teknisk",
+    "mkA \"teknisk\"",
+    "A"
+  ],
+  "samlingsbenämning": [
+    "samlingsbenämning",
+    "mkN \"samlingsbenämning\" utrum",
+    "N"
+  ],
+  "lärosät": [
+    "lärosät",
+    "mkN \"lärosät\" utrum",
+    "N"
+  ],
+  "ny": [
+    "ny",
+    "mkA \"ny\"",
+    "A"
+  ],
+  "Zeeland": [
+    "Zeeland",
+    "mkPN \"Zeeland\" utrum",
+    "PN"
+  ],
+  "Belarus": [
+    "Belarus",
+    "mkPN \"Belarus\" utrum",
+    "PN"
+  ],
+  "Boiling": [
+    "Boiling",
+    "mkPN \"Boiling\" utrum",
+    "PN"
+  ],
+  "Springs": [
+    "Springs",
+    "mkPN \"Springs\" utrum",
+    "PN"
+  ],
+  "North": [
+    "North",
+    "mkPN \"North\" utrum",
+    "PN"
+  ],
+  "Carolina": [
+    "Carolina",
+    "mkPN \"Carolina\" utrum",
+    "PN"
+  ],
+  "rysk": [
+    "rysk",
+    "mkA \"rysk\"",
+    "A"
+  ],
+  "Dayton": [
+    "Dayton",
+    "mkPN \"Dayton\" utrum",
+    "PN"
+  ],
+  "Ohio": [
+    "Ohio",
+    "mkPN \"Ohio\" utrum",
+    "PN"
+  ],
+  "Nordirland": [
+    "Nordirland",
+    "mkPN \"Nordirland\" utrum",
+    "PN"
+  ],
+  "medicinsk": [
+    "medicinsk",
+    "mkA \"medicinsk\"",
+    "A"
+  ],
+  "Armenien": [
+    "Armenien",
+    "mkPN \"Armenien\" utrum",
+    "PN"
+  ],
+  "Tennessee": [
+    "Tennessee",
+    "mkPN \"Tennessee\" utrum",
+    "PN"
+  ],
+  "teater": [
+    "teater",
+    "mkN \"teater\" utrum",
+    "N"
+  ],
+  "film": [
+    "film",
+    "mkN \"film\" utrum",
+    "N"
+  ],
+  "television": [
+    "television",
+    "mkN \"television\" utrum",
+    "N"
+  ],
+  "Potsdam": [
+    "Potsdam",
+    "mkPN \"Potsdam\" utrum",
+    "PN"
+  ],
+  "Arkansas": [
+    "Arkansas",
+    "mkPN \"Arkansas\" utrum",
+    "PN"
+  ],
+  "utbildningssäte": [
+    "utbildningssäte",
+    "mkN \"utbildningssäte\" neutrum",
+    "N"
+  ],
+  "Krasnodar": [
+    "Krasnodar",
+    "mkPN \"Krasnodar\" utrum",
+    "PN"
+  ],
+  "tunisisk": [
+    "tunisisk",
+    "mkA \"tunisisk\"",
+    "A"
+  ],
+  "Monastir": [
+    "Monastir",
+    "mkPN \"Monastir\" utrum",
+    "PN"
+  ],
+  "arkiv": [
+    "arkiv",
+    "mkN \"arkiv\" utrum",
+    "N"
+  ],
+  "Wales": [
+    "Wales",
+    "mkPN \"Wales\" utrum",
+    "PN"
+  ],
+  "syrisk": [
+    "syrisk",
+    "mkA \"syrisk\"",
+    "A"
+  ],
+  "Aleppo": [
+    "Aleppo",
+    "mkPN \"Aleppo\" utrum",
+    "PN"
+  ],
+  "musikinstitut": [
+    "musikinstitut",
+    "mkN \"musikinstitut\" utrum",
+    "N"
+  ],
+  "bestående": [
+    "bestående",
+    "mkA \"bestående\"",
+    "A"
+  ],
+  "Mexico": [
+    "Mexico",
+    "mkPN \"Mexico\" utrum",
+    "PN"
+  ],
+  "Mexiko": [
+    "Mexiko",
+    "mkPN \"Mexiko\" utrum",
+    "PN"
+  ],
+  "Aten": [
+    "Aten",
+    "mkPN \"Aten\" utrum",
+    "PN"
+  ],
+  "Saint": [
+    "Saint",
+    "mkPN \"Saint\" utrum",
+    "PN"
+  ],
+  "Charles": [
+    "Charles",
+    "mkPN \"Charles\" utrum",
+    "PN"
+  ],
+  "Missouri": [
+    "Missouri",
+    "mkPN \"Missouri\" utrum",
+    "PN"
+  ],
+  "Lewiston": [
+    "Lewiston",
+    "mkPN \"Lewiston\" utrum",
+    "PN"
+  ],
+  "Irak": [
+    "Irak",
+    "mkPN \"Irak\" utrum",
+    "PN"
+  ],
+  "Bridgeport": [
+    "Bridgeport",
+    "mkPN \"Bridgeport\" utrum",
+    "PN"
+  ],
+  "Connecticut": [
+    "Connecticut",
+    "mkPN \"Connecticut\" utrum",
+    "PN"
+  ],
+  "kvinnlig": [
+    "kvinnlig",
+    "mkA \"kvinnlig\"",
+    "A"
+  ],
+  "Kodaira": [
+    "Kodaira",
+    "mkPN \"Kodaira\" utrum",
+    "PN"
+  ],
+  "Norwich": [
+    "Norwich",
+    "mkPN \"Norwich\" utrum",
+    "PN"
+  ],
+  "underjordisk": [
+    "underjordisk",
+    "mkA \"underjordisk\"",
+    "A"
+  ],
+  "utbildningsrörelse": [
+    "utbildningsrörelse",
+    "mkN \"utbildningsrörelse\" utrum",
+    "N"
+  ],
+  "Warszawa": [
+    "Warszawa",
+    "mkPN \"Warszawa\" utrum",
+    "PN"
+  ],
+  "finländsk": [
+    "finländsk",
+    "mkA \"finländsk\"",
+    "A"
+  ],
+  "konstuniversitet": [
+    "konstuniversitet",
+    "mkN \"konstuniversitet\" neutrum",
+    "N"
+  ],
+  "ortodox": [
+    "ortodox",
+    "mkA \"ortodox\"",
+    "A"
+  ],
+  "kyrka": [
+    "kyrka",
+    "mkN \"kyrka\" utrum",
+    "N"
+  ],
+  "Honduras": [
+    "Honduras",
+    "mkPN \"Honduras\" utrum",
+    "PN"
+  ],
+  "fackhögskola": [
+    "fackhögskola",
+    "mkN \"fackhögskola\" utrum",
+    "N"
+  ],
+  "Charkiv": [
+    "Charkiv",
+    "mkPN \"Charkiv\" utrum",
+    "PN"
+  ],
+  "jordbruksområde": [
+    "jordbruksområde",
+    "mkN \"jordbruksområde\" neutrum",
+    "N"
+  ],
+  "Baku": [
+    "Baku",
+    "mkPN \"Baku\" utrum",
+    "PN"
+  ],
+  "Azerbajdzjan": [
+    "Azerbajdzjan",
+    "mkPN \"Azerbajdzjan\" utrum",
+    "PN"
+  ],
+  "brasiliansk": [
+    "brasiliansk",
+    "mkA \"brasiliansk\"",
+    "A"
+  ],
+  "Newark": [
+    "Newark",
+    "mkPN \"Newark\" utrum",
+    "PN"
+  ],
+  "Delaware": [
+    "Delaware",
+    "mkPN \"Delaware\" utrum",
+    "PN"
+  ],
+  "Kyiv": [
+    "Kyiv",
+    "mkPN \"Kyiv\" utrum",
+    "PN"
+  ],
+  "utbildning": [
+    "utbildning",
+    "mkN \"utbildning\" \"utbildningar\"",
+    "N"
+  ],
+  "islamsk": [
+    "islamsk",
+    "mkA \"islamsk\"",
+    "A"
+  ],
+  "Teheran": [
+    "Teheran",
+    "mkPN \"Teheran\" utrum",
+    "PN"
+  ],
+  "iran": [
+    "iran",
+    "mkN \"iran\" utrum",
+    "N"
+  ],
+  "kinesisk": [
+    "kinesisk",
+    "mkA \"kinesisk\"",
+    "A"
+  ],
+  "del": [
+    "del",
+    "mkN \"del\" utrum",
+    "N"
+  ],
+  "University": [
+    "University",
+    "mkN \"University\" utrum",
+    "N"
+  ],
+  "Amdebkar": [
+    "Amdebkar",
+    "mkPN \"Amdebkar\" utrum",
+    "PN"
+  ],
+  "Delhi": [
+    "Delhi",
+    "mkPN \"Delhi\" utrum",
+    "PN"
+  ],
+  "Esbo": [
+    "Esbo",
+    "mkPN \"Esbo\" utrum",
+    "PN"
+  ],
+  "Dundee": [
+    "Dundee",
+    "mkPN \"Dundee\" utrum",
+    "PN"
+  ],
+  "Skottland": [
+    "Skottland",
+    "mkPN \"Skottland\" utrum",
+    "PN"
+  ],
+  "Springfield": [
+    "Springfield",
+    "mkPN \"Springfield\" utrum",
+    "PN"
+  ],
+  "konstskola": [
+    "konstskola",
+    "mkN \"konstskola\" utrum",
+    "N"
+  ],
+  "Köpenhamn": [
+    "Köpenhamn",
+    "mkPN \"Köpenhamn\" utrum",
+    "PN"
+  ],
+  "Fukuoka": [
+    "Fukuoka",
+    "mkPN \"Fukuoka\" utrum",
+    "PN"
+  ],
+  "Costa": [
+    "Costa",
+    "mkPN \"Costa\" utrum",
+    "PN"
+  ],
+  "Rica": [
+    "Rica",
+    "mkPN \"Rica\" utrum",
+    "PN"
+  ],
+  "Lubbock": [
+    "Lubbock",
+    "mkPN \"Lubbock\" utrum",
+    "PN"
+  ],
+  "Texas": [
+    "Texas",
+    "mkPN \"Texas\" utrum",
+    "PN"
+  ],
+  "idrottsförening": [
+    "idrottsförening",
+    "mkN \"idrottsförening\" utrum",
+    "N"
+  ],
+  "Redland": [
+    "Redland",
+    "mkPN \"Redland\" utrum",
+    "PN"
+  ],
+  "Fairfield": [
+    "Fairfield",
+    "mkPN \"Fairfield\" utrum",
+    "PN"
+  ],
+  "Anderson": [
+    "Anderson",
+    "mkPN \"Anderson\" utrum",
+    "PN"
+  ],
+  "Indiana": [
+    "Indiana",
+    "mkPN \"Indiana\" utrum",
+    "PN"
+  ],
+  "Morelia": [
+    "Morelia",
+    "mkPN \"Morelia\" utrum",
+    "PN"
+  ],
+  "Tallinn": [
+    "Tallinn",
+    "mkPN \"Tallinn\" utrum",
+    "PN"
+  ],
+  "Philadelphia": [
+    "Philadelphia",
+    "mkPN \"Philadelphia\" utrum",
+    "PN"
+  ],
+  "tjeckisk": [
+    "tjeckisk",
+    "mkA \"tjeckisk\"",
+    "A"
+  ],
+  "rumänsk": [
+    "rumänsk",
+    "mkA \"rumänsk\"",
+    "A"
+  ],
+  "katolsk": [
+    "katolsk",
+    "mkA \"katolsk\"",
+    "A"
+  ],
+  "Erie": [
+    "Erie",
+    "mkPN \"Erie\" utrum",
+    "PN"
+  ],
+  "Pennsylvania": [
+    "Pennsylvania",
+    "mkPN \"Pennsylvania\" utrum",
+    "PN"
+  ],
+  "monywa": [
+    "monywa",
+    "mkA \"monywa\"",
+    "A"
+  ],
+  "Economics": [
+    "Economics",
+    "mkN \"Economics\" utrum",
+    "N"
+  ],
+  "Danville": [
+    "Danville",
+    "mkPN \"Danville\" utrum",
+    "PN"
+  ],
+  "Frankrike": [
+    "Frankrike",
+    "mkPN \"Frankrike\" utrum",
+    "PN"
+  ],
+  "Lacey": [
+    "Lacey",
+    "mkPN \"Lacey\" utrum",
+    "PN"
+  ],
+  "Washington": [
+    "Washington",
+    "mkPN \"Washington\" utrum",
+    "PN"
+  ],
+  "Colombia": [
+    "Colombia",
+    "mkPN \"Colombia\" utrum",
+    "PN"
+  ],
+  "Kazakstan": [
+    "Kazakstan",
+    "mkPN \"Kazakstan\" utrum",
+    "PN"
+  ],
+  "Pakistan": [
+    "Pakistan",
+    "mkPN \"Pakistan\" utrum",
+    "PN"
+  ],
+  "Alva": [
+    "Alva",
+    "mkPN \"Alva\" utrum",
+    "PN"
+  ],
+  "Oklahoma": [
+    "Oklahoma",
+    "mkPN \"Oklahoma\" utrum",
+    "PN"
+  ],
+  "Kerrville": [
+    "Kerrville",
+    "mkPN \"Kerrville\" utrum",
+    "PN"
+  ],
+  "teaterhögskola": [
+    "teaterhögskola",
+    "mkN \"teaterhögskola\" utrum",
+    "N"
+  ],
+  "kristen": [
+    "kristen",
+    "mkA \"kristen\"",
+    "A"
+  ],
+  "Jamaica": [
+    "Jamaica",
+    "mkPN \"Jamaica\" utrum",
+    "PN"
+  ],
+  "Kongo-kinshasa": [
+    "Kongo-kinshasa",
+    "mkPN \"Kongo-kinshasa\" utrum",
+    "PN"
+  ],
+  "demokratisk": [
+    "demokratisk",
+    "mkA \"demokratisk\"",
+    "A"
+  ],
+  "Kongo": [
+    "Kongo",
+    "mkPN \"Kongo\" utrum",
+    "PN"
+  ],
+  "Lubumbashi": [
+    "Lubumbashi",
+    "mkPN \"Lubumbashi\" utrum",
+    "PN"
+  ],
+  "wikimedia-listartikel": [
+    "wikimedia-listartikel",
+    "mkN \"wikimedia-listartikel\" utrum",
+    "N"
+  ],
+  "British": [
+    "British",
+    "mkPN \"British\" utrum",
+    "PN"
+  ],
+  "Columbia": [
+    "Columbia",
+    "mkPN \"Columbia\" utrum",
+    "PN"
+  ],
+  "Kanada": [
+    "Kanada",
+    "mkPN \"Kanada\" utrum",
+    "PN"
+  ],
+  "Adrian": [
+    "Adrian",
+    "mkPN \"Adrian\" utrum",
+    "PN"
+  ],
+  "Michigan": [
+    "Michigan",
+    "mkPN \"Michigan\" utrum",
+    "PN"
+  ],
+  "läroanstalt": [
+    "läroanstalt",
+    "mkN \"läroanstalt\" utrum",
+    "N"
+  ],
+  "undervisning": [
+    "undervisning",
+    "mkN \"undervisning\" utrum",
+    "N"
+  ],
+  "skogsskötsel": [
+    "skogsskötsel",
+    "mkN \"skogsskötsel\" utrum",
+    "N"
+  ],
+  "grensida": [
+    "grensida",
+    "mkN \"grensida\" utrum",
+    "N"
+  ],
+  "Tchad": [
+    "Tchad",
+    "mkPN \"Tchad\" utrum",
+    "PN"
+  ],
+  "Louisiana": [
+    "Louisiana",
+    "mkPN \"Louisiana\" utrum",
+    "PN"
+  ],
+  "Indonesien": [
+    "Indonesien",
+    "mkPN \"Indonesien\" utrum",
+    "PN"
+  ],
+  "uppdela": [
+    "uppdela",
+    "mkA \"uppdela\"",
+    "A"
+  ],
+  "språklig": [
+    "språklig",
+    "mkA \"språklig\"",
+    "A"
+  ],
+  "praktik": [
+    "praktik",
+    "mkN \"praktik\" utrum",
+    "N"
+  ],
+  "juridisk": [
+    "juridisk",
+    "mkA \"juridisk\"",
+    "A"
+  ],
+  "Bodø": [
+    "Bodø",
+    "mkPN \"Bodø\" utrum",
+    "PN"
+  ],
+  "namn": [
+    "namn",
+    "mkN \"namn\" neutrum",
+    "N"
+  ],
+  "Universidad": [
+    "Universidad",
+    "mkA \"Universidad\"",
+    "A"
+  ],
+  "Complutense": [
+    "Complutense",
+    "mkPN \"Complutense\" utrum",
+    "PN"
+  ],
+  "Madrid": [
+    "Madrid",
+    "mkPN \"Madrid\" utrum",
+    "PN"
+  ],
+  "Vitória": [
+    "Vitória",
+    "mkPN \"Vitória\" utrum",
+    "PN"
+  ],
+  "Espírito": [
+    "Espírito",
+    "mkPN \"Espírito\" utrum",
+    "PN"
+  ],
+  "Santo": [
+    "Santo",
+    "mkPN \"Santo\" utrum",
+    "PN"
+  ],
+  "Argentina": [
+    "Argentina",
+    "mkPN \"Argentina\" utrum",
+    "PN"
+  ],
+  "Mbeya": [
+    "Mbeya",
+    "mkPN \"Mbeya\" utrum",
+    "PN"
+  ],
+  "Kirksville": [
+    "Kirksville",
+    "mkPN \"Kirksville\" utrum",
+    "PN"
+  ],
+  "Caracas": [
+    "Caracas",
+    "mkPN \"Caracas\" utrum",
+    "PN"
+  ],
+  "Venezuela": [
+    "Venezuela",
+    "mkPN \"Venezuela\" utrum",
+    "PN"
+  ],
+  "dansk": [
+    "dansk",
+    "mkA \"dansk\"",
+    "A"
+  ],
+  "yrkeshögskola": [
+    "yrkeshögskola",
+    "mkN \"yrkeshögskola\" utrum",
+    "N"
+  ],
+  "Sjælland": [
+    "Sjælland",
+    "mkPN \"Sjælland\" utrum",
+    "PN"
+  ],
+  "Plymouth": [
+    "Plymouth",
+    "mkPN \"Plymouth\" utrum",
+    "PN"
+  ],
+  "Warrensburg": [
+    "Warrensburg",
+    "mkPN \"Warrensburg\" utrum",
+    "PN"
+  ],
+  "institution": [
+    "institution",
+    "mkN \"institution\" utrum",
+    "N"
+  ],
+  "tillhörande": [
+    "tillhörande",
+    "mkA \"tillhörande\"",
+    "A"
+  ],
+  "Yonsei": [
+    "Yonsei",
+    "mkPN \"Yonsei\" utrum",
+    "PN"
+  ],
+  "International": [
+    "International",
+    "mkA \"International\"",
+    "A"
+  ],
+  "Campus": [
+    "Campus",
+    "mkN \"Campus\" utrum",
+    "N"
+  ],
+  "Songdo": [
+    "Songdo",
+    "mkPN \"Songdo\" utrum",
+    "PN"
+  ],
+  "Business": [
+    "Business",
+    "mkN \"Business\" utrum",
+    "N"
+  ],
+  "District": [
+    "District",
+    "mkN \"District\" utrum",
+    "N"
+  ],
+  "Incheon": [
+    "Incheon",
+    "mkN \"Incheon\" utrum",
+    "N"
+  ],
+  "Nigeria": [
+    "Nigeria",
+    "mkPN \"Nigeria\" utrum",
+    "PN"
+  ],
+  "Zanzibar": [
+    "Zanzibar",
+    "mkPN \"Zanzibar\" utrum",
+    "PN"
+  ],
+  "Dnipro": [
+    "Dnipro",
+    "mkPN \"Dnipro\" utrum",
+    "PN"
+  ],
+  "wikimedia-kategori": [
+    "wikimedia-kategori",
+    "mkN \"wikimedia-kategori\" utrum",
+    "N"
+  ],
+  "tysk": [
+    "tysk",
+    "mkA \"tysk\"",
+    "A"
+  ],
+  "Amherst": [
+    "Amherst",
+    "mkPN \"Amherst\" utrum",
+    "PN"
+  ],
+  "Nuevo": [
+    "Nuevo",
+    "mkPN \"Nuevo\" utrum",
+    "PN"
+  ],
+  "León": [
+    "León",
+    "mkPN \"León\" utrum",
+    "PN"
+  ],
+  "Limpopo": [
+    "Limpopo",
+    "mkPN \"Limpopo\" utrum",
+    "PN"
+  ],
+  "Kenyatta": [
+    "Kenyatta",
+    "mkPN \"Kenyatta\" utrum",
+    "PN"
+  ],
+  "Kenya": [
+    "Kenya",
+    "mkPN \"Kenya\" utrum",
+    "PN"
+  ],
+  "privatägd": [
+    "privatägd",
+    "mkA \"privatägd\"",
+    "A"
+  ],
+  "forskningsinstitut": [
+    "forskningsinstitut",
+    "mkN \"forskningsinstitut\" neutrum",
+    "N"
+  ],
+  "Cambridge": [
+    "Cambridge",
+    "mkPN \"Cambridge\" utrum",
+    "PN"
+  ],
+  "kvinnouniversitet": [
+    "kvinnouniversitet",
+    "mkN \"kvinnouniversitet\" neutrum",
+    "N"
+  ],
+  "forskningsstation": [
+    "forskningsstation",
+    "mkN \"forskningsstation\" utrum",
+    "N"
+  ],
+  "Grönland": [
+    "Grönland",
+    "mkPN \"Grönland\" utrum",
+    "PN"
+  ],
+  "Bourgogne": [
+    "Bourgogne",
+    "mkPN \"Bourgogne\" utrum",
+    "PN"
+  ],
+  "Oslo": [
+    "Oslo",
+    "mkPN \"Oslo\" utrum",
+    "PN"
+  ]
+}

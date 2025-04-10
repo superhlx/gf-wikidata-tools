@@ -4,7 +4,7 @@
 
 concrete ExtractEng of ExtractEngAbs =
   MorphoDictEng,
-  MathWordsEng,
+  UniversityWordsEng,
   ExtractSyntaxEng
   ;
 

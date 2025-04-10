@@ -3,8 +3,8 @@
 -- make a symlink to morphodict
 
 concrete ExtractSwe of ExtractSweAbs =
-  MorphoDictSwe - [under_Prep],
-  MathWordsSwe,
+  MorphoDictSwe  - [under_Prep],
+  UniversityWordsSwe,
   ExtractSyntaxSwe
   ;
 

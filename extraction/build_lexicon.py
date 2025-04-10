@@ -127,7 +127,8 @@ def extract_wikidata(lang=LAN, wikifile=WIKIDATA_FILE, qlistfile=QLIST_FILE):
     for line in file:
         entry = json.loads(line)
         qid = list(entry.keys())[0]  # there is only one
-        qlist.append([qid, entry[qid].get(lang, NO_WIKILABEL).strip()])
+        if entry[qid][lang]:
+            qlist.append([qid, entry[qid].get(lang, NO_WIKILABEL).strip()])
     with open(qlistfile, 'w') as outfile:
         json.dump(qlist, outfile, ensure_ascii=False, indent=2)
     return qlist

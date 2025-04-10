@@ -9,8 +9,8 @@ The minimal adaptation to your proiect is to change
 
 # json and tmp files are stored in out, GF files in the current dir
 
-DOMAIN = 'Math'
-WIKIDATA_FILE = 'data/qid-lexicon.jsonl'
+DOMAIN = 'University'
+WIKIDATA_FILE = 'data/universities.jsonl'
 
 # these can normally be left as they are
 

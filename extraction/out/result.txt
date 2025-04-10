@@ -1,0 +1,205 @@
+the 50st most common words in unparsed sentences:
+in: 192
+country: 108
+state: 87
+sovereign: 86
+africa: 56
+asia: 45
+europe: 44
+the: 44
+central: 33
+island: 31
+america: 22
+south: 22
+west: 22
+of: 20
+southeast: 17
+east: 14
+and: 14
+western: 12
+caribbean: 12
+sea: 12
+southern: 11
+oceania: 11
+on: 11
+,: 11
+north: 10
+eastern: 9
+ocean: 8
+-: 7
+coast: 7
+northern: 6
+situated: 6
+an: 6
+off: 5
+pacific: 4
+archipelago: 4
+southeastern: 4
+nation: 3
+caucasus: 3
+islands: 3
+southwest: 3
+indian: 3
+northwestern: 2
+city: 2
+southwestern: 2
+territories: 2
+northeastern: 2
+northeast: 2
+horn: 2
+atlantic: 2
+middle: 2
+part of speech statistics for unparsed sentences:
+ADJ: 121
+NOUN: 279
+PUNCT: 22
+ADP: 238
+PROPN: 384
+NUM: 4
+CCONJ: 14
+DET: 50
+ADV: 4
+VERB: 12
+PART: 1
+PRON: 1
+sentences don't have a root: 0
+number of unknown_pos_tokens: 0
+number of unknown_deprel_tokens : 0
+Most common phrases in unparsed sentences (top 30):
+country in: 99
+sovereign state: 82
+state in: 76
+in the: 31
+in central: 27
+in south: 19
+island sovereign: 19
+in west: 16
+in southeast: 14
+south america: 12
+west africa: 12
+the caribbean: 12
+central europe: 11
+in east: 10
+southeast asia: 10
+in oceania: 10
+in western: 10
+caribbean sea: 10
+in southern: 9
+in north: 8
+southern africa: 8
+in africa: 8
+south asia: 8
+island country: 7
+east asia: 7
+central africa: 7
+in eastern: 7
+central america: 7
+coast of: 7
+southeast europe: 6
+
+---------pow
+the 50st most common words in unparsed sentences:
+in: 9118
+university: 7302
+,: 6891
+education: 1347
+private: 1322
+college: 1152
+institution: 1144
+public: 1047
+of: 1035
+higher: 929
+indonesia: 763
+the: 683
+school: 624
+india: 602
+china: 598
+japan: 585
+organization: 461
+united: 415
+prefecture: 394
+state: 391
+and: 385
+states: 369
+-: 327
+russia: 296
+philippines: 292
+located: 275
+institute: 251
+iran: 242
+research: 238
+city: 231
+academic: 227
+(: 205
+medical: 192
+south: 189
+): 187
+nigeria: 186
+educational: 185
+publisher: 170
+new: 169
+former: 166
+department: 162
+pakistan: 160
+west: 150
+campus: 149
+pradesh: 147
+.: 147
+mexico: 141
+california: 137
+ukraine: 135
+arts: 134
+part of speech statistics for unparsed sentences:
+NOUN: 14556
+ADP: 10706
+PROPN: 22046
+PUNCT: 7827
+ADJ: 6343
+VERB: 1024
+ADV: 217
+NUM: 424
+DET: 887
+PRON: 81
+SCONJ: 21
+CCONJ: 410
+X: 42
+SYM: 69
+PART: 113
+AUX: 125
+INTJ: 9
+sentences don't have a root: 0
+number of unknown_pos_tokens: 42
+number of unknown_deprel_tokens : 0
+Most common phrases in unparsed sentences (top 30):
+university in: 5260
+institution in: 917
+higher education: 876
+education institution: 820
+college in: 817
+private university: 798
+public university: 774
+, japan: 538
+, indonesia: 507
+, india: 483
+organization in: 416
+prefecture ,: 392
+united states: 369
+in china: 360
+, united: 349
+school in: 345
+education organization: 340
+in the: 330
+university of: 281
+located in: 261
+, russia: 248
+in indonesia: 229
+, china: 225
+state university: 209
+, philippines: 208
+university located: 170
+academic publisher: 169
+city ,: 149
+of the: 146
+department in: 142
+
+-------------

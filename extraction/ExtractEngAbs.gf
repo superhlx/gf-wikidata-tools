@@ -1,7 +1,7 @@
 abstract ExtractEngAbs =
   ExtractSyntax,
   MorphoDictEngAbs,
-  MathWordsEngAbs 
+  UniversityWordsEngAbs 
   ** {
   
   flags startcat = MT ;

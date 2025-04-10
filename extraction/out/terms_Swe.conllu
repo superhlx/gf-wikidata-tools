@@ -1,0 +1,2621 @@
+#  Operation(oper=<function Operation.pipe_two.<locals>.<lambda> at 0x7fc5837ab100>, argtype=typing.Iterable[str], valtype=typing.Iterable[str], name='parse text to CoNLLU | wordlines2strs', doc='parse a raw text corpus into CoNLL-U, using UDPipe2\nthenconvert wordlines to tab-separated strings line by line')
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = swedish-talbanken-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = del av New York Universitetet
+1	del	del	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	av	av	ADP	PP	_	5	case	_	_
+3	New	New	PROPN	PM|NOM	Case=Nom	5	amod	_	_
+4	York	York	PROPN	PM|NOM	Case=Nom	3	flat	_	_
+5	Universitetet	universitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 2
+# text = museum i Österrike
+1	museum	museum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Österrike	Österrike	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 3
+# text = universitet i Ukraina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 4
+# text = universitet i Stavanger, Norge
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Stavanger	Stavanger	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Norge	Norge	PROPN	PM|NOM	Case=Nom	1	conj	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 5
+# text = framstående lärosäte i staden Gundeshapur under senantiken
+1	framstående	framstående	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	2	amod	_	_
+2	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	5	case	_	_
+4	staden	stad	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	5	nmod	_	_
+5	Gundeshapur	Gundeshapur	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+6	under	under	ADP	PP	_	7	case	_	_
+7	senantiken	senantik	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 6
+# text = det tredje svenska universitetet, grundat 1640
+1	det	en	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+2	tredje	tre	ADJ	RO|NOM	Case=Nom	4	amod	_	_
+3	svenska	svensk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
+4	universitetet	universitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	grundat	grunda	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+7	1640	1640	NUM	RG|NOM	Case=Nom|NumType=Card	6	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 7
+# text = universitet i New York
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	New	New	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	York	York	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 8
+# text = universitet i Mocambique
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mocambique	Mocambique	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 9
+# text = universitet i Kina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kina	Kina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 10
+# text = lärosäte i Italien
+1	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Italien	Italien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 11
+# text = universitet i Åbo, Finland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Åbo	Åbo	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Finland	Finland	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 12
+# text = polskt universitet
+1	polskt	polsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 13
+# text = amerikanskt forskningsuniversitet
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	forskningsuniversitet	forskningsuniversitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 14
+# text = universitet i Budapest
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Budapest	Budapest	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 15
+# text = universitet i Oxford
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Oxford	Oxford	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 16
+# text = universitet i Chile
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Chile	Chile	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 17
+# text = Fransk Grande École som utexaminerar informatikingenjörer
+1	Fransk	fransk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+2	Grande	grande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Tense=Pres|VerbForm=Part	3	amod	_	_
+3	École	école	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+4	som	som	PRON	HP|-|-|-	PronType=Rel	5	nsubj	_	_
+5	utexaminerar	utexaminera	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+6	informatikingenjörer	informatikingenjör	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	obj	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 18
+# text = Universitet i Jerevan
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Jerevan	Jerevan	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 19
+# text = privat forskningsuniversitet i Pasadena, Kalifornien, USA
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	forskningsuniversitet	forskningsuniversitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Pasadena	Pasadena	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	Kalifornien	Kalifornien	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 20
+# text = amerikanskt universitet
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 21
+# text = universitet
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 22
+# text = sydafrikanskt universitet
+1	sydafrikanskt	sydafrikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 23
+# text = universitet i Nederländerna
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nederländerna	nederland	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 24
+# text = universitet i Spanien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Spanien	Spanien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 25
+# text = universitet i Wittenberg 1502–1817
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Wittenberg	Wittenberg	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	1502–1817	1502–1817	NUM	RG|NOM	Case=Nom|NumType=Card	1	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 26
+# text = universitet i Tel Aviv
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Tel	Tel	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Aviv	Aviv	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 27
+# text = polskt lärosäte
+1	polskt	polsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 28
+# text = universitet i Storbritannien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Storbritannien	Storbritannien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 29
+# text = ungerskt universitet
+1	ungerskt	ungersk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 30
+# text = statligt universitet i Göteborg, Sverige
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Göteborg	Göteborg	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	2	punct	_	_
+6	Sverige	Sverige	PROPN	PM|NOM	Case=Nom	2	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 31
+# text = statligt universitet i Polen
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Polen	Polen	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 32
+# text = statligt universitet i Uppsala, Sverige
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	SpacesAfter= 
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter= 
+3	i	i	ADP	PP	_	4	case	_	SpacesAfter= 
+4	Uppsala	Uppsala	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	6	punct	_	_
+6	Sverige	Sverige	PROPN	PM|NOM	Case=Nom	4	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 33
+# text = polskt universitet i Kraków
+1	polskt	polsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Kraków	Kraków	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 34
+# text = tidigare universitet i Rwanda
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Rwanda	Rwanda	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 35
+# text = universitet i Japan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Japan	Japan	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 36
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 37
+# text = universitet i Estland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Estland	Estland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 38
+# text = universitet i New Jersey
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	New	New	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Jersey	Jersey	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 39
+# text = universitet
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 40
+# text = Japanskt privat universitet
+1	Japanskt	japansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	privat	privat	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 41
+# text = universitet i Estland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Estland	Estland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 42
+# text = amerikanskt universitet i Baltimore i delstaten Maryland
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Baltimore	Baltimore	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	i	i	ADP	PP	_	7	case	_	_
+6	delstaten	delstat	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nmod	_	_
+7	Maryland	Maryland	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 43
+# text = universitet i Kairo, Egypten
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kairo	Kairo	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Egypten	Egypten	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 44
+# text = college i USA
+1	college	college	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 45
+# text = universitet i Hays, Kansas, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Hays	Hays	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Kansas	Kansas	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 46
+# text = Belgiskt lärosäte
+1	Belgiskt	belgisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 47
+# text = tidigare franskt universitet
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	3	amod	_	_
+2	franskt	fransk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 48
+# text = utbildningsinstitution i Jyväskylä i Finland
+1	utbildningsinstitution	utbildningsinstitution	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Jyväskylä	Jyväskylä	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Finland	Finland	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 49
+# text = Universitet och högskolor i Tokyo
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	och	och	CCONJ	KN	_	3	cc	_	_
+3	högskolor	högskola	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	1	conj	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Tokyo	Tokyo	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 50
+# text = universitet
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 51
+# text = museum i Österrike
+1	museum	museum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Österrike	Österrike	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 52
+# text = universitet i Irkutsk i Sibirien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Irkutsk	Irkutsk	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Sibirien	Sibirien	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 53
+# text = statligt universitet i Zomba, Malawi
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Zomba	Zomba	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	6	punct	_	_
+6	Malawi	Malawi	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 54
+# text = universitet i Botswana, grundat 1982
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Botswana	Botswana	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	grundat	grunda	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6	1982	1982	NUM	RG|NOM	Case=Nom|NumType=Card	5	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 55
+# text = universitet i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 56
+# text = universitet i Chile
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Chile	Chile	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 57
+# text = universitet i Amsterdam
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Amsterdam	Amsterdam	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 58
+# text = buddhistiskt universitet i Indien
+1	buddhistiskt	buddhistisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Indien	Indien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 59
+# text = Greklands största universitet
+1	Greklands	Grekland	PROPN	PM|GEN	Case=Gen	3	nmod:poss	_	_
+2	största	stor	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 60
+# text = konstvetenskapligt universitet, Zürich, Schweiz
+1	konstvetenskapligt	konstvetenskaplig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	MID	_	2	punct	_	_
+4	Zürich	Zürich	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	6	punct	_	_
+6	Schweiz	Schweiz	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 61
+# text = anrikt universitet i Italien
+1	anrikt	anrikt	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Italien	Italien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 62
+# text = schweiziskt universitet
+1	schweiziskt	schweizisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 63
+# text = amerikanskt universitet
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 64
+# text = statligt universitet i Lund, Sverige
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Lund	Lund	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	2	punct	_	_
+6	Sverige	Sverige	PROPN	PM|NOM	Case=Nom	4	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 65
+# text = statligt universitet i Stockholm
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Stockholm	Stockholm	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 66
+# text = akademisk utbildningsinstitution i Stockholm
+1	akademisk	akademisk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	utbildningsinstitution	utbildningsinstitution	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Stockholm	Stockholm	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 67
+# text = universitet i Finland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Finland	Finland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 68
+# text = specialiserat universitet
+1	specialiserat	specialisera	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 69
+# text = universitet i Tjeckien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Tjeckien	Tjeckien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 70
+# text = offentligt-privat universitet i Genève, Schweiz
+1	offentligt-privat	offentligt-privad	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Genève	Genève	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	2	punct	_	_
+6	Schweiz	Schweiz	PROPN	PM|NOM	Case=Nom	2	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 71
+# text = universitet
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 72
+# text = universitet i Rumänien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Rumänien	Rumänien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 73
+# text = akademiskt förlag
+1	akademiskt	akademisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	förlag	förlag	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 74
+# text = universitet i Belgien, nederländskspråkigt
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Belgien	Belgien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	nederländskspråkigt	nederländskspråkig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	1	acl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 75
+# text = universitet i Mons, Belgien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mons	Mons	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Belgien	Belgien	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 76
+# text = universitet i Rovaniemi, Finland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Rovaniemi	Rovaniemi	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Finland	Finland	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 77
+# text = universitet i Tyskland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Tyskland	Tyskland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 78
+# text = universitet i Leeds, England, Storbritannien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Leeds	Leeds	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	England	England	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	Storbritannien	Storbritannien	PROPN	PM|NOM	Case=Nom	5	conj	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 79
+# text = universitet i Minsk
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Minsk	Minsk	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 80
+# text = Universitet i Pennsylvania
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Pennsylvania	pennsylvania	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 81
+# text = universitet i Österrike
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Österrike	Österrike	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 82
+# text = libyskt universitet
+1	libyskt	libysk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 83
+# text = italienskt universitet
+1	italienskt	italiensk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 84
+# text = college i New York City
+1	college	college	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	5	case	_	_
+3	New	New	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	York	York	PROPN	PM|NOM	Case=Nom	3	flat	_	_
+5	City	City	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 85
+# text = universitet i London
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	London	London	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 86
+# text = universitet i Libyen
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Libyen	Libyen	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 87
+# text = forskningsinstitution i Paris
+1	forskningsinstitution	forskningsinstitution	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Paris	Paris	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 88
+# text = universitet i povinsen KwaZulu-Natal i Republiken Sydafrika
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	povinsen	povins	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nmod	_	_
+4	KwaZulu-Natal	Kwazulu-natal	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+5	i	i	ADP	PP	_	7	case	_	_
+6	Republiken	republik	ADJ	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nmod	_	_
+7	Sydafrika	Sydafrika	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 89
+# text = universitet i Ecuador
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ecuador	Ecuador	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 90
+# text = universitet i Herat, Afghanistan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Herat	Herat	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Afghanistan	Afghanistan	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 91
+# text = liberal arts college i Worcester i Massachusetts
+1	liberal	liberal	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	arts	art	NOUN	NN|UTR|SIN|IND|GEN	Case=Gen|Definite=Ind|Gender=Com|Number=Sing	3	nmod:poss	_	_
+3	college	college	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Worcester	Worcester	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	Massachusetts	Massachusetts	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 92
+# text = israeliskt universitet
+1	israeliskt	israelisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 93
+# text = universitet i Köln 1388-1798
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Köln	Köln	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	1388-1798	1388-1798	NUM	RG|NOM	Case=Nom|NumType=Card	1	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 94
+# text = konstnärlig högskola i Stockholm, Sverige
+1	konstnärlig	konstnärlig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	högskola	högskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Stockholm	Stockholm	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	2	punct	_	_
+6	Sverige	Sverige	PROPN	PM|NOM	Case=Nom	2	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 95
+# text = tidigare Joensuu universitet
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	3	amod	_	_
+2	Joensuu	Joensuu	PROPN	PM|GEN	Case=Gen	3	nmod:poss	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 96
+# text = italienskt universitet
+1	italienskt	italiensk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 97
+# text = universitet i Moskva, Ryssland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Moskva	Moskva	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Ryssland	Ryssland	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 98
+# text = historiskt universitet i Frankfurt an der Oder, Tyskland
+1	historiskt	historisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Frankfurt	Frankfurt	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	an	an	ADP	PP	_	7	case	_	_
+6	der	der	DET	NN	_	7	det	_	_
+7	Oder	Oder	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	MID	_	9	punct	_	_
+9	Tyskland	Tyskland	PROPN	PM|NOM	Case=Nom	7	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 99
+# text = universitet i Providence, Rhode Island, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Providence	Providence	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Rhode	Rhode	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+6	Island	Island	PROPN	PM|NOM	Case=Nom	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	5	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 100
+# text = Nederländska universitetet
+1	Nederländska	nederländsk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	2	amod	_	_
+2	universitetet	universitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 101
+# text = konsthögskola i Sankt Petersburg
+1	konsthögskola	konsthögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sankt	Sankt	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Petersburg	Petersburg	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 102
+# text = universitet i Kina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kina	Kina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 103
+# text = spanskt lärosäte
+1	spanskt	spansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 104
+# text = Kongolesiskt universitet i Kisangani, Tshopo-provinsen
+1	Kongolesiskt	kongolesisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Kisangani	Kisangani	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	2	punct	_	_
+6	Tshopo-provinsen	Tshopo-provins	PROPN	PM|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 105
+# text = universitet i Sanaa, Jemen
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sanaa	Sanaa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Jemen	Jemen	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 106
+# text = museum UFRJ i Río de Janeiro, Brasilien
+1	museum	museum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	UFRJ	UFRJ	PROPN	PM|NOM	Case=Nom	1	obj	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Río	Río	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	de	de	DET	DT|UTR/NEU|PLU|DEF	_	6	det	_	_
+6	Janeiro	Janeiro	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	Brasilien	Brasilien	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 107
+# text = svenskt statligt universitet som grundades 1975
+1	svenskt	svensk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	som	som	PRON	HP|-|-|-	PronType=Rel	5	nsubj:pass	_	_
+5	grundades	grunda	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	3	acl:relcl	_	_
+6	1975	1975	NUM	RG|NOM	Case=Nom|NumType=Card	5	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 108
+# text = universitet i Kroatien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kroatien	Kroatien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 109
+# text = amerikanskt universitet
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 110
+# text = privat universitet i Chile
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Chile	Chile	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 111
+# text = offentligt universitet i Newport News i Virginia
+1	offentligt	offentlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Newport	Newport	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	News	News	PROPN	PM|NOM	Case=Nom	4	flat:name	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	Virginia	Virginia	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 112
+# text = universitet i San Marino
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	San	San	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Marino	Marino	PROPN	PM|NOM	Case=Nom	3	flat	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 113
+# text = universitet i Saudiarabien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Saudiarabien	Saudiarabien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 114
+# text = tidigare universitet (1150-1793)
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	(	(	PUNCT	PAD	_	2	punct	_	SpaceAfter=No
+4	1150-1793	1150-1793	NUM	RG|NOM	Case=Nom|NumType=Card	2	appos	_	SpaceAfter=No
+5	)	)	PUNCT	PAD	_	2	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 115
+# text = colombianskt universitet
+1	colombianskt	colombiansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 116
+# text = universitet i Rumänien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Rumänien	Rumänien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 117
+# text = universitet i London
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	London	London	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 118
+# text = universitet i Columbus, Mississippi, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Columbus	Columbus	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Mississippi	Mississippi	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 119
+# text = universitet i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 120
+# text = svenskt statligt universitet
+1	svenskt	svensk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 121
+# text = offentligt universitet i Kina
+1	offentligt	offentlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Kina	Kina	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 122
+# text = Fransk universitet som utexaminerar internetspecialister
+1	Fransk	fransk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	som	som	PRON	HP|-|-|-	PronType=Rel	4	nsubj	_	_
+4	utexaminerar	utexaminera	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+5	internetspecialister	internetspecialist	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	obj	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 123
+# text = nigerianskt universitet
+1	nigerianskt	nigeriansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 124
+# text = universitet i Indien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Indien	Indien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 125
+# text = katalanskt (spanskt) universitet
+1	katalanskt	katalansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+2	(	(	PUNCT	PAD	_	3	punct	_	SpaceAfter=No
+3	spanskt	spansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	SpaceAfter=No
+4	)	)	PUNCT	PAD	_	5	punct	_	_
+5	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 126
+# text = universitet i Göteborg, Sverige
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Göteborg	Göteborg	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Sverige	Sverige	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 127
+# text = svensk statlig förvaltningsmyndighet
+1	svensk	svensk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+2	statlig	statlig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+3	förvaltningsmyndighet	förvaltningsmyndighet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 128
+# text = armeniskt teologiskt seminarium i Etjmiadzin
+1	armeniskt	armenisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	teologiskt	teologisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	seminarium	seminarium	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Etjmiadzin	Etjmiadzin	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 129
+# text = Universitet i Ukraina
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 130
+# text = svenskt statligt universitet
+1	svenskt	svensk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 131
+# text = tekniskt universitet i Stockholm
+1	tekniskt	teknisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Stockholm	Stockholm	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 132
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 133
+# text = samlingsbenämning för lärosäten på Nya Zeeland 1874-1961
+1	samlingsbenämning	samlingsbenämning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	för	för	ADP	PP	_	3	case	_	_
+3	lärosäten	lärosät	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	1	nmod	_	_
+4	på	på	ADP	PP	_	6	case	_	_
+5	Nya	ny	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	Zeeland	Zeeland	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+7	1874-1961	1874-1961	NUM	RG|NOM	Case=Nom|NumType=Card	1	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 134
+# text = högskola i Belarus
+1	högskola	högskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Belarus	Belarus	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 135
+# text = universitet i Sydafrika
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Sydafrika	Sydafrika	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 136
+# text = universitet i Boiling Springs, North Carolina, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Boiling	Boiling	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Springs	Springs	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	3	punct	_	_
+6	North	North	PROPN	PM|NOM	_	3	amod	_	_
+7	Carolina	Carolina	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	MID	_	9	punct	_	_
+9	USA	USA	PROPN	PM|NOM	Case=Nom	7	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 137
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 138
+# text = ryskt lärosäte
+1	ryskt	rysk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 139
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 140
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 141
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 142
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 143
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 144
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 145
+# text = ungerskt universitet
+1	ungerskt	ungersk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 146
+# text = universitet i Finland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Finland	Finland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 147
+# text = universitet i Dayton, Ohio, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Dayton	Dayton	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Ohio	Ohio	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 148
+# text = universitet i Nordirland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Nordirland	Nordirland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 149
+# text = Medicinskt universitet i Armenien
+1	Medicinskt	medicinsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Armenien	Armenien	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 150
+# text = universitet i Indien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Indien	Indien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 151
+# text = universitet i Tennessee, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Tennessee	Tennessee	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	USA	USA	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 152
+# text = universitet för teater, film och television
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	för	för	ADP	PP	_	3	case	_	_
+3	teater	teater	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	film	film	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	conj	_	_
+6	och	och	CCONJ	KN	_	7	cc	_	_
+7	television	television	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	conj	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 153
+# text = universitet i Ryssland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ryssland	Ryssland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 154
+# text = tidigare universitet i Mons, Belgien
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Mons	Mons	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	6	punct	_	_
+6	Belgien	Belgien	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 155
+# text = italienskt universitet
+1	italienskt	italiensk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 156
+# text = universitet i Potsdam, New York i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Potsdam	Potsdam	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	New	New	PROPN	PM|NOM	Case=Nom	1	conj	_	_
+6	York	York	PROPN	PM|NOM	Case=Nom	5	flat:name	_	_
+7	i	i	ADP	PP	_	8	case	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	5	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 157
+# text = universitet i Arkansas
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Arkansas	Arkansas	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 158
+# text = tidigare Universitet i England
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	2	amod	_	_
+2	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	England	England	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 159
+# text = Utbildningssäte i Krasnodar, Ryssland
+1	Utbildningssäte	utbildningssäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Krasnodar	Krasnodar	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Ryssland	Ryssland	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 160
+# text = svensk statlig förvaltningsmyndighet
+1	svensk	svensk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+2	statlig	statlig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+3	förvaltningsmyndighet	förvaltningsmyndighet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 161
+# text = tunisiskt universitet i Monastir
+1	tunisiskt	tunisisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Monastir	Monastir	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 162
+# text = akademisk arkiv i Wales
+1	akademisk	akademisk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	arkiv	arkiv	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Wales	Wales	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 163
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 164
+# text = syriskt statligt universitet i Aleppo
+1	syriskt	syrisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Aleppo	Aleppo	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 165
+# text = musikinstitut bestående av åtta högskolor
+1	musikinstitut	musikinstitut	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	bestående	bestående	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Tense=Pres|VerbForm=Part	1	acl	_	_
+3	av	av	ADP	PP	_	5	case	_	_
+4	åtta	åtta	NUM	RG|NOM	Case=Nom|NumType=Card	5	nummod	_	_
+5	högskolor	högskola	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	2	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 166
+# text = universitet i Mexico City, Mexiko
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mexico	Mexico	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	City	City	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	3	punct	_	_
+6	Mexiko	Mexiko	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 167
+# text = universitet i Aten, Grekland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Aten	Aten	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Grekland	Grekland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 168
+# text = amerikansk konsthögskola
+1	amerikansk	amerikansk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	konsthögskola	konsthögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 169
+# text = universitet i Saint Charles, Missouri, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Saint	Saint	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Charles	Charles	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	3	punct	_	_
+6	Missouri	Missouri	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 170
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 171
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 172
+# text = universitet i Lewiston, New York, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Lewiston	Lewiston	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	New	New	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+6	York	York	PROPN	PM|NOM	Case=Nom	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	5	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 173
+# text = universitet i Ukraina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 174
+# text = universitet i Irak
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Irak	Irak	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 175
+# text = universitet i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 176
+# text = universitet i Bridgeport, Connecticut, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Bridgeport	Bridgeport	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Connecticut	Connecticut	PROPN	PM|NOM	Case=Nom	3	appos	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 177
+# text = universitet i Ukraina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 178
+# text = japanskt universitet
+1	japanskt	japansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 179
+# text = universitet i Kina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kina	Kina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 180
+# text = kvinnligt universitet i Kodaira, Tokyo, Japan
+1	kvinnligt	kvinnlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Kodaira	Kodaira	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	Tokyo	Tokyo	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	Japan	Japan	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 181
+# text = universitet i Norwich, England
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Norwich	Norwich	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	England	England	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 182
+# text = underjordisk utbildningsrörelse i Warszawa 1885-1905
+1	underjordisk	underjordisk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	utbildningsrörelse	utbildningsrörelse	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Warszawa	Warszawa	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	1885-1905	1885-1905	NUM	RG|NOM	Case=Nom|NumType=Card	2	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 183
+# text = finländskt konstuniversitet
+1	finländskt	finländsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	konstuniversitet	konstuniversitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 184
+# text = privat universitet som lyder under Ryska ortodoxa kyrkan
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	som	som	PRON	HP|-|-|-	PronType=Rel	4	nsubj	_	_
+4	lyder	lyda	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+5	under	under	ADP	PP	_	8	case	_	_
+6	Ryska	rysk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
+7	ortodoxa	ortodox	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
+8	kyrkan	kyrka	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 185
+# text = universitet i Honduras
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Honduras	Honduras	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 186
+# text = fackhögskola i Charkiv i Ukraina
+1	fackhögskola	fackhögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Charkiv	Charkiv	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 187
+# text = offentligt universitet inom jordbruksområdet i Ukraina
+1	offentligt	offentlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	inom	inom	ADP	PP	_	4	case	_	_
+4	jordbruksområdet	jordbruksområde	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nmod	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 188
+# text = universitet i Baku, Azerbajdzjan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Baku	Baku	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Azerbajdzjan	Azerbajdzjan	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 189
+# text = brasilianskt universitet
+1	brasilianskt	brasiliansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 190
+# text = universitet i Newark, Delaware, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Newark	Newark	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Delaware	Delaware	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 191
+# text = konsthögskola i USA
+1	konsthögskola	konsthögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 192
+# text = universitet i Ryssland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ryssland	Ryssland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 193
+# text = universitet i Brasilien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Brasilien	Brasilien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 194
+# text = svenskt statligt universitet
+1	svenskt	svensk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 195
+# text = universitet i Kyiv, Ukraina (sedan 1991)
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kyiv	Kyiv	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	1	appos	_	_
+6	(	(	PUNCT	PAD	_	1	punct	_	SpaceAfter=No
+7	sedan	sedan	ADP	PP	_	8	case	_	_
+8	1991	1991	NUM	RG|NOM	Case=Nom|NumType=Card	1	obl	_	SpaceAfter=No
+9	)	)	PUNCT	PAD	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 196
+# text = Islands högskola för konstnärliga utbildningar
+1	Islands	Island	PROPN	PM|GEN	Case=Gen	2	nmod:poss	_	_
+2	högskola	högskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	för	för	ADP	PP	_	5	case	_	_
+4	konstnärliga	konstnärlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	utbildningar	utbildning	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 197
+# text = universitet i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 198
+# text = islamskt universitet i Teheran, Iran
+1	islamskt	islamsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Teheran	Teheran	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	2	punct	_	_
+6	Iran	iran	NOUN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 199
+# text = kinesiskt universitet
+1	kinesiskt	kinesisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 200
+# text = universitet i Japan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Japan	Japan	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 201
+# text = universitet i New York
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	New	New	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	York	York	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 202
+# text = del av University of London
+1	del	del	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	av	av	ADP	PP	_	3	case	_	_
+3	University	University	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	nmod	_	_
+4	of	of	ADP	PP	_	5	case	_	_
+5	London	London	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 203
+# text = konsthögskola inom Amdebkar University i Delhi
+1	konsthögskola	konsthögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	inom	inom	ADP	PP	_	4	case	_	_
+3	Amdebkar	Amdebkar	PROPN	PM|NOM	Case=Nom	4	nmod	_	_
+4	University	University	NOUN	PM|NOM	Case=Nom	1	nmod	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Delhi	Delhi	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 204
+# text = Högskola i New York
+1	Högskola	högskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	New	New	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	York	York	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 205
+# text = museum i Italien
+1	museum	museum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Italien	Italien	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 206
+# text = Ungerskt universitet
+1	Ungerskt	ungersk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 207
+# text = högskola i Esbo, Finland
+1	högskola	högskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Esbo	Esbo	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Finland	Finland	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 208
+# text = Universitetet
+1	Universitetet	universitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 209
+# text = universitet i Dundee i Skottland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Dundee	Dundee	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Skottland	Skottland	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 210
+# text = universitet i Springfield, Missouri, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Springfield	Springfield	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Missouri	Missouri	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 211
+# text = universitet i Chile
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Chile	Chile	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 212
+# text = konstskola i Köpenhamn
+1	konstskola	konstskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Köpenhamn	Köpenhamn	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 213
+# text = universitet i Kina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kina	Kina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 214
+# text = universitet i London
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	London	London	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 215
+# text = Universitet i Fukuoka i Japan
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Fukuoka	Fukuoka	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Japan	Japan	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 216
+# text = universitet i Costa Rica
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Costa	Costa	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Rica	Rica	PROPN	PM|NOM	Case=Nom	3	flat	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 217
+# text = privat universitet i Lubbock, Texas, USA
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Lubbock	Lubbock	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	Texas	Texas	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 218
+# text = idrottsförening i England
+1	idrottsförening	idrottsförening	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	England	England	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 219
+# text = universitet i Mexiko
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mexiko	Mexiko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 220
+# text = svensk statlig förvaltningsmyndighet
+1	svensk	svensk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+2	statlig	statlig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+3	förvaltningsmyndighet	förvaltningsmyndighet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 221
+# text = privat college i Redlands i Kalifornien
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	college	college	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Redlands	Redland	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Kalifornien	Kalifornien	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 222
+# text = universitet i Fairfield, Connecticut i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Fairfield	Fairfield	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Connecticut	Connecticut	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 223
+# text = universitet i England
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	England	England	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 224
+# text = universitet i Anderson, Indiana, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Anderson	Anderson	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Indiana	Indiana	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 225
+# text = Japanskt universitet
+1	Japanskt	japansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 226
+# text = universitet i Morelia, Mexiko
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Morelia	Morelia	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Mexiko	Mexiko	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 227
+# text = Konsthögskola i Tallinn
+1	Konsthögskola	konsthögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Tallinn	Tallinn	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 228
+# text = universitet i Philadelphia, Pennsylvania
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Philadelphia	Philadelphia	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Pennsylvania	pennsylvania	PROPN	PM|NOM	Case=Nom	1	conj	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 229
+# text = universitet i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 230
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 231
+# text = universitet i Indien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Indien	Indien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 232
+# text = amerikanskt college
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	college	college	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 233
+# text = universitet i Irak
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Irak	Irak	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 234
+# text = universitet i New Jersey, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	New	New	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Jersey	Jersey	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	6	punct	_	_
+6	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 235
+# text = tjeckiskt universitet
+1	tjeckiskt	tjeckisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 236
+# text = rumänskt universitet
+1	rumänskt	rumänsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 237
+# text = katolskt universitet i Erie, Pennsylvania, USA
+1	katolskt	katolsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Erie	Erie	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	Pennsylvania	Pennsylvania	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 238
+# text = Monywa University of Economics
+1	Monywa	monywa	ADJ	JJ	_	2	amod	_	_
+2	University	University	NOUN	UO	_	0	root	_	_
+3	of	of	ADP	PP	_	4	case	_	_
+4	Economics	Economics	NOUN	UO	_	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 239
+# text = privat universitet i Danville i Virginia i USA
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Danville	Danville	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Virginia	Virginia	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+7	i	i	ADP	PP	_	8	case	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 240
+# text = högskola
+1	högskola	högskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 241
+# text = lärosäte i Frankrike
+1	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Frankrike	Frankrike	PROPN	PM|NOM	Case=Nom	1	obl	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 242
+# text = universitet i Mexiko
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mexiko	Mexiko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 243
+# text = universitet i Lacey, Washington, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Lacey	Lacey	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Washington	Washington	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	5	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 244
+# text = universitet i Colombia
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Colombia	Colombia	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 245
+# text = universitet i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 246
+# text = 1877-1886
+1	1877-1886	1877-1886	NUM	RG|NOM	Case=Nom|NumType=Card	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 247
+# text = universitet i Kazakstan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kazakstan	Kazakstan	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 248
+# text = universitet i Pakistan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Pakistan	Pakistan	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 249
+# text = universitet i Ukraina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 250
+# text = universitet i Alva, Oklahoma, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Alva	Alva	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Oklahoma	Oklahoma	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 251
+# text = universitet i Kerrville, Texas, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kerrville	Kerrville	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Texas	Texas	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 252
+# text = syrisk teaterhögskola
+1	syrisk	syrisk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	teaterhögskola	teaterhögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 253
+# text = privat kristet universitet i Tennessee, USA
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+2	kristet	kristen	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Tennessee	Tennessee	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	3	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	3	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 254
+# text = tidigare tekniska universitetet i Finland
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	3	amod	_	_
+2	tekniska	teknisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	3	amod	_	_
+3	universitetet	universitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	Finland	Finland	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 255
+# text = universitet i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	USA	USA	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 256
+# text = universitet i Jamaica
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Jamaica	Jamaica	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 257
+# text = Universitet i Kongo-Kinshasa, Demokratiska republiken Kongos offentliga universitet i Lubumbashi
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kongo-Kinshasa	Kongo-kinshasa	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Demokratiska	demokratisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
+6	republiken	republik	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nmod	_	_
+7	Kongos	Kongo	PROPN	PM|GEN	Case=Gen	9	nmod:poss	_	_
+8	offentliga	offentlig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	9	amod	_	_
+9	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
+10	i	i	ADP	PP	_	11	case	_	_
+11	Lubumbashi	Lubumbashi	PROPN	PM|NOM	Case=Nom	9	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 258
+# text = universitet i Teheran
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Teheran	Teheran	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 259
+# text = Wikimedia-listartikel
+1	Wikimedia-listartikel	wikimedia-listartikel	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 260
+# text = college i British Columbia, Kanada
+1	college	college	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	British	British	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Columbia	Columbia	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	3	punct	_	_
+6	Kanada	Kanada	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 261
+# text = arkiv i Storbritannien
+1	arkiv	arkiv	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Storbritannien	Storbritannien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 262
+# text = ryskt universitet
+1	ryskt	rysk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 263
+# text = universitet i Polen
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Polen	Polen	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 264
+# text = privat universitet i Adrian, Michigan, USA
+1	privat	privat	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Adrian	Adrian	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	Michigan	Michigan	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 265
+# text = läroanstalt för undervisning i skogsskötsel
+1	läroanstalt	läroanstalt	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	för	för	ADP	PP	_	3	case	_	_
+3	undervisning	undervisning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	skogsskötsel	skogsskötsel	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 266
+# text = amerikanskt universitet
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 267
+# text = grensida
+1	grensida	grensida	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 268
+# text = universitet i Azerbajdzjan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Azerbajdzjan	Azerbajdzjan	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 269
+# text = universitet
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 270
+# text = universitet i Tchad
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Tchad	Tchad	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 271
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 272
+# text = universitet i Springfield, Louisiana, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Springfield	Springfield	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Louisiana	Louisiana	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 273
+# text = universitet i Springfield, Massachusetts, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Springfield	Springfield	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Massachusetts	Massachusetts	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 274
+# text = brasilianskt universitet
+1	brasilianskt	brasiliansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 275
+# text = offentligt universitet i delstaten New York, USA
+1	offentligt	offentlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	5	case	_	_
+4	delstaten	delstat	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	5	nmod	_	_
+5	New	New	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+6	York	York	PROPN	PM|NOM	Case=Nom	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	5	punct	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	2	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 276
+# text = universitet i Indonesien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Indonesien	Indonesien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 277
+# text = Universitet I Marocko
+1	Universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	I	i	ADP	PP	_	3	case	_	_
+3	Marocko	Marocko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 278
+# text = universitet i Belgien, uppdelat språkligt i praktiken 1969, juridiskt 1970
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Belgien	Belgien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	uppdelat	uppdela	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6	språkligt	språklig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	xcomp	_	_
+7	i	i	ADP	PP	_	8	case	_	_
+8	praktiken	praktik	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	5	obl	_	_
+9	1969	1969	NUM	RG|NOM	Case=Nom|NumType=Card	8	nummod	_	SpaceAfter=No
+10	,	,	PUNCT	MID	_	11	punct	_	_
+11	juridiskt	juridisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
+12	1970	1970	NUM	RG|NOM	Case=Nom|NumType=Card	11	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 279
+# text = franskt universitet 1538-1970
+1	franskt	fransk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	1538-1970	1538-1970	NUM	RG|NOM	Case=Nom|NumType=Card	2	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 280
+# text = finländskt universitet
+1	finländskt	finländsk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 281
+# text = universitet i Bodø
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Bodø	Bodø	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 282
+# text = brasilianskt universitet
+1	brasilianskt	brasiliansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 283
+# text = tidigare namn (1822–1943) på Universidad Complutense de Madrid
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	2	amod	_	_
+2	namn	namn	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	(	(	PUNCT	PAD	_	2	punct	_	SpaceAfter=No
+4	1822–1943	1822–1943	NUM	RG|NOM	Case=Nom|NumType=Card	2	appos	_	SpaceAfter=No
+5	)	)	PUNCT	PAD	_	2	punct	_	_
+6	på	på	ADP	PP	_	8	case	_	_
+7	Universidad	Universidad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	8	amod	_	_
+8	Complutense	Complutense	PROPN	PM|NOM	_	2	nmod	_	_
+9	de	de	DET	DT|UTR/NEU|PLU|DEF	_	10	det	_	_
+10	Madrid	Madrid	PROPN	PM|NOM	Case=Nom	8	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 284
+# text = universitet i Vitória, Espírito Santo, Brasilien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Vitória	Vitória	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Espírito	Espírito	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+6	Santo	Santo	PROPN	PM|NOM	Case=Nom	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	MID	_	8	punct	_	_
+8	Brasilien	Brasilien	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 285
+# text = universitet i Argentina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Argentina	Argentina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 286
+# text = universitet i Mbeya
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Mbeya	Mbeya	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 287
+# text = offentligt universitet i Kirksville i Missouri i USA
+1	offentligt	offentlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Kirksville	Kirksville	PROPN	PM|NOM	Case=Nom	2	nmod	_	_
+5	i	i	ADP	PP	_	6	case	_	_
+6	Missouri	Missouri	PROPN	PM|NOM	Case=Nom	4	nmod	_	_
+7	i	i	ADP	PP	_	8	case	_	_
+8	USA	USA	PROPN	PM|NOM	Case=Nom	6	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 288
+# text = universitet i Colombia
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Colombia	Colombia	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 289
+# text = universitet i Costa Rica
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Costa	Costa	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	Rica	Rica	PROPN	PM|NOM	Case=Nom	3	flat	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 290
+# text = grensida
+1	grensida	grensida	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 291
+# text = universitet i Kina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kina	Kina	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 292
+# text = grensida
+1	grensida	grensida	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 293
+# text = universitet i Caracas, Venezuela
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Caracas	Caracas	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Venezuela	Venezuela	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 294
+# text = universitet i Rumänien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Rumänien	Rumänien	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 295
+# text = tidigare dansk yrkeshögskola
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	3	amod	_	_
+2	dansk	dansk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
+3	yrkeshögskola	yrkeshögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 296
+# text = dansk yrkeshögskola på Sjælland
+1	dansk	dansk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
+2	yrkeshögskola	yrkeshögskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+3	på	på	ADP	PP	_	4	case	_	_
+4	Sjælland	Sjælland	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 297
+# text = universitet i Plymouth, England, Storbritannien
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Plymouth	Plymouth	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	England	England	PROPN	PM|NOM	Case=Nom	1	appos	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	Storbritannien	Storbritannien	PROPN	PM|NOM	Case=Nom	5	conj	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 298
+# text = universitet i Warrensburg, Missouri, USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Warrensburg	Warrensburg	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Missouri	Missouri	PROPN	PM|NOM	Case=Nom	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	MID	_	7	punct	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 299
+# text = Institution tillhörande Yonsei University, International Campus, Songdo International Business District, Incheon
+1	Institution	institution	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	tillhörande	tillhörande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Tense=Pres|VerbForm=Part	3	amod	_	_
+3	Yonsei	Yonsei	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	University	University	PROPN	PM|NOM	Case=Nom	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	7	punct	_	_
+6	International	International	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	amod	_	_
+7	Campus	Campus	NOUN	NN	Foreign=Yes	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	MID	_	12	punct	_	_
+9	Songdo	Songdo	PROPN	PM|NOM	Case=Nom	11	compound	_	_
+10	International	International	ADJ	JJ	_	11	amod	_	_
+11	Business	Business	NOUN	NN	_	12	compound	_	_
+12	District	District	NOUN	NN	_	3	appos	_	SpaceAfter=No
+13	,	,	PUNCT	MID	_	14	punct	_	_
+14	Incheon	Incheon	NOUN	PM|NOM	Case=Nom	12	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 300
+# text = statligt universitet i Nigeria
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Nigeria	Nigeria	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 301
+# text = universitet i Zanzibar
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Zanzibar	Zanzibar	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 302
+# text = universitet i Ryssland
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Ryssland	Ryssland	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 303
+# text = Rwandas statliga universitet
+1	Rwandas	Rwanda	PROPN	PM|GEN	Case=Gen	3	nmod:poss	_	_
+2	statliga	statlig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 304
+# text = universitet i Dnipro, Ukraina
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Dnipro	Dnipro	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Ukraina	Ukraina	PROPN	PM|NOM	Case=Nom	1	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 305
+# text = Wikimedia-kategori
+1	Wikimedia-kategori	wikimedia-kategori	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 306
+# text = tekniskt universitet i Tokyo, Japan
+1	tekniskt	teknisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Tokyo	Tokyo	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	2	punct	_	_
+6	Japan	Japan	PROPN	PM|NOM	Case=Nom	2	appos	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 307
+# text = tyskt lärosäte
+1	tyskt	tysk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	lärosäte	lärosäte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 308
+# text = grensida
+1	grensida	grensida	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 309
+# text = japanskt universitet
+1	japanskt	japansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 310
+# text = universitet i Frankrike
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Frankrike	Frankrike	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 311
+# text = franskt universitet
+1	franskt	fransk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 312
+# text = universitet i Amherst, Massachusetts i USA
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Amherst	Amherst	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	3	punct	_	_
+5	Massachusetts	Massachusetts	PROPN	PM|NOM	Case=Nom	3	nmod	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	USA	USA	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 313
+# text = universitet i delstaten Nuevo León i Mexiko
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	4	case	_	_
+3	delstaten	delstat	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nmod	_	_
+4	Nuevo	Nuevo	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+5	León	León	PROPN	PM|NOM	Case=Nom	4	flat:name	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	Mexiko	Mexiko	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 314
+# text = universitet i Azerbajdzjan
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Azerbajdzjan	Azerbajdzjan	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 315
+# text = statligt universitet i Limpopo, Sydafrika
+1	statligt	statlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	i	i	ADP	PP	_	4	case	_	_
+4	Limpopo	Limpopo	PROPN	PM|NOM	Case=Nom	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	Sydafrika	Sydafrika	PROPN	PM|NOM	Case=Nom	4	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 316
+# text = universitet i Kenyatta, Kenya
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Kenyatta	Kenyatta	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	5	punct	_	_
+5	Kenya	Kenya	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 317
+# text = amerikanskt privatägt universitet och forskningsinstitut i Cambridge, Massachusetts
+1	amerikanskt	amerikansk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	privatägt	privatägd	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+4	och	och	CCONJ	KN	_	5	cc	_	_
+5	forskningsinstitut	forskningsinstitut	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	conj	_	_
+6	i	i	ADP	PP	_	7	case	_	_
+7	Cambridge	Cambridge	PROPN	PM|NOM	Case=Nom	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	MID	_	7	punct	_	_
+9	Massachusetts	Massachusetts	PROPN	PM|NOM	Case=Nom	7	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 318
+# text = kvinnouniversitet i Massachusetts
+1	kvinnouniversitet	kvinnouniversitet	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Massachusetts	Massachusetts	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 319
+# text = forskningsstation i Grönland 1939–1941
+1	forskningsstation	forskningsstation	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Grönland	Grönland	PROPN	PM|NOM	Case=Nom	1	nmod	_	_
+4	1939–1941	1939–1941	NUM	RG|NOM	Case=Nom|NumType=Card	1	nummod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 320
+# text = Ryskt universitet
+1	Ryskt	rysk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 321
+# text = universitet i Paris
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Paris	Paris	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 322
+# text = tidigare namn för Bourgogne universitet
+1	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	2	amod	_	_
+2	namn	namn	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+3	för	för	ADP	PP	_	5	case	_	_
+4	Bourgogne	Bourgogne	PROPN	PM|NOM	Case=Nom	5	nmod	_	_
+5	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	nmod	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 323
+# text = tyskt tidigare universitet
+1	tyskt	tysk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	tidigare	tidig	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	3	amod	_	_
+3	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 324
+# text = universitet i Oslo, Norge
+1	universitet	universitet	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Oslo	Oslo	PROPN	PM|NOM	Case=Nom	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	MID	_	1	punct	_	_
+5	Norge	Norge	PROPN	PM|NOM	Case=Nom	1	conj	_	SpacesAfter=\r\n
+
+

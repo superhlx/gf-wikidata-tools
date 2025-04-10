@@ -48,6 +48,8 @@ def mk_lincat_rule(cat, lin):
 
 
 def extract_term(cnc, s):
+    if cnc.name[-3:] == 'Chi':
+        s = ' '.join(s.split())
     try:
         p = cnc.parse(s)
         _, t = p.__next__()

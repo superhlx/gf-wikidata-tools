@@ -1,0 +1,552 @@
+{
+  "Q132469": {
+    "cat": "MT",
+    "fun": "Fermat's_Last_Theorem_Q132469_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Fermat's Last Theorem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q172298": {
+    "cat": "CN",
+    "fun": "primary_decomposition_Q172298_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "primary decomposition",
+      "lin": "AdjCN (PositA primary_A) (UseN decomposition_N)",
+      "status": true
+    }
+  },
+  "Q174955": {
+    "cat": "MT",
+    "fun": "Catalan's_conjecture_Q174955_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Catalan's conjecture",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q180345": {
+    "cat": "CN",
+    "fun": "rational_root_theorem_Q180345_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "rational root theorem",
+      "lin": "AdjCN (PositA rational_A) (UseN (CompoundN root_N theorem_N))",
+      "status": true
+    }
+  },
+  "Q181054": {
+    "cat": "MT",
+    "fun": "Euclidean_division_Q181054_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Euclidean division",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q192760": {
+    "cat": "CN",
+    "fun": "fundamental_theorem_of_algebra_Q192760_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "fundamental theorem of algebra",
+      "lin": "NounPrepCN (AdjCN (PositA fundamental_A) (UseN theorem_N)) (PrepNP of_Prep (BareCN (UseN algebra_N)))",
+      "status": true
+    }
+  },
+  "Q193910": {
+    "cat": "MT",
+    "fun": "Euler's_theorem_Q193910_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Euler's theorem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q205170": {
+    "cat": "CN",
+    "fun": "power_set_Q205170_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "power set",
+      "lin": "UseN (CompoundN power_N set_N)",
+      "status": true
+    }
+  },
+  "Q185837": {
+    "cat": "CN",
+    "fun": "intersection_Q185837_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "intersection",
+      "lin": "UseN intersection_N",
+      "status": true
+    }
+  },
+  "Q256303": {
+    "cat": "MT",
+    "fun": "Lax_equivalence_theorem_Q256303_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Lax equivalence theorem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q338057": {
+    "cat": "CN",
+    "fun": "inverse_element_Q338057_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "inverse element",
+      "lin": "AdjCN (PositA inverse_A) (UseN element_N)",
+      "status": true
+    }
+  },
+  "Q177646": {
+    "cat": "CN",
+    "fun": "subset_Q177646_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "subset",
+      "lin": "UseN subset_N",
+      "status": true
+    }
+  },
+  "Q1085860": {
+    "cat": "CN",
+    "fun": "'root-finding_algorithm_Q1085860_CN'",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "root-finding algorithm",
+      "lin": "UseN (CompoundN root_N (CompoundN finding_N algorithm_N))",
+      "status": true
+    }
+  },
+  "Q1228250": {
+    "cat": "CN",
+    "fun": "line_Q1228250_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "line",
+      "lin": "UseN line_N",
+      "status": true
+    }
+  },
+  "Q217594": {
+    "cat": "CN",
+    "fun": "class_Q217594_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "class",
+      "lin": "UseN class_N",
+      "status": true
+    }
+  },
+  "Q1094975": {
+    "cat": "MT",
+    "fun": "Abouabdillah's_theorem_Q1094975_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Abouabdillah's theorem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q1783502": {
+    "cat": "CN",
+    "fun": "rate_of_convergence_Q1783502_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "rate of convergence",
+      "lin": "NounPrepCN (UseN rate_N) (PrepNP part_Prep (BareCN (UseN convergence_N)))",
+      "status": true
+    }
+  },
+  "Q97598360": {
+    "cat": "MT",
+    "fun": "semifield_Q97598360_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "semifield",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q56291656": {
+    "cat": "MT",
+    "fun": "Bellman's_lost_in_a_forest_problem_Q56291656_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Bellman's lost in a forest problem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q6014822": {
+    "cat": "CN",
+    "fun": "inclusion_Q6014822_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "inclusion",
+      "lin": "UseN inclusion_N",
+      "status": true
+    }
+  },
+  "Q110910247": {
+    "cat": "CN",
+    "fun": "center_region_Q110910247_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "center region",
+      "lin": "AdjCN (PositA center_A) (UseN region_N)",
+      "status": true
+    }
+  },
+  "Q33401": {
+    "cat": "MT",
+    "fun": "Russell's_paradox_Q33401_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Russell's paradox",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q93344": {
+    "cat": "CN",
+    "fun": "trigonometric_function_Q93344_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "trigonometric function",
+      "lin": "AdjCN (PositA trigonometric_A) (UseN function_N)",
+      "status": true
+    }
+  },
+  "Q168817": {
+    "cat": "CN",
+    "fun": "algebraic_number_Q168817_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "algebraic number",
+      "lin": "AdjCN (PositA algebraic_A) (UseN number_N)",
+      "status": true
+    }
+  },
+  "Q646245": {
+    "cat": "CN",
+    "fun": "algebraic_integer_Q646245_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "algebraic integer",
+      "lin": "AdjCN (PositA algebraic_A) (UseN integer_N)",
+      "status": true
+    }
+  },
+  "Q670235": {
+    "cat": "CN",
+    "fun": "fundamental_theorem_of_arithmetic_Q670235_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "fundamental theorem of arithmetic",
+      "lin": "NounPrepCN (AdjCN (PositA fundamental_A) (UseN theorem_N)) (PrepNP of_Prep (BareCN (UseN arithmetic_N)))",
+      "status": true
+    }
+  },
+  "Q679903": {
+    "cat": "CN",
+    "fun": "magma_Q679903_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "magma",
+      "lin": "UseN magma_N",
+      "status": true
+    }
+  },
+  "Q865360": {
+    "cat": "MT",
+    "fun": "Jaccard_index_Q865360_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Jaccard index",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q215071": {
+    "cat": "MT",
+    "fun": "supremum_Q215071_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "supremum",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q277987": {
+    "cat": "MT",
+    "fun": "'Teichmüller–Tukey_lemma_Q277987_MT'",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Teichmüller–Tukey lemma",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q10906396": {
+    "cat": "CN",
+    "fun": "vertical_angles_Q10906396_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "vertical angles",
+      "lin": "AdjCN (PositA vertical_A) (UseN angle_N)",
+      "status": true
+    }
+  },
+  "Q1147936": {
+    "cat": "CN",
+    "fun": "condition_number_Q1147936_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "condition number",
+      "lin": "UseN (CompoundN condition_N number_N)",
+      "status": true
+    }
+  },
+  "Q124355768": {
+    "cat": "CN",
+    "fun": "numerical_algorithm_Q124355768_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "numerical algorithm",
+      "lin": "AdjCN (PositA numerical_A) (UseN algorithm_N)",
+      "status": true
+    }
+  },
+  "Q1043113": {
+    "cat": "CN",
+    "fun": "primes_in_arithmetic_progression_Q1043113_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "primes in arithmetic progression",
+      "lin": "NounPrepCN (UseN prime_N) (PrepNP in_Prep (BareCN (UseN (CompoundN arithmetic_N progression_N))))",
+      "status": true
+    }
+  },
+  "Q1694565": {
+    "cat": "MT",
+    "fun": "Vinogradov's_theorem_Q1694565_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Vinogradov's theorem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q3297588": {
+    "cat": "CN",
+    "fun": "prolate_spheroid_Q3297588_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "prolate spheroid",
+      "lin": "AdjCN (PositA prolate_A) (UseN spheroid_N)",
+      "status": true
+    }
+  },
+  "Q5172842": {
+    "cat": "CN",
+    "fun": "correlation_Q5172842_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "correlation",
+      "lin": "UseN correlation_N",
+      "status": true
+    }
+  },
+  "Q4049983": {
+    "cat": "CN",
+    "fun": "cardinality_Q4049983_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "cardinality",
+      "lin": "UseN cardinality_N",
+      "status": true
+    }
+  },
+  "Q173740": {
+    "cat": "CN",
+    "fun": "Cartesian_product_Q173740_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "Cartesian product",
+      "lin": "AdjCN (PositA Cartesian_A) (UseN product_N)",
+      "status": true
+    }
+  },
+  "Q196822": {
+    "cat": "CN",
+    "fun": "zeta_function_Q196822_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "zeta function",
+      "lin": "UseN (CompoundN zeta_N function_N)",
+      "status": true
+    }
+  },
+  "Q632546": {
+    "cat": "MT",
+    "fun": "Bertrand's_postulate_Q632546_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Bertrand's postulate",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q21550639": {
+    "cat": "CN",
+    "fun": "geometric_concept_Q21550639_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "geometric concept",
+      "lin": "AdjCN (PositA geometric_A) (UseN concept_N)",
+      "status": true
+    }
+  },
+  "Q1445491": {
+    "cat": "CN",
+    "fun": "aleph_null_Q1445491_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "aleph null",
+      "lin": "UseN (CompoundN aleph_N null_N)",
+      "status": true
+    }
+  },
+  "Q24262840": {
+    "cat": "CN",
+    "fun": "numerical_method_Q24262840_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "numerical method",
+      "lin": "AdjCN (PositA numerical_A) (UseN method_N)",
+      "status": true
+    }
+  },
+  "Q1720410": {
+    "cat": "MT",
+    "fun": "Hjelmslev's_theorem_Q1720410_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Hjelmslev's theorem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q1964995": {
+    "cat": "CN",
+    "fun": "set_operation_Q1964995_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "set operation",
+      "lin": "AdjCN (PastPartAP set_set_V) (UseN operation_N)",
+      "status": true
+    }
+  },
+  "Q2635526": {
+    "cat": "MT",
+    "fun": "moving_sofa_problem_Q2635526_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "moving sofa problem",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q47007735": {
+    "cat": "CN",
+    "fun": "set_of_integers_Q47007735_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "set of integers",
+      "lin": "NounPrepCN (UseN set_N) (PrepNP part_Prep (IndefPluralCN (UseN integer_N)))",
+      "status": true
+    }
+  },
+  "Q6538608": {
+    "cat": "MT",
+    "fun": "Li's_criterion_Q6538608_MT",
+    "lang": "Eng",
+    "status": false,
+    "Eng": {
+      "str": "Li's criterion",
+      "lin": "variants {}",
+      "status": false
+    }
+  },
+  "Q164321": {
+    "cat": "CN",
+    "fun": "law_of_cosines_Q164321_CN",
+    "lang": "Eng",
+    "status": true,
+    "Eng": {
+      "str": "law of cosines",
+      "lin": "NounPrepCN (UseN law_N) (PrepNP part_Prep (IndefPluralCN (UseN cosine_N)))",
+      "status": true
+    }
+  }
+}

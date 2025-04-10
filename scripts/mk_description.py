@@ -29,19 +29,22 @@ grammar = pgf.readPGF(GRAMMAR)
 
 
 
-city_functions = {f.split('_')[0]: f for f in grammar.functions}
+region_functions = {f.split('_')[0]: f for f in grammar.functions if f.endswith('_Region')}
+country_functions = {f.split('_')[0]: f for f in grammar.functions if f.endswith('_Country')}
 
 def city_description(country, property=None):
     if country:
         qid = country[len('http://www.wikidata.org/entity/'):]
-        if fun := city_functions.get(qid, None):
-            if property and fun:
-                fun = f'CityDescription ({property} city_Kind) (CountryLocation {fun})'
-            elif fun:
-                fun = f'CityDescription city_Kind (CountryLocation {fun})'
-            else:
-                fun = 'city_Kind'
-            return pgf.readExpr(fun)
+        fun = country_functions.get(qid)
+
+        if property and fun:
+            expr_str = f'CityDescription ({property} city_Kind) (CountryLocation {fun})'
+        elif fun:
+            expr_str = f'CityDescription city_Kind (CountryLocation {fun})'
+        else:
+            expr_str = 'city_Kind'
+
+        return pgf.readExpr(expr_str)
         
 
 def university_description(entity):
@@ -49,19 +52,16 @@ def university_description(entity):
 
     country_uri = props.get('country')
     country_qid = country_uri.split('/')[-1] if country_uri else None
-    country_fun = city_functions.get(country_qid)
+    country_fun = country_functions.get(country_qid)
 
     city_uri = props.get('location') 
     city_qid = city_uri.split('/')[-1] if city_uri else None
-    city_fun = city_functions.get(city_qid)
-
-    # inception = props.get('inception', '')
-    # year = inception.split('-')[0] if inception else ''
-    # attr_expr = f'(FoundedIn (mkYear (mkNumeral "{year}")))' if year else 'noAttr'
+    city_fun = region_functions.get(city_qid)
 
     inception = props.get('inception', '')
-    year = inception.split('-')[0] if inception else ''
-    attr_expr = 'FoundedIn' if year else 'noAttr'
+    # year = inception.split('-')[0] if inception else ''
+    # attr_expr = f'(FoundedIn "{year}")' if year else 'noAttr'
+    attr_expr = 'noAttr'
 
     if city_fun and country_fun:
         location_expr = f'(RegionCountryLocation {city_fun} {country_fun})'
@@ -80,11 +80,9 @@ def university_description(entity):
     elif is_private:
         kind_expr = f'(privateKind {kind_expr})'
 
-
     expr_str = f'UniversityDescription {kind_expr} {location_expr} {attr_expr}'
 
     return pgf.readExpr(expr_str)
-
 
 
 
