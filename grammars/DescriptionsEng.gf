@@ -43,10 +43,8 @@ lin
   UniversityDescription kind location attr =
     mkCN (mkCN kind location) attr ;
 
-
-
 oper
-  joinByComma : NP -> NP -> NP ;
+  joinByComma : NP -> NP -> NP  ;
   joinByComma = mkNP comma_Conj ;
 
   comma_Conj : Conj = and_Conj ** {s2 = bindComma} ;
