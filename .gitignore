@@ -1,0 +1,7 @@
+*.gfo
+*.pgf
+extraction/myenv/lib64
+extraction/myenv/bin/python3
+extraction/myenv/bin/python
+extraction/myenv/bin/python3.11
+extraction/morphodict
