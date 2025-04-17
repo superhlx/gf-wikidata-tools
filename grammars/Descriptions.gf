@@ -17,8 +17,6 @@ fun
   
   city_Kind : Kind ;
   capitalKind  : Kind -> Kind ; 
-  -- prefectureLevelKind : Kind -> Kind ;
-  -- bigKind : Kind -> Kind ;
 
   CityRegionCountryLocation : CityRegion -> Country -> Location ;
   CaptialCityCountryLocation   : Country -> Location ;  
