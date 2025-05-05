@@ -1,4 +1,4 @@
-abstract Descriptions = Countries, Region, Year, CityRegions ** {
+abstract Descriptions = Countries, Region, CityRegions ** {
 
 cat
   Description ;
@@ -29,8 +29,9 @@ fun
   RegionCountryLocation   : Region -> Country -> Location ;
   noLocation              : Location ;
 
-  FoundedIn : Year  -> Attribute ;
+  FoundedIn : Int  -> Attribute ;
   noAttr : Attribute ;
+  
 
 }
 
