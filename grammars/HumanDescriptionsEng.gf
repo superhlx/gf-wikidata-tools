@@ -1,4 +1,4 @@
-concrete HumanDescriptionsEng of HumanDescriptions = CountriesEng, NationalityEng **
+concrete HumanDescriptionsEng of HumanDescriptions = CountryEngUnified **
 
 open
   SyntaxEng,
@@ -19,11 +19,12 @@ lincat
   Person = {s : Str ; g : GenderParam} ;
   BirthAndDeathYears = Adv ;
   Bornplace = Adv ; 
-  Professions = N ; 
+  Professions = GenderParam => N ;
   Gender =  A ;
 
 
 lin
+
 
 -- constructor of person, contains name and gender
   PersonBuilding str gen = {s = str.s ; g = gen.g} ;
@@ -34,26 +35,18 @@ lin
   OnlyBorn b = ParadigmsEng.mkAdv ("(" ++ b.s ++ "– )") ;
   NoBirthOrDeath = ParadigmsEng.mkAdv ("") ; 
 
-  Male = mkA "male" ;
-  Female = mkA "female" ;
+
+  Bornin country = mkAdv (mkPrep "born in") country.s ;
+
+  Mathematician = table {
+              MaleParam => mkN "male mathematician" ; 
+              FemaleParam => mkN "female mathematician" ; 
+              UnknownParam => mkN "mathematician" } ;
 
 
-  Bornin country = mkAdv (mkPrep "born in") country ;
+  SameNationalityBuilding p c prof birthtime = mkCN (mkCN c.nationality (mkCN (prof ! p.g))) birthtime ;
 
-  Mathematician = mkN "mathematician" ;
+  DiffNationalityBuilding p c place prof birthtime = mkCN (mkCN (mkCN c.nationality (mkCN (prof ! p.g))) place) birthtime ;
 
-  SameNationalityBuilding p n prof birthtime =  
-
-    case p.g of
-        { MaleParam => mkCN (mkCN n (mkCN Male prof)) birthtime   ;
-        FemaleParam => mkCN (mkCN n (mkCN Female prof)) birthtime ;
-        UnknownParam => mkCN (mkCN n  prof) birthtime  } ;
-
-
-  DiffNationalityBuilding p n place prof birthtime =
-    case p.g of
-        { MaleParam => mkCN (mkCN (mkCN n (mkCN Male prof)) place) birthtime ;
-        FemaleParam => mkCN (mkCN (mkCN n (mkCN Female prof)) place) birthtime ;
-        UnknownParam => mkCN (mkCN (mkCN n prof) place) birthtime } ;
 
 }

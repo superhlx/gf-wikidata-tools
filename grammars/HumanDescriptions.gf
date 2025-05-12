@@ -1,4 +1,4 @@
-abstract HumanDescriptions = Countries, Nationality ** {
+abstract HumanDescriptions = Countries ** {
 
 cat
   Description ;
@@ -28,11 +28,9 @@ fun
 
   Mathematician : Professions ;
 
-  Male : Gender ;
-  Female : Gender ;
 
 -- 国籍、出生地，职业 职业先写个数学家
 
-  SameNationalityBuilding: Person -> Nationality -> Professions -> BirthAndDeathYears -> Description ;
-  DiffNationalityBuilding: Person -> Nationality -> Bornplace -> Professions -> BirthAndDeathYears -> Description ;
+  SameNationalityBuilding: Person -> Country -> Professions -> BirthAndDeathYears -> Description ;
+  DiffNationalityBuilding: Person -> Country -> Bornplace -> Professions -> BirthAndDeathYears -> Description ;
 }
