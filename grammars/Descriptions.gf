@@ -1,37 +1,38 @@
-abstract Descriptions = Countries, Region, CityRegions ** {
+abstract Descriptions = Countries, Cities, Provinces, CityKinds ** {
 
 cat
   Description ;
   Location ;
-  Kind ;
+  UniversityKinds ;
   Attribute ;
 
 
 flags startcat=Description ;
   
 fun
-  CityDescription : Kind -> Location -> Description ;
---- RegionCountryLocation : Region -> Country -> Location ;
-  UniversityDescription : Kind -> Location -> Attribute -> Description ;
-  
-  
-  city_Kind : Kind ;
-  capitalKind  : Kind -> Kind ; 
+-- common grammars
 
-  CityRegionCountryLocation : CityRegion -> Country -> Location ;
-  CaptialCityCountryLocation   : Country -> Location ;  
-
-  publicKind      : Kind -> Kind ;
-  privateKind     : Kind -> Kind ;
-
-  university_Kind : Kind ;
+  CityCountryLocation : City -> Country -> Location ;
+  ProvinceCountryLocation : Province -> Country -> Location ;
   CountryLocation         : Country -> Location ;
-  RegionCountryLocation   : Region -> Country -> Location ;
   noLocation              : Location ;
+  
+-- city grammars
+  capitalKind  : CityKinds ; 
+  ProvinceForCaptial : Province -> Country -> Description ;
+  CountryForCaptial : Country -> Description ;
+  CityDescription : CityKinds -> Location -> Description ;
+
+-- universiity grammars
+  university_Kind : UniversityKinds ;
+  publicKind      : UniversityKinds ;
+  privateKind     : UniversityKinds ;
+
+  UniversityDescription : UniversityKinds -> Location -> Attribute -> Description ;
 
   FoundedIn : Int  -> Attribute ;
   noAttr : Attribute ;
-  
+
 
 }
 

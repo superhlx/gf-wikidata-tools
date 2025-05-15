@@ -1,10 +1,11 @@
-concrete DescriptionsEng of Descriptions = CountriesEng, RegionEng, YearEng, CityRegionsEng **
+concrete DescriptionsEng of Descriptions = CountriesEng,  CitiesEng, ProvincesEng, CityKindsEng **
 
 open
   SyntaxEng,
   ParadigmsEng,
   (L = LexiconEng),
   ConstructorsEng,
+  SymbolicEng,
   Prelude
 
 in {
@@ -12,36 +13,33 @@ in {
 lincat
   Description = CN ;
   Location = Adv ;
-  Kind = CN ;
+  UniversityKinds = CN ;
   Attribute = Adv ;
 
 lin
+-- common grammars
 
-  city_Kind        = mkCN L.city_N ;
-  university_Kind  = mkCN (mkN "university") ;  
+  CityCountryLocation city country = SyntaxEng.mkAdv in_Prep (joinByComma city country.s) ;
+  ProvinceCountryLocation province country = SyntaxEng.mkAdv in_Prep (joinByComma province country.s) ; 
+  CountryLocation country = SyntaxEng.mkAdv in_Prep country.s ;
+  noLocation = ParadigmsEng.mkAdv "" ;
 
-
-  capitalKind k = mkCN (mkA "capital") k ;      
-  -- bigKind k     = mkCN (mkA "big") k ;         
-  publicKind k  = mkCN (mkA "public") k ;       
-  privateKind k = mkCN (mkA "private") k ;      
-
-  CaptialCityCountryLocation c = SyntaxEng.mkAdv (mkPrep "of") c ;
-    
-  CityRegionCountryLocation r c = SyntaxEng.mkAdv in_Prep (joinByComma r c) ;
-
-  CountryLocation country = SyntaxEng.mkAdv in_Prep country ;
-  RegionCountryLocation reg country = ConstructorsEng.mkAdv in_Prep (joinByComma reg country) ;
-
-  noLocation = SyntaxEng.mkAdv in_Prep (mkNP (mkN "unknown")) ;
-
-  FoundedIn year = mkAdv (mkPrep "founded in") year ;
-
-  noAttr = ParadigmsEng.mkAdv ""; 
-
+-- city grammars
+  capitalKind = mkN "capital" ;
+  ProvinceForCaptial province country = mkCN (mkN "capital") (SyntaxEng.mkAdv (mkPrep "of") (joinByComma province country.s)) ; 
+  CountryForCaptial country = mkCN (mkN "capital") (SyntaxEng.mkAdv (mkPrep "of") country.s) ;
   CityDescription kind location = mkCN kind location ;
-  UniversityDescription kind location attr =
-    mkCN (mkCN kind location) attr ;
+
+-- universiity grammars
+  university_Kind  = mkCN (mkN "university") ;  
+  publicKind   = mkCN (mkN "public university");       
+  privateKind  = mkCN (mkN "private university") ;    
+
+  UniversityDescription kind location attr = mkCN (mkCN kind location) attr ;
+
+  FoundedIn year = mkAdv (mkPrep "founded in") (symb year) ;
+  noAttr = ParadigmsEng.mkAdv ""; 
+  
 
 oper
   joinByComma : NP -> NP -> NP  ;
