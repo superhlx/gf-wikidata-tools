@@ -33,6 +33,16 @@ fun
   FoundedIn : Int  -> Attribute ;
   noAttr : Attribute ;
 
+-- island grammars
+
+
+
+-- lake grammars
+
+
+
+
+
 
 }
 

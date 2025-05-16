@@ -9,13 +9,16 @@ cat
   Bornplace;
   Gender;
 
-flags startcat=HumanDescription ;
+flags startcat=Description ;
   
 
 
 fun
 
   PersonBuilding : String -> HumanGender  -> Person ; 
+  Male : HumanGender;
+  Female : HumanGender;
+  Unknown : HumanGender;
 
   BornAndDied : Int -> Int -> BirthAndDeathYears ;
   OnlyBorn : Int -> BirthAndDeathYears ;

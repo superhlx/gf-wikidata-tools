@@ -38,7 +38,7 @@ lin
   UniversityDescription kind location attr = mkCN (mkCN kind location) attr ; 
 
   FoundedIn year = SyntaxChi.mkAdv (mkPrep "建立于") (symb (year.s ++ "年")) ;
-  noAttr = ParadigmsChi.mkAdv "" (ATPlace False) False ;
+  noAttr = ParadigmsChi.mkAdv "" (ATPlace False) True ;
 
  
 

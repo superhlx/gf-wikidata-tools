@@ -1,4 +1,4 @@
-concrete HumanDescriptionsChi of HumanDescriptions = CountryChiUnified **
+concrete HumanDescriptionsChi of HumanDescriptions = CountriesChi **
 
 open
   ParadigmsChi,
@@ -6,7 +6,8 @@ open
   (L = LexiconChi),
   ConstructorsChi,
   Prelude,
-  SymbolicChi
+  SymbolicChi,
+  ResChi
 
 
 in {
@@ -15,10 +16,10 @@ param
   GenderParam = MaleParam | FemaleParam | UnknownParam ;
 
 lincat
-  Description = NP ;
+  Description = CN ;
   HumanGender = {s : Str ; g : GenderParam} ;
   Person = {s : Str ; g : GenderParam} ;
-  BirthAndDeathYears = Symb ;
+  BirthAndDeathYears = Str ;
   Bornplace = Adv ; 
   Professions = GenderParam => N ;
   Gender =  A ;
@@ -29,12 +30,15 @@ lin
 
 -- constructor of person, contains name and gender
   PersonBuilding str gen = {s = str.s ; g = gen.g} ;
+  Male = {s= ""; g = MaleParam} ;
+  Female = {s= ""; g = FemaleParam} ;
+  Unknown = {s= ""; g = UnknownParam} ;
 
 -- constructor of bornday and deathday
-  BornAndDied b d = mkSymb ("(" ++ b.s ++ "–" ++ d.s ++ ")") ;
-  OnlyDied d = mkSymb ("( -" ++ d.s ++ ")") ;
-  OnlyBorn b = mkSymb ("(" ++ b.s ++ "– )") ;
-  NoBirthOrDeath = mkSymb "" ;
+  BornAndDied b d =  ("(" ++ b.s ++ "–" ++ d.s ++ ")") ;
+  OnlyDied d = ("( -" ++ d.s ++ ")") ;
+  OnlyBorn b = ("(" ++ b.s ++ "– )") ;
+  NoBirthOrDeath = "" ;
 
   Bornin country = mkAdv (mkPrep "出生于") country.s ;
 
@@ -44,8 +48,14 @@ lin
               UnknownParam => mkN "数学家" } ;
 
 
-  SameNationalityBuilding p n prof birthtime = symb theSg_Det (mkCN n.nationality (mkCN (prof ! p.g))) birthtime ;
+  SameNationalityBuilding p n prof birthtime = addYearsToCN (mkCN n.nationality (mkCN (prof ! p.g))) birthtime ;
 
-  DiffNationalityBuilding p n place prof birthtime = symb theSg_Det (mkCN (mkCN n.nationality (prof ! p.g)) place) birthtime ;
+  DiffNationalityBuilding p n place prof birthtime = mkCommaCN (addYearsToCN (mkCN n.nationality (prof ! p.g)) birthtime) place ;
 
+oper
+  mkCommaCN : CN -> Adv -> CN =
+  \cn,adv -> cn ** {s = cn.s ++ "，" ++ adv.s } ;
+
+  addYearsToCN : CN -> Str -> CN =
+  \cn,years -> cn ** {s = cn.s ++ " " ++ years } ;
 }

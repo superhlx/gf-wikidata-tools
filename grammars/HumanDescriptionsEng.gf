@@ -1,4 +1,4 @@
-concrete HumanDescriptionsEng of HumanDescriptions = CountryEngUnified **
+concrete HumanDescriptionsEng of HumanDescriptions = CountriesEng **
 
 open
   SyntaxEng,
