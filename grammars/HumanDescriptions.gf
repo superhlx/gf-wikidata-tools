@@ -30,9 +30,9 @@ fun
   Bornin : Country -> Bornplace ; 
 
   Mathematician : Professions ;
+  GenderFunction : Person -> Gender ;
 
-
--- 国籍、出生地，职业 职业先写个数学家
+-- 
 
   SameNationalityBuilding: Person -> Country -> Professions -> BirthAndDeathYears -> Description ;
   DiffNationalityBuilding: Person -> Country -> Bornplace -> Professions -> BirthAndDeathYears -> Description ;

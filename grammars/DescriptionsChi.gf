@@ -1,4 +1,4 @@
-concrete DescriptionsChi of Descriptions = CountriesChi,  CitiesChi, ProvincesChi, CityKindsChi **
+concrete DescriptionsChi of Descriptions = CountriesChi,  CitiesChi, ProvincesChi, CityKindsChi, WaterbodiesChi **
 
 open
   SyntaxChi,
@@ -16,6 +16,8 @@ lincat
   Location = Adv ;
   UniversityKinds = CN ;
   Attribute = Adv ;
+  IslandKinds = CN ;
+  WaterKinds = CN ;
 
 lin
 -- common grammars
@@ -40,11 +42,26 @@ lin
   FoundedIn year = SyntaxChi.mkAdv (mkPrep "建立于") (symb (year.s ++ "年")) ;
   noAttr = ParadigmsChi.mkAdv "" (ATPlace False) True ;
 
- 
+-- island grammars
+-- 某国某省的岛屿，位于某海
+  Island = mkCN (mkN "岛屿") ;
+  IslandDescription water kind location = mkCommaCN (NoWaterIslandDescription kind location) (mkAdv (mkPrep "位于") water) ;
+  NoWaterIslandDescription kind location = mkCN kind location ;
+
+-- lake grammars
+-- 某国某省的湖泊
+  Lake = mkCN (mkN "湖泊") ;
+  LakeDescription lake location = mkCN lake location ;
+
 
 oper
   np2adv : ResChi.NP -> Adv =
   \np -> ss (linNP np) ** {advType = ATPlace False ; hasDe = True ; lock_Adv = <>} ;
 
+  mkCommaCN : CN -> Adv -> CN =
+  \cn,adv -> cn ** {s = cn.s ++ "，" ++ adv.s } ;
+
+  addYearsToCN : CN -> Str -> CN =
+  \cn,years -> cn ** {s = cn.s ++ " " ++ years } ;
 
 }

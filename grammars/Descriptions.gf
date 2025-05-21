@@ -1,10 +1,13 @@
-abstract Descriptions = Countries, Cities, Provinces, CityKinds ** {
+abstract Descriptions = Countries, Cities, Provinces, CityKinds, Waterbodies ** {
 
 cat
   Description ;
   Location ;
   UniversityKinds ;
   Attribute ;
+  IslandKinds ;
+  WaterKinds ;
+
 
 
 flags startcat=Description ;
@@ -34,13 +37,16 @@ fun
   noAttr : Attribute ;
 
 -- island grammars
-
+-- island in province, country, located in water
+  Island : IslandKinds ;
+  IslandDescription : Waterbody -> IslandKinds -> Location -> Description ;
+  NoWaterIslandDescription : IslandKinds -> Location -> Description ;
 
 
 -- lake grammars
-
-
-
+-- water in province, country
+  Lake : WaterKinds ;
+  LakeDescription : WaterKinds -> Location -> Description ;
 
 
 

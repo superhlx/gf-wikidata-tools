@@ -1,4 +1,4 @@
-concrete DescriptionsEng of Descriptions = CountriesEng,  CitiesEng, ProvincesEng, CityKindsEng **
+concrete DescriptionsEng of Descriptions = CountriesEng,  CitiesEng, ProvincesEng, CityKindsEng, WaterbodiesEng **
 
 open
   SyntaxEng,
@@ -15,6 +15,8 @@ lincat
   Location = Adv ;
   UniversityKinds = CN ;
   Attribute = Adv ;
+  IslandKinds = CN ;
+  WaterKinds = CN ;
 
 lin
 -- common grammars
@@ -40,6 +42,15 @@ lin
   FoundedIn year = mkAdv (mkPrep "founded in") (symb year) ;
   noAttr = ParadigmsEng.mkAdv ""; 
   
+-- island grammars
+-- island in province, country, located in water
+  Island = mkCN (mkN "island") ;
+  IslandDescription water kind location = mkCN kind (mkAdv comma_Conj location (mkAdv (mkPrep "located in") water)) ;
+  NoWaterIslandDescription kind location = mkCN kind location ;
+-- lake grammars
+-- water in province, country
+  Lake = mkCN (mkN "lake") ;
+  LakeDescription lake location = mkCN lake location ;
 
 oper
   joinByComma : NP -> NP -> NP  ;

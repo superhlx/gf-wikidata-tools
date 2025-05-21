@@ -3,7 +3,7 @@ import json
 import pgf
 import re
 import requests
-
+from datetime import datetime
 
 GRAMMAR = '../grammars/Descriptions.pgf'
 
@@ -31,6 +31,8 @@ cities = extract_qid_functions("../grammars/Cities.gf", "City")
 city_kinds = extract_qid_functions("../grammars/CityKinds.gf", "CityKinds")
 provinces = extract_qid_functions("../grammars/Provinces.gf", "Province")
 countries = extract_qid_functions("../grammars/Countries.gf", "Country")
+waterbodies = extract_qid_functions("../grammars/Waterbodies.gf", "Waterbody")
+
 
 def get_wikidata_entity(qid):
     url = f'https://www.wikidata.org/wiki/Special:EntityData/{qid}.json'
@@ -74,7 +76,52 @@ def get_first_country_qid(entity):
     return country_qid
 
 # get the located province qid
+# def get_city_located_province_qid(entity, province_qids, country_qids):
+#     self_qid = entity.get('id')
+#     if self_qid in province_qids:
+#         return self_qid
+
+#     claims = entity.get('claims', {}).get('P131', [])
+#     for claim in claims:
+#         mainsnak = claim.get('mainsnak', {})
+#         datavalue = mainsnak.get('datavalue', {})
+#         value = datavalue.get('value', {})
+#         qid = value.get('id')
+
+#         if qid in country_qids:
+#             return None
+
+#         if qid in province_qids:
+#             return qid
+
+#     return None
+
 def get_city_located_province_qid(entity, province_qids, country_qids):
+    visited = set()
+    MAX_DEPTH = 5  # 防止无限递归
+    candidates = []
+
+    def _find_province(qid, depth):
+        if qid in visited or depth > MAX_DEPTH:
+            return
+        visited.add(qid)
+
+        if qid in province_qids:
+            candidates.append((qid, depth))
+            return
+        if qid in country_qids:
+            return
+
+        parent_entity = get_wikidata_entity(qid)
+        claims = parent_entity.get('claims', {}).get('P131', [])
+        for claim in claims:
+            mainsnak = claim.get('mainsnak', {})
+            datavalue = mainsnak.get('datavalue', {})
+            value = datavalue.get('value', {})
+            parent_qid = value.get('id')
+            if parent_qid:
+                _find_province(parent_qid, depth + 1)
+
     self_qid = entity.get('id')
     if self_qid in province_qids:
         return self_qid
@@ -85,31 +132,55 @@ def get_city_located_province_qid(entity, province_qids, country_qids):
         datavalue = mainsnak.get('datavalue', {})
         value = datavalue.get('value', {})
         qid = value.get('id')
+        if qid:
+            _find_province(qid, 1)
 
-        if qid in country_qids:
-            return None
-
-        if qid in province_qids:
-            return qid
-
+    if candidates:
+        # 取深度最小的那个省
+        candidates.sort(key=lambda x: x[1])
+        return candidates[0][0]
     return None
+
+
 
 # check if the city is capital
 def get_city_capital_of_qid_and_type(entity, province_qids, country_qids):
+    now = datetime.now().year
     claims = entity.get('claims', {})
     p1376_claims = claims.get('P1376', [])
+
     for claim in p1376_claims:
+        # === 判断时间是否仍有效 ===
+        qualifiers = claim.get('qualifiers', {})
+        start = qualifiers.get('P580', [])
+        end = qualifiers.get('P582', [])
+
+        def extract_year(time_obj):
+            try:
+                time_str = time_obj.get('datavalue', {}).get('value', {}).get('time', '')
+                return int(time_str[1:5]) if time_str else None
+            except:
+                return None
+
+        start_year = extract_year(start[0]) if start else None
+        end_year = extract_year(end[0]) if end else None
+
+        if (start_year and now < start_year) or (end_year and now > end_year):
+            continue  # 该断言不在当前年份范围内，跳过
+
+        # === 提取 QID 并判断类型 ===
         mainsnak = claim.get('mainsnak', {})
         datavalue = mainsnak.get('datavalue', {})
         value = datavalue.get('value', {})
         qid = value.get('id')
+
         if qid:
             if qid in country_qids:
                 return qid, 'country'
             elif qid in province_qids:
                 return qid, 'province'
-    return None, None
 
+    return None, None
 
 # get the located city qid
 # this function is recursive, it will find the city qid in the parent qids
@@ -192,6 +263,30 @@ def get_university_foundation_year(entity):
         if time_str and len(time_str) >= 5:
             return time_str[1:5]
     return None
+
+# waterbody
+def get_single_body_of_water_qid(entity):
+    claims = entity.get('claims', {})
+    p206_claims = claims.get('P206', [])
+
+    water_qids = set()
+    for claim in p206_claims:
+        mainsnak = claim.get('mainsnak', {})
+        datavalue = mainsnak.get('datavalue', {})
+        value = datavalue.get('value', {})
+        qid = value.get('id')
+        if qid:
+            water_qids.add(qid)
+
+    if len(water_qids) == 1:
+        return True, next(iter(water_qids))  
+    else:
+        return False, None
+
+
+
+
+
 
 def build_university_expr(entity):
     uni_type = get_university_type(entity, public_qids, private_qids)
@@ -279,6 +374,61 @@ def build_city_expr(entity):
     expr = pgf.readExpr(expr_str)
     return expr
 
+def build_island_expr(entity):
+    province_qids = set(provinces.keys())
+    country_qids = set(countries.keys())
+    waterbody_qids = set(waterbodies.keys())
+
+
+    has_one_water, water_qid = get_single_body_of_water_qid(entity)
+    print(f'[island] water_qid: {water_qid}')
+
+
+    province_qid = get_city_located_province_qid(entity, province_qids, country_qids)
+    country_qid = get_first_country_qid(entity)
+
+    if province_qid and province_qid in provinces and country_qid and country_qid in countries:
+        location_expr = f'(ProvinceCountryLocation {provinces[province_qid]} {countries[country_qid]})'
+    elif country_qid and country_qid in countries:
+        location_expr = f'(CountryLocation {countries[country_qid]})'
+    else:
+        location_expr = 'noLocation'
+
+
+    kind_expr = 'Island'  
+
+    if has_one_water and water_qid in waterbodies:
+        expr_str = f'IslandDescription {waterbodies[water_qid]} {kind_expr} {location_expr}'
+    else:
+        expr_str = f'NoWaterIslandDescription {kind_expr} {location_expr}'
+
+    print(f'[island] expr_str: {expr_str}')
+    expr = pgf.readExpr(expr_str)
+    return expr
+
+def build_lake_expr(entity):
+    province_qids = set(provinces.keys())
+    country_qids = set(countries.keys())
+
+    kind_expr = 'Lake'  # 默认所有 lake 都用同一个 WaterKinds 构造器
+
+    province_qid = get_city_located_province_qid(entity, province_qids, country_qids)
+    country_qid = get_first_country_qid(entity)
+
+    if province_qid and province_qid in provinces and country_qid and country_qid in countries:
+        location_expr = f'(ProvinceCountryLocation {provinces[province_qid]} {countries[country_qid]})'
+    elif country_qid and country_qid in countries:
+        location_expr = f'(CountryLocation {countries[country_qid]})'
+    else:
+        location_expr = 'noLocation'
+
+    expr_str = f'LakeDescription {kind_expr} {location_expr}'
+    print(f'[lake] expr_str: {expr_str}')
+    expr = pgf.readExpr(expr_str)
+    return expr
+
+
+
 
 def build_description(qid, entity_type):
     entity = get_wikidata_entity(qid)
@@ -286,8 +436,12 @@ def build_description(qid, entity_type):
         expr = build_university_expr(entity)
     elif entity_type == 'city':
         expr = build_city_expr(entity)
+    elif entity_type == 'island':
+        expr = build_island_expr(entity)
+    elif entity_type == 'lake':
+        expr = build_lake_expr(entity)
     else:
-        raise ValueError("不支持的类型")
+        raise ValueError("Error")
     desc_zh = chinese.linearize(expr)
     desc_en = english.linearize(expr)
     return desc_zh, desc_en

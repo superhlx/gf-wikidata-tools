@@ -41,16 +41,21 @@ lin
   NoBirthOrDeath = "" ;
 
   Bornin country = mkAdv (mkPrep "出生于") country.s ;
+  Mathematician = \\_ => mkN "数学家" ;
+  -- Mathematician = table {
+  --             MaleParam => mkN "男数学家" ; 
+  --             FemaleParam => mkN "女数学家" ; 
+  --             UnknownParam => mkN "数学家" } ;
 
-  Mathematician = table {
-              MaleParam => mkN "男数学家" ; 
-              FemaleParam => mkN "女数学家" ; 
-              UnknownParam => mkN "数学家" } ;
+  GenderFunction = \p -> case p.g of {
+    MaleParam   => mkA "男" True;
+    FemaleParam => mkA "女" True;
+    UnknownParam => mkA "" True 
+  } ;
 
+  SameNationalityBuilding p n prof birthtime = addYearsToCN (mkCN n.nationality (mkCN (GenderFunction p)(prof ! p.g))) birthtime ;
 
-  SameNationalityBuilding p n prof birthtime = addYearsToCN (mkCN n.nationality (mkCN (prof ! p.g))) birthtime ;
-
-  DiffNationalityBuilding p n place prof birthtime = mkCommaCN (addYearsToCN (mkCN n.nationality (prof ! p.g)) birthtime) place ;
+  DiffNationalityBuilding p n place prof birthtime = mkCommaCN (addYearsToCN (mkCN n.nationality (mkCN (GenderFunction p)(prof ! p.g))) birthtime) place ;
 
 oper
   mkCommaCN : CN -> Adv -> CN =
