@@ -20,9 +20,9 @@ fun
   Female : HumanGender;
   Unknown : HumanGender;
 
-  BornAndDied : Int -> Int -> BirthAndDeathYears ;
-  OnlyBorn : Int -> BirthAndDeathYears ;
-  OnlyDied : Int -> BirthAndDeathYears ;
+  BornAndDied : String -> String -> BirthAndDeathYears ;
+  OnlyBorn : String -> BirthAndDeathYears ;
+  OnlyDied : String -> BirthAndDeathYears ;
   NoBirthOrDeath : BirthAndDeathYears ;
 
 -- Nationality 在新文件定义

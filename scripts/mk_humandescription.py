@@ -5,13 +5,14 @@ import re
 import unicodedata
 from tqdm import tqdm
 
-# === 载入语法 ===
+# grammarloading
 GRAMMAR = '../grammars/HumanDescriptions.pgf'
 grammar = pgf.readPGF(GRAMMAR)
 chinese = grammar.languages['HumanDescriptionsChi']
 english = grammar.languages['HumanDescriptionsEng']
+bengali = grammar.languages['HumanDescriptionsBen']
 
-# === 历史国家归一映射 ===
+# maps for ancient to modern country names
 ancient_to_modern = {
     'Q43287_German_Empire_Country': 'Q183_Germany_Country',
     'Q29999_Kingdom_of_the_Netherlands_Country': 'Q55_Netherlands_Country',
@@ -164,7 +165,7 @@ ancient_to_modern = {
     "Q156199_Electorate_of_Saxony_Country": "Q183_Germany_Country" ,
     "Q12548_Holy_Roman_Empire_Country": "Q183_Germany_Country"}
 
-# === 所有国家函数（QID -> fun名） ===
+# get QID from URL
 def extract_qid_functions(filepath, typename):
     with open(filepath, encoding="utf-8-sig") as f:  # 自动去除 BOM
         text = f.read()
@@ -183,12 +184,12 @@ def get_country_fun_from_qid(qid):
     if not qid:
         return None
 
-    # 原始函数名
+    
     func_name = countries.get(qid)
     if not func_name:
         return None
 
-    # 尝试归一化
+    
     mapped = ancient_to_modern.get(func_name)
     if mapped:
         mapped_qid = mapped.split('_')[0]
@@ -301,7 +302,33 @@ def get_country_of_place_at_year(place_qid, year):
 
     return None
 
-def build_human_expr(entity):
+def build_year_expr(birth, death):
+    if birth and death:
+        return f'(BornAndDied "{birth}" "{death}")'
+    elif birth:
+        return f'(OnlyBorn "{birth}")'
+    elif death:
+        return f'(OnlyDied "{death}")'
+    else:
+        return 'NoBirthOrDeath'
+
+def english_to_bangla_number(input_str):
+    eng_to_bangla = {
+        '0': '০', '1': '১', '2': '২', '3': '৩', '4': '৪',
+        '5': '৫', '6': '৬', '7': '৭', '8': '৮', '9': '৯'
+    }
+    input_str = str(input_str)
+    return ''.join(eng_to_bangla.get(ch, ch) for ch in input_str)
+
+def build_bangla_year_expr(birth, death):
+    if birth:
+        birth = english_to_bangla_number(birth)
+    if death:
+        death = english_to_bangla_number(death)
+    return build_year_expr(birth, death)
+
+
+def build_human_expr(entity,language):
     name = get_name(entity)
 
     gender_str = get_gender_str(entity)
@@ -314,21 +341,16 @@ def build_human_expr(entity):
 
     birth = get_birth_year(entity)
     death = get_death_year(entity)
-    if birth and death:
-        year_expr = f'(BornAndDied "{birth}" "{death}")'
-    elif birth:
-        year_expr = f'(OnlyBorn "{birth}")'
-    elif death:
-        year_expr = f'(OnlyDied "{death}")'
+    if language == 'ben':
+        year_expr = build_bangla_year_expr(birth, death)
     else:
-        year_expr = 'NoBirthOrDeath'
+        year_expr = build_year_expr(birth, death)
 
-    # 原始 QID 不做拼接处理
+    
     citizenship_qid = get_citizenship_qid(entity)
     birthplace_qid = get_birthplace_qid(entity)
     birthplace_country_qid = get_country_of_place_at_year(birthplace_qid, birth) if birthplace_qid and birth else None
 
-    # 归一化和合法性检查全放在函数里
     citizenship_fun = get_country_fun_from_qid(citizenship_qid) or "UnknownCountry"
     birthplace_fun = get_country_fun_from_qid(birthplace_country_qid)
     birthplace_expr = f'(Bornin {birthplace_fun})' if birthplace_fun else None
@@ -351,10 +373,12 @@ if __name__ == "__main__":
     qid = sys.argv[1]
     try:
         entity = get_wikidata_entity(qid)
-        expr_str = build_human_expr(entity)
-        expr = pgf.readExpr(expr_str)
-        zh = chinese.linearize(expr)
-        en = english.linearize(expr)
+        # expr_str = build_human_expr(entity)
+        # expr = pgf.readExpr(expr_str)
+        zh = chinese.linearize(pgf.readExpr(build_human_expr(entity,"chi")))
+        en = english.linearize(pgf.readExpr(build_human_expr(entity,"eng")))
+        ben = bengali.linearize(pgf.readExpr(build_human_expr(entity,"ben")))
+        print("Bengali:", ben)
         print("中文：", zh)
         print("English:", en)
     except Exception as e:
