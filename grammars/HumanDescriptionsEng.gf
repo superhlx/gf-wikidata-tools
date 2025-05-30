@@ -1,4 +1,4 @@
-concrete HumanDescriptionsEng of HumanDescriptions = CountriesEng **
+concrete HumanDescriptionsEng of HumanDescriptions = CountriesEng, ProfessionsEng **
 
 open
   SyntaxEng,
@@ -6,12 +6,12 @@ open
   (L = LexiconEng),
   ConstructorsEng,
   Prelude,
-  SymbolicEng
+  SymbolicEng,
+  (C=ConjunctionEng)
 
 in {
   
-param 
-  GenderParam = MaleParam | FemaleParam | UnknownParam ;
+
 
 lincat
   Description = CN ;
@@ -19,7 +19,8 @@ lincat
   Person = {s : Str ; g : GenderParam} ;
   BirthAndDeathYears = Adv ;
   Bornplace = Adv ; 
-  Professions = GenderParam => N ;
+
+
   Gender =  A ;
 
 
@@ -40,7 +41,7 @@ lin
 
   Bornin country = mkAdv (mkPrep "born in") country.s ;
 
-  Mathematician = \\_ => mkN "mathematician" ;
+
 
   GenderFunction = \p -> case p.g of {
     MaleParam   => mkA "male" ;
@@ -57,5 +58,5 @@ lin
 
   DiffNationalityBuilding p c place prof birthtime = mkCN (mkCN (mkCN c.nationality (mkCN (GenderFunction p)(prof ! p.g))) place) birthtime ;
 
-
+  NationalityUnknown p prof birthtime = mkCN  (mkCN (GenderFunction p)(prof ! p.g)) birthtime ;
 }

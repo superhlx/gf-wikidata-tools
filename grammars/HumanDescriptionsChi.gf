@@ -1,4 +1,4 @@
-concrete HumanDescriptionsChi of HumanDescriptions = CountriesChi **
+concrete HumanDescriptionsChi of HumanDescriptions = CountriesChi, ProfessionsChi **
 
 open
   ParadigmsChi,
@@ -7,13 +7,13 @@ open
   ConstructorsChi,
   Prelude,
   SymbolicChi,
-  ResChi
+  ResChi,
+  (C=ConjunctionChi)
 
 
 in {
   
-param 
-  GenderParam = MaleParam | FemaleParam | UnknownParam ;
+
 
 lincat
   Description = CN ;
@@ -21,7 +21,6 @@ lincat
   Person = {s : Str ; g : GenderParam} ;
   BirthAndDeathYears = Str ;
   Bornplace = Adv ; 
-  Professions = GenderParam => N ;
   Gender =  A ;
 
 
@@ -41,11 +40,16 @@ lin
   NoBirthOrDeath = "" ;
 
   Bornin country = mkAdv (mkPrep "出生于") country.s ;
-  Mathematician = \\_ => mkN "数学家" ;
-  -- Mathematician = table {
-  --             MaleParam => mkN "男数学家" ; 
-  --             FemaleParam => mkN "女数学家" ; 
-  --             UnknownParam => mkN "数学家" } ;
+
+
+
+  
+  
+  -- \\_ => mkN "数学家" ;
+  -- -- Mathematician = table {
+  -- --             MaleParam => mkN "男数学家" ; 
+  -- --             FemaleParam => mkN "女数学家" ; 
+  -- --             UnknownParam => mkN "数学家" } ;
 
   GenderFunction = \p -> case p.g of {
     MaleParam   => mkA "男" True;
@@ -56,6 +60,8 @@ lin
   SameNationalityBuilding p n prof birthtime = addYearsToCN (mkCN n.nationality (mkCN (GenderFunction p)(prof ! p.g))) birthtime ;
 
   DiffNationalityBuilding p n place prof birthtime = mkCommaCN (addYearsToCN (mkCN n.nationality (mkCN (GenderFunction p)(prof ! p.g))) birthtime) place ;
+
+  NationalityUnknown p prof birthtime = addYearsToCN (mkCN (GenderFunction p)(prof ! p.g)) birthtime ;
 
 oper
   mkCommaCN : CN -> Adv -> CN =

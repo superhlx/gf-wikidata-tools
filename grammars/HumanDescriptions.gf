@@ -1,10 +1,10 @@
-abstract HumanDescriptions = Countries ** {
+abstract HumanDescriptions = Countries, Professions ** {
 
 cat
   Description ;
   Person ; 
   BirthAndDeathYears;
-  Professions; 
+
   HumanGender;
   Bornplace;
   Gender;
@@ -29,11 +29,12 @@ fun
 
   Bornin : Country -> Bornplace ; 
 
-  Mathematician : Professions ;
   GenderFunction : Person -> Gender ;
 
 -- 
 
-  SameNationalityBuilding: Person -> Country -> Professions -> BirthAndDeathYears -> Description ;
-  DiffNationalityBuilding: Person -> Country -> Bornplace -> Professions -> BirthAndDeathYears -> Description ;
+  SameNationalityBuilding: Person -> Country -> Profession -> BirthAndDeathYears -> Description ;
+  DiffNationalityBuilding: Person -> Country -> Bornplace -> Profession -> BirthAndDeathYears -> Description ;
+
+  NationalityUnknown : Person -> Profession -> BirthAndDeathYears -> Description ;
 }

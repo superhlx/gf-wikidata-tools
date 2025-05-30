@@ -457,5 +457,4 @@ lin Q85842461_Aleman_Country = mkCountry "未知" "未知" ;  -- no nationality 
 lin Q8680_British_Empire_Country = mkCountry "大英帝国" "大英帝国" ;  -- another british,historical
 lin Q12738_Neuchatel_Country = mkCountry "纳沙泰尔州" "纳沙泰尔州" ;  -- another swiss,historical
 lin Q245160_Democratic_Republic_of_Georgia_Country = mkCountry "格鲁吉亚民主共和国" "格鲁吉亚民主共和国" ;  -- another georgian,historical
-
 }
