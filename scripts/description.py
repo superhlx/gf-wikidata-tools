@@ -6,8 +6,6 @@ import requests
 from datetime import datetime
 
 GRAMMAR_PLACE = '../grammars/Descriptions.pgf'
-
-
 grammar_place = pgf.readPGF(GRAMMAR_PLACE)
 english_place = grammar_place.languages['DescriptionsEng']
 chinese_place = grammar_place.languages['DescriptionsChi']
@@ -17,6 +15,13 @@ grammar_human = pgf.readPGF(GRAMMAR_HUMAN)
 chinese_human = grammar_human.languages['HumanDescriptionsChi']
 english_human = grammar_human.languages['HumanDescriptionsEng']
 # bengali_human = grammar_human.languages['HumanDescriptionsBen']
+
+GRAMMAR_CREATURE = '../grammars/CreatureDescriptions.pgf'
+grammar_creature = pgf.readPGF(GRAMMAR_CREATURE)
+creature_eng = grammar_creature.languages['CreatureDescriptionsEng']
+creature_chi = grammar_creature.languages['CreatureDescriptionsChi']
+
+
 
 # dictionary of cities, city kinds, provinces, and countries
 
@@ -39,6 +44,8 @@ provinces = extract_qid_functions("../grammars/Provinces.gf", "Province")
 countries = extract_qid_functions("../grammars/Countries.gf", "Country")
 waterbodies = extract_qid_functions("../grammars/Waterbodies.gf", "Waterbody")
 professions = extract_qid_functions("../grammars/Professions.gf", "Profession")
+families = extract_qid_functions("../grammars/Family.gf", "Family")
+genera = extract_qid_functions("../grammars/Genus.gf", "Genus")
 
 
 # maps for ancient to modern country names
@@ -241,6 +248,8 @@ def get_entity_type(entity):
         return 'island'
     if is_type_via_sparql(qid, 'Q23397'):
         return 'lake'
+    if is_type_via_sparql(qid, 'Q16521'):   
+        return 'taxon'
     # Add more types if needed
     return 'unknown'
 
@@ -672,10 +681,57 @@ def build_profession_expr(prof_qids):
         return f"ConjProfession (ConsProfession {prof_funs[0]} (BaseProfession {prof_funs[1]} {prof_funs[2]}))"
 
 
+def find_nearest_taxon_qid(qid, dict_):
+    visited = set()
+    while qid and qid not in dict_ and qid not in visited:
+        visited.add(qid)
+        entity = get_wikidata_entity(qid)
+        claims = entity.get('claims', {})
+        p171_claims = claims.get('P171', [])
+        if not p171_claims:
+            return None
+        qid = p171_claims[0].get('mainsnak', {}).get('datavalue', {}).get('value', {}).get('id')
+    return qid if qid in dict_ else None
+
+def build_species_description_expr(species_entity):
+
+    claims = species_entity.get('claims', {})
+    p171_claims = claims.get('P171', [])
+    if not p171_claims:
+        raise ValueError("No parent taxon for this species")
+
+    parent_qid = p171_claims[0].get('mainsnak', {}).get('datavalue', {}).get('value', {}).get('id')
+    genus_qid = find_nearest_taxon_qid(parent_qid, genera)
+    if not genus_qid:
+        raise ValueError("No genus found for this species")
+    family_qid = find_nearest_taxon_qid(genus_qid, families)
+    if not family_qid:
+        raise ValueError("No family found for this species")
+    expr_str = f'SpeciesDescriptionBuilding {genera[genus_qid]} {families[family_qid]}'
+    expr = pgf.readExpr(expr_str)
+    return expr
+
+def build_genus_description_expr(genus_entity):
+
+    claims = genus_entity.get('claims', {})
+    p171_claims = claims.get('P171', [])
+    if not p171_claims:
+        raise ValueError("No parent taxon for this genus")
+    parent_qid = p171_claims[0].get('mainsnak', {}).get('datavalue', {}).get('value', {}).get('id')
+    family_qid = find_nearest_taxon_qid(parent_qid, families)
+    if not family_qid:
+        raise ValueError("No family found for this genus")
+    expr_str = f'GenusDescriptionBuilding {families[family_qid]}'
+    expr = pgf.readExpr(expr_str)
+    return expr
 
 
-
-
+def get_taxon_rank_qid(entity):
+    claims = entity.get('claims', {})
+    p105_claims = claims.get('P105', [])
+    if not p105_claims:
+        return None
+    return p105_claims[0].get('mainsnak', {}).get('datavalue', {}).get('value', {}).get('id')
 
 
 def build_university_expr(entity):
@@ -800,7 +856,7 @@ def build_lake_expr(entity):
     province_qids = set(provinces.keys())
     country_qids = set(countries.keys())
 
-    kind_expr = 'Lake'  # 默认所有 lake 都用同一个 WaterKinds 构造器
+    kind_expr = 'Lake'  
 
     province_qid = get_city_located_province_qid(entity, province_qids, country_qids)
     country_qid = get_first_country_qid(entity)
@@ -867,17 +923,21 @@ def build_human_expr(entity, language):
         print(f"[build_human_expr] DiffNationalityBuilding: {result}")
         return result
 
-
+def get_label(entity, lang='en'):
+    return entity.get('labels', {}).get(lang, {}).get('value', '')
 
 def build_description(qid):
     """
     Build description for a given QID.
     Automatically detect entity type and dispatch to the corresponding builder.
-    Returns: (zh, en, ben) where ben is None if not supported.
+    Returns: (name_zh, name_en, zh, en) 
     """
     entity = get_wikidata_entity(qid)
     entity_type = get_entity_type(entity)
-    
+    name = get_name(entity)
+    name_zh = get_label(entity, 'zh') or name
+    name_en = get_label(entity, 'en') or name   
+
     if entity_type == 'human':
         expr_str = build_human_expr(entity, "chi")
         expr = pgf.readExpr(expr_str)
@@ -885,37 +945,51 @@ def build_description(qid):
         expr_str = build_human_expr(entity, "eng")
         expr = pgf.readExpr(expr_str)
         en = english_human.linearize(expr)
-        # expr_str = build_human_expr(entity, "ben")
-        # expr = pgf.readExpr(expr_str)
-        # ben = bengali_human.linearize(expr)
-        return zh, en
+        return name_zh, name_en, zh, en
 
     elif entity_type == 'university':
         expr = build_university_expr(entity)
         zh = chinese_place.linearize(expr)
         en = english_place.linearize(expr)
-        return zh, en, None
+        return name_zh, name_en, zh, en
 
     elif entity_type == 'city':
         expr = build_city_expr(entity)
         zh = chinese_place.linearize(expr)
         en = english_place.linearize(expr)
-        return zh, en, None
+        return name_zh, name_en, zh, en
 
     elif entity_type == 'island':
         expr = build_island_expr(entity)
         zh = chinese_place.linearize(expr)
         en = english_place.linearize(expr)
-        return zh, en, None
+        return name_zh, name_en, zh, en
 
     elif entity_type == 'lake':
         expr = build_lake_expr(entity)
         zh = chinese_place.linearize(expr)
         en = english_place.linearize(expr)
-        return zh, en, None
+        return name_zh, name_en, zh, en
+    
+    elif entity_type == 'taxon':  # instance of: taxon
+        rank_qid = get_taxon_rank_qid(entity)
+        if rank_qid == 'Q7432':  # species
+            expr = build_species_description_expr(entity)
+            zh = creature_chi.linearize(expr)
+            en = creature_eng.linearize(expr)
+            return name_zh, name_en, zh, en
+        elif rank_qid == 'Q34740':  # genus
+            expr = build_genus_description_expr(entity)
+            zh = creature_chi.linearize(expr)
+            en = creature_eng.linearize(expr)
+            return name_zh, name_en, zh, en
+        else:
+            # 其它 taxon，不处理/raise/可自定义
+            raise ValueError(f"Unsupported taxon rank QID: {rank_qid}")
 
     else:
         raise ValueError(f"Unsupported entity type: {entity_type}")
+
 
 if __name__ == "__main__":
     import sys
@@ -924,10 +998,10 @@ if __name__ == "__main__":
         sys.exit(1)
     qid = sys.argv[1]
     try:
-        zh, en = build_description(qid)
-        print("中文：", zh)
-        print("English:", en)
+        name_zh, name_en, zh, en = build_description(qid)
+        print(f"{name_zh}：{zh}")
+        print(f"{name_en}: {en}")
         # if ben:
-        #     print("Bengali:", ben)
+        #     print(f"{name_en} (Bengali): {ben}")
     except Exception as e:
         print(f"[ERROR] failed to process {qid}: {e}")

@@ -3614,7 +3614,7 @@ concrete ProfessionsChi of Professions = open SyntaxChi, ParadigmsChi, LexiconCh
     Q22298829_forensic_psychiatrist_Profession =  \\_ => mkCN (mkN "forensic psychiatrist") ; 
     Q2229927_kindergarten_teacher_Profession =  \\_ => mkCN (mkN "幼儿园老师") ; 
     Q223291_association_football_assistant_referee_Profession =  \\_ => mkCN (mkN "助理裁判员") ; 
-    Q22343421_narrator_Profession =  \\_ => mkCN (mkN "艺术家的声音") ; 
+    Q22343421_narrator_Profession =  \\_ => mkCN (mkN "旁白") ; 
     Q22343478_collagist_Profession =  \\_ => mkCN (mkN "collagist") ; 
     Q2235104_ship_chandler_Profession =  \\_ => mkCN (mkN "船用杂货商") ; 
     Q2235232_ship_mechanic_Profession =  \\_ => mkCN (mkN "ship mechanic") ; 
